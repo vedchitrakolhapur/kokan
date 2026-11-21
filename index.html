@@ -393,8 +393,6 @@
     .social-btn:active { transform: scale(0.92); }
     .sb-fb { background: #1877f2; }
     .sb-x  { background: #000000; }
-    .sb-gn { background: #ffffff; border: 1px solid #e5e7eb; padding: 7px; }
-    .sb-gn img { width: 100%; height: 100%; object-fit: contain; }
     .sb-yt { background: #ff0000; }
     .sb-ig { background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af); }
     .sb-wa { background: #25d366; }
@@ -434,7 +432,7 @@
       </div>
 
       <!-- E-Paper Banner -->
-      <a href="https://epaper.thegoan.net/reader/4223198/KONKANSAAD/kokansaad/page/1/1"
+      <a href="http://epaper.thegoan.net/t/37473/latest/KONKANSAAD"
          target="_blank" rel="noopener noreferrer" class="epaper-banner">
         <div class="epaper-left">
           <div class="epaper-icon"><i class="fa-solid fa-newspaper"></i></div>
@@ -502,19 +500,29 @@
       }
     });
 
-    // Fullscreen & Back Button Handling
+    // Fullscreen & Back Button Handling (फक्त बटण क्लिक केल्यावरच Full Screen + Landscape)
     const tvBox = document.getElementById('tv-box');
     const fsBtn = document.getElementById('fs-btn');
     let isFull = false;
 
-    function enterFullscreen() {
+    async function enterFullscreen() {
       if (isFull) return;
       isFull = true;
       tvBox.classList.add('is-fullscreen');
       fsBtn.textContent = '✕ बाहेर पडा';
       history.pushState({ tvFullscreen: true }, '');
-      if (tvBox.requestFullscreen) tvBox.requestFullscreen().catch(() => {});
-      else if (tvBox.webkitRequestFullscreen) tvBox.webkitRequestFullscreen();
+
+      try {
+        if (tvBox.requestFullscreen) {
+          await tvBox.requestFullscreen();
+        } else if (tvBox.webkitRequestFullscreen) {
+          tvBox.webkitRequestFullscreen();
+        }
+        // उभा मोबाईल असल्यास आडव्या (Landscape) मोडमध्ये लॉक करणे
+        if (screen.orientation && screen.orientation.lock) {
+          await screen.orientation.lock('landscape').catch(() => {});
+        }
+      } catch (e) {}
     }
 
     function exitFullscreen(fromPopstate = false) {
@@ -522,9 +530,21 @@
       isFull = false;
       tvBox.classList.remove('is-fullscreen');
       fsBtn.textContent = '⛶ Full Screen';
-      if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
-      else if (document.webkitFullscreenElement) document.webkitExitFullscreen();
-      if (!fromPopstate && history.state && history.state.tvFullscreen) history.back();
+
+      try {
+        if (screen.orientation && screen.orientation.unlock) {
+          screen.orientation.unlock();
+        }
+        if (document.fullscreenElement) {
+          document.exitFullscreen().catch(() => {});
+        } else if (document.webkitFullscreenElement) {
+          document.webkitExitFullscreen();
+        }
+      } catch (e) {}
+
+      if (!fromPopstate && history.state && history.state.tvFullscreen) {
+        history.back();
+      }
     }
 
     function toggleFullscreen() {
@@ -532,15 +552,11 @@
       else enterFullscreen();
     }
 
-    window.addEventListener('popstate', () => { if (isFull) exitFullscreen(true); });
-    document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement && isFull) exitFullscreen(); });
-    window.addEventListener('orientationchange', () => {
-      setTimeout(() => {
-        const isLandscape = window.innerWidth > window.innerHeight;
-        const homeVisible = document.getElementById('home-extras').style.display !== 'none';
-        if (isLandscape && homeVisible) enterFullscreen();
-        else if (!isLandscape && isFull) exitFullscreen();
-      }, 200);
+    window.addEventListener('popstate', () => {
+      if (isFull) exitFullscreen(true);
+    });
+    document.addEventListener('fullscreenchange', () => {
+      if (!document.fullscreenElement && isFull) exitFullscreen();
     });
 
     // State
