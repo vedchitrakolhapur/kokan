@@ -1,20 +1,22 @@
 import json
 import re
-import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 HOME_URL = "https://kokansadlive.com/kokan.html"
 KOKAN_ALL_URL = "https://kokansadlive.com/c/kokan"
-YOUTUBE_HANDLE_URL = "https://www.youtube.com/@KokansadLiveNews"
+YOUTUBE_VIDEOS_URL = "https://www.youtube.com/@KokansadLiveNews/videos"
 
 ALLOWED_CATEGORIES = [
     "लक्ष्यवेधी", "देश-विदेश", "महाराष्ट्र",
     "क्राईम", "मनोरंजन", "क्रीडा", "आरोग्य"
 ]
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9"
+}
 
 def scrape_kokan_all():
     """https://kokansadlive.com/c/kokan वरून सर्व ३० बातम्या काढते"""
@@ -43,55 +45,58 @@ def scrape_kokan_all():
 
     return items
 
+def find_video_renderers(obj, results):
+    """ytInitialData मधून क्रमाने सर्व videoRenderer शोधते"""
+    if isinstance(obj, dict):
+        if "videoRenderer" in obj:
+            results.append(obj["videoRenderer"])
+        else:
+            for v in obj.values():
+                find_video_renderers(v, results)
+    elif isinstance(obj, list):
+        for item in obj:
+            find_video_renderers(item, results)
+
 def scrape_youtube():
-    """@KokansadLiveNews चॅनलचे लेटेस्ट १५ व्हिडिओ काढते"""
+    """@KokansadLiveNews/videos वरून अगदी ताजे (Latest) १५ व्हिडिओ काढते"""
     videos = []
+    seen = set()
     try:
-        ch_res = requests.get(
-            YOUTUBE_HANDLE_URL,
+        res = requests.get(
+            YOUTUBE_VIDEOS_URL,
             headers=HEADERS,
             cookies={"CONSENT": "YES+cb"},
             timeout=15
         )
-        match = (
-            re.search(r'"channelId":"(UC[\w-]+)"', ch_res.text)
-            or re.search(r'channel_id=(UC[\w-]+)', ch_res.text)
-        )
+        match = re.search(r"var ytInitialData = (\{.*?\});</script>", res.text)
         if not match:
-            print("YouTube channel ID not found")
+            print("ytInitialData not found")
             return videos
 
-        channel_id = match.group(1)
-        feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-        feed_res = requests.get(feed_url, headers=HEADERS, timeout=15)
-        root = ET.fromstring(feed_res.content)
+        yt_data = json.loads(match.group(1))
+        renderers = []
+        find_video_renderers(yt_data, renderers)
 
-        ns = {
-            "atom": "http://www.w3.org/2005/Atom",
-            "yt": "http://www.youtube.com/xml/schemas/2015"
-        }
+        for vr in renderers:
+            vid_id = vr.get("videoId")
+            if not vid_id or vid_id in seen:
+                continue
 
-        for entry in root.findall("atom:entry", ns)[:15]:
-            vid_id_el = entry.find("yt:videoId", ns)
-            title_el = entry.find("atom:title", ns)
-            pub_el = entry.find("atom:published", ns)
+            title_runs = vr.get("title", {}).get("runs", [])
+            title = title_runs[0].get("text", "").strip() if title_runs else ""
+            pub_text = vr.get("publishedTimeText", {}).get("simpleText", "")
 
-            if vid_id_el is not None and title_el is not None:
-                vid_id = vid_id_el.text
-                pub_date = ""
-                if pub_el is not None and pub_el.text:
-                    try:
-                        dt = datetime.fromisoformat(pub_el.text.replace("Z", "+00:00"))
-                        pub_date = dt.strftime("%d %b %Y")
-                    except Exception:
-                        pub_date = pub_el.text[:10]
-
+            if title:
+                seen.add(vid_id)
                 videos.append({
-                    "title": title_el.text.strip(),
+                    "title": title,
                     "link": f"https://www.youtube.com/watch?v={vid_id}",
                     "image": f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg",
-                    "date": pub_date
+                    "date": pub_text
                 })
+
+            if len(videos) >= 15:
+                break
     except Exception as e:
         print("Error scraping YouTube:", e)
 
