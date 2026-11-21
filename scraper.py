@@ -3,15 +3,65 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-URL = "https://kokansadlive.com/kokan.html"
+HOME_URL = "https://kokansadlive.com/kokan.html"
+KOKAN_ALL_URL = "https://kokansadlive.com/c/kokan"
+
 ALLOWED_CATEGORIES = [
-    "लक्ष्यवेधी", "देश-विदेश", "महाराष्ट्र", 
+    "लक्ष्यवेधी", "देश-विदेश", "महाराष्ट्र",
     "क्राईम", "मनोरंजन", "क्रीडा", "आरोग्य"
 ]
 
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+
+def scrape_kokan_all():
+    """https://kokansadlive.com/c/kokan वरून सर्व बातम्या काढते"""
+    items = []
+    seen_links = set()
+    try:
+        res = requests.get(KOKAN_ALL_URL, headers=HEADERS, timeout=15)
+        res.encoding = "utf-8"
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        # पेजवरील सर्व बातम्यांचे कार्ड्स शोधणे
+        for a_tag in soup.find_all("a", href=True):
+            href = a_tag["href"]
+            if "/kokan/" not in href or href in seen_links:
+                continue
+
+            # लिंकच्या आत किंवा पालक घटकात इमेज आणि टायटल शोधणे
+            parent = a_tag.parent
+            img_tag = a_tag.find("img") or (parent.find("img") if parent else None)
+            
+            title_tag = (
+                a_tag.find(["h1", "h2", "h3", "h4", "h5", "h6"])
+                or a_tag
+            )
+            title = title_tag.get_text(" ", strip=True)
+
+            if not title or len(title) < 10:
+                continue
+
+            # तारीख शोधणे (असल्यास)
+            date_text = "कोकण"
+            if parent:
+                p_tag = parent.find("p")
+                if p_tag and len(p_tag.get_text(strip=True)) < 25:
+                    date_text = p_tag.get_text(strip=True)
+
+            seen_links.add(href)
+            items.append({
+                "title": title,
+                "link": href if href.startswith("http") else f"https://kokansadlive.com{href}",
+                "image": img_tag["src"] if img_tag and img_tag.get("src") else "",
+                "date": date_text
+            })
+    except Exception as e:
+        print("Error scraping /c/kokan:", e)
+
+    return items
+
 def scrape_news():
-    headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(URL, headers=headers, timeout=15)
+    response = requests.get(HOME_URL, headers=HEADERS, timeout=15)
     response.encoding = "utf-8"
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -20,37 +70,8 @@ def scrape_news():
         "categories": []
     }
 
-    # १. मुख्य सेक्शन: कोकण -> "ठळक बातम्या"
-    main_news = []
-    sec1 = soup.find("section", class_="section-1")
-    if sec1:
-        # मोठी मुख्य बातमी (Left Container)
-        left = sec1.find("div", class_="left-container")
-        if left:
-            a_tag = left.find("a", href=True)
-            img_tag = left.find("img")
-            title_tag = left.find("h1")
-            if a_tag and title_tag:
-                main_news.append({
-                    "title": title_tag.get_text(strip=True),
-                    "link": a_tag["href"],
-                    "image": img_tag["src"] if img_tag else "",
-                    "date": "ताज्या बातम्या"
-                })
-
-        # बाजूच्या ४ बातम्या (Right Container)
-        for card in sec1.select(".right-container .news"):
-            a_tag = card.find("a", href=True)
-            img_tag = card.find("img")
-            title_tag = card.find("h6")
-            if a_tag and title_tag:
-                main_news.append({
-                    "title": title_tag.get_text(strip=True),
-                    "link": a_tag["href"],
-                    "image": img_tag["src"] if img_tag else "",
-                    "date": "कोकण"
-                })
-
+    # १. मुख्य सेक्शन: /c/kokan मधील सर्व बातम्या ("ठळक बातम्या")
+    main_news = scrape_kokan_all()
     data["categories"].append({
         "name": "ठळक बातम्या",
         "items": main_news
