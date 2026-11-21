@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>ठळक बातम्या</title>
-  <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
     * {
       box-sizing: border-box;
@@ -18,8 +19,9 @@
       font-family: 'Mukta', sans-serif;
       background-color: #f4f6f9;
       color: #1a1a1a;
-      padding-bottom: 20px;
+      padding-bottom: 24px;
     }
+
     /* Sticky Category Tabs */
     .tabs-container {
       position: sticky;
@@ -52,11 +54,15 @@
       border-color: #0A0989;
     }
 
+    .container-wrap {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 12px;
+    }
+
     /* Live TV Wrapper */
     .tv-wrapper {
-      max-width: 800px;
-      margin: 12px auto 4px;
-      padding: 0 12px;
+      margin-top: 12px;
     }
     .tv-box {
       position: relative;
@@ -78,20 +84,17 @@
       top: 8px;
       right: 8px;
       z-index: 10;
-      display: flex;
-      gap: 6px;
     }
     .tv-btn {
-      background: rgba(0, 0, 0, 0.65);
+      background: rgba(0, 0, 0, 0.7);
       color: #fff;
-      border: 1px solid rgba(255,255,255,0.3);
+      border: 1px solid rgba(255,255,255,0.35);
       border-radius: 6px;
       padding: 4px 10px;
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
     }
-    /* Fullscreen Mode (CSS Fallback + Landscape) */
     .tv-box.is-fullscreen {
       position: fixed;
       inset: 0;
@@ -102,11 +105,64 @@
       z-index: 9999;
     }
 
+    /* E-Paper Attractive Banner */
+    .epaper-banner {
+      margin-top: 12px;
+      background: linear-gradient(135deg, #991b1b 0%, #dc2626 55%, #ea580c 100%);
+      border-radius: 14px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      color: #ffffff;
+      text-decoration: none;
+      box-shadow: 0 4px 14px rgba(220, 38, 38, 0.28);
+      transition: transform 0.15s ease;
+    }
+    .epaper-banner:active { transform: scale(0.98); }
+    .epaper-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .epaper-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.18);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+    .epaper-title {
+      font-size: 19px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: 0.2px;
+    }
+    .epaper-tagline {
+      font-size: 13px;
+      opacity: 0.92;
+      font-weight: 400;
+      margin-top: 2px;
+    }
+    .epaper-cta {
+      background: #ffffff;
+      color: #b91c1c;
+      padding: 7px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 700;
+      white-space: nowrap;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
     /* News Grid */
     .news-container {
-      max-width: 800px;
-      margin: 12px auto;
-      padding: 0 12px;
+      margin-top: 14px;
       display: grid;
       grid-template-columns: 1fr;
       gap: 12px;
@@ -130,7 +186,9 @@
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      background: #eaeaea;
+      background: linear-gradient(90deg, #e8eaed 25%, #f3f4f6 50%, #e8eaed 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
     }
     .news-content {
       padding: 10px 12px 12px;
@@ -147,35 +205,295 @@
       color: #777;
       font-weight: 600;
     }
-    .loader {
-      text-align: center;
-      padding: 40px;
-      font-size: 16px;
-      color: #666;
+
+    /* Skeleton Loader */
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
     }
+    .skeleton-card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    .skeleton-img {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+    }
+    .skeleton-body { padding: 12px; }
+    .skeleton-line {
+      height: 14px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+      background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+    }
+    .skeleton-line.short { width: 65%; }
+    .skeleton-line.tiny { width: 35%; height: 10px; margin-bottom: 0; }
+
+    /* Pagination */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 16px;
+    }
+    .page-btn {
+      min-width: 36px;
+      height: 36px;
+      padding: 0 12px;
+      border-radius: 8px;
+      border: 1px solid #d1d5db;
+      background: #ffffff;
+      color: #333;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .page-btn.active {
+      background: #0A0989;
+      color: #ffffff;
+      border-color: #0A0989;
+    }
+    .page-btn:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
+    /* YouTube Section (Distinct Dark Background) */
+    .yt-section {
+      margin-top: 22px;
+      background: linear-gradient(160deg, #18181b 0%, #27272a 100%);
+      border-radius: 16px;
+      padding: 16px 14px;
+      color: #ffffff;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    }
+    .yt-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+    .yt-heading {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .yt-heading i { color: #ff0000; font-size: 22px; }
+    .yt-more {
+      font-size: 13px;
+      color: #fca5a5;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .yt-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+    @media (min-width: 600px) {
+      .yt-list { grid-template-columns: 1fr 1fr; }
+    }
+    .yt-card {
+      display: flex;
+      flex-direction: column;
+      background: #303036;
+      border-radius: 12px;
+      overflow: hidden;
+      text-decoration: none;
+      color: #fff;
+      transition: transform 0.15s ease;
+    }
+    .yt-card:active { transform: scale(0.98); }
+    .yt-thumb-wrap {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #111;
+    }
+    .yt-thumb-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .yt-play-badge {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 46px;
+      height: 32px;
+      background: rgba(255, 0, 0, 0.9);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 14px;
+    }
+    .yt-info { padding: 10px 12px; }
+    .yt-title {
+      font-size: 15px;
+      line-height: 1.35;
+      font-weight: 600;
+      color: #f4f4f5;
+      margin-bottom: 4px;
+    }
+    .yt-date { font-size: 12px; color: #a1a1aa; }
+    .yt-section .page-btn {
+      background: #3f3f46;
+      border-color: #52525b;
+      color: #f4f4f5;
+    }
+    .yt-section .page-btn.active {
+      background: #dc2626;
+      border-color: #dc2626;
+      color: #fff;
+    }
+
+    /* Bottom Social & Links */
+    .bottom-links-box {
+      margin-top: 24px;
+      padding: 18px 12px 6px;
+      text-align: center;
+      border-top: 1px solid #e5e7eb;
+    }
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .social-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 18px;
+      text-decoration: none;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+      transition: transform 0.15s ease;
+    }
+    .social-btn:active { transform: scale(0.92); }
+    .sb-fb { background: #1877f2; }
+    .sb-x  { background: #000000; }
+    .sb-gn { background: #ffffff; border: 1px solid #e5e7eb; padding: 7px; }
+    .sb-gn img { width: 100%; height: 100%; object-fit: contain; }
+    .sb-yt { background: #ff0000; }
+    .sb-ig { background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af); }
+    .sb-wa { background: #25d366; }
+
+    .policy-links {
+      font-size: 13px;
+      color: #6b7280;
+    }
+    .policy-links a {
+      color: #374151;
+      text-decoration: none;
+      font-weight: 600;
+      margin: 0 6px;
+    }
+    .policy-links a:hover { color: #0A0989; }
   </style>
 </head>
 <body>
 
   <div class="tabs-container" id="tabs"></div>
 
-  <!-- Live TV Section -->
-  <div class="tv-wrapper" id="tv-wrapper">
-    <div class="tv-box" id="tv-box">
-      <div class="tv-controls">
-        <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
+  <div class="container-wrap">
+    <!-- Live TV + E-Paper (फक्त ठळक बातम्या टॅबवर) -->
+    <div id="home-extras">
+      <div class="tv-wrapper">
+        <div class="tv-box" id="tv-box">
+          <div class="tv-controls">
+            <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
+          </div>
+          <iframe
+            id="live-tv-frame"
+            src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
+            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+        </div>
       </div>
-      <iframe
-        id="live-tv-frame"
-        src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
-        allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-        allowfullscreen>
-      </iframe>
-    </div>
-  </div>
 
-  <div class="news-container" id="news-list">
-    <div class="loader">बातम्या लोड होत आहेत...</div>
+      <!-- E-Paper Banner -->
+      <a href="https://epaper.thegoan.net/reader/4223198/KONKANSAAD/kokansaad/page/1/1"
+         target="_blank" rel="noopener noreferrer" class="epaper-banner">
+        <div class="epaper-left">
+          <div class="epaper-icon"><i class="fa-solid fa-newspaper"></i></div>
+          <div>
+            <div class="epaper-title">दैनिक कोकणसाद</div>
+            <div class="epaper-tagline">स्वतंत्र, विश्वासार्ह आणि सडेतोड</div>
+          </div>
+        </div>
+        <div class="epaper-cta">आजचा अंक वाचा &rarr;</div>
+      </a>
+    </div>
+
+    <!-- News List + Pagination -->
+    <div class="news-container" id="news-list"></div>
+    <div class="pagination" id="news-pagination"></div>
+
+    <!-- YouTube Videos Section (फक्त ठळक बातम्या खाली) -->
+    <div class="yt-section" id="yt-section" style="display:none;">
+      <div class="yt-header">
+        <div class="yt-heading">
+          <i class="fa-brands fa-youtube"></i>
+          <span>कोकणसाद LIVE व्हिडिओज</span>
+        </div>
+        <a href="https://www.youtube.com/@KokansadLiveNews/videos" target="_blank" rel="noopener noreferrer" class="yt-more">
+          सर्व पहा &rarr;
+        </a>
+      </div>
+      <div class="yt-list" id="yt-list"></div>
+      <div class="pagination" id="yt-pagination"></div>
+    </div>
+
+    <!-- Bottom Social Media & Links -->
+    <div class="bottom-links-box">
+      <div class="social-icons">
+        <a href="https://www.facebook.com/kokansadlive" target="_blank" rel="noopener noreferrer" class="social-btn sb-fb" aria-label="Facebook">
+          <i class="fa-brands fa-facebook-f"></i>
+        </a>
+        <a href="https://www.twitter.com/kokansadlive" target="_blank" rel="noopener noreferrer" class="social-btn sb-x" aria-label="X">
+          <i class="fa-brands fa-x-twitter"></i>
+        </a>
+        <a href="https://news.google.com/s/CBIw_cu0zb0B?sceid=IN:mr&sceid=IN:mr&r=0&oc=1" target="_blank" rel="noopener noreferrer" class="social-btn sb-gn" aria-label="Google News">
+          <img src="https://kokansadlive.com/images/GoogleNews.png" alt="Google News">
+        </a>
+        <a href="https://www.youtube.com/@KokansadLiveNews/videos" target="_blank" rel="noopener noreferrer" class="social-btn sb-yt" aria-label="YouTube">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+        <a href="https://www.instagram.com/kokansadlive/" target="_blank" rel="noopener noreferrer" class="social-btn sb-ig" aria-label="Instagram">
+          <i class="fa-brands fa-instagram"></i>
+        </a>
+        <a href="https://whatsapp.com/channel/0029VaAq0GI4Y9lsqlvumu1p" target="_blank" rel="noopener noreferrer" class="social-btn sb-wa" aria-label="WhatsApp">
+          <i class="fa-brands fa-whatsapp"></i>
+        </a>
+      </div>
+      <div class="policy-links">
+        <a href="https://kokansadlive.com/about_us.php" target="_blank" rel="noopener noreferrer">About Us</a> |
+        <a href="https://kokansadlive.com/contact_us.php" target="_blank" rel="noopener noreferrer">Contact Us</a> |
+        <a href="https://kokansadlive.com/privacy_policy.php" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+      </div>
+    </div>
   </div>
 
   <script>
@@ -187,6 +505,7 @@
       }
     });
 
+    // Fullscreen & Back Button Handling
     const tvBox = document.getElementById('tv-box');
     const fsBtn = document.getElementById('fs-btn');
     let isFull = false;
@@ -196,13 +515,9 @@
       isFull = true;
       tvBox.classList.add('is-fullscreen');
       fsBtn.textContent = '✕ बाहेर पडा';
-      // Back Button हाताळण्यासाठी history मध्ये state जोडणे
       history.pushState({ tvFullscreen: true }, '');
-      if (tvBox.requestFullscreen) {
-        tvBox.requestFullscreen().catch(() => {});
-      } else if (tvBox.webkitRequestFullscreen) {
-        tvBox.webkitRequestFullscreen();
-      }
+      if (tvBox.requestFullscreen) tvBox.requestFullscreen().catch(() => {});
+      else if (tvBox.webkitRequestFullscreen) tvBox.webkitRequestFullscreen();
     }
 
     function exitFullscreen(fromPopstate = false) {
@@ -210,14 +525,9 @@
       isFull = false;
       tvBox.classList.remove('is-fullscreen');
       fsBtn.textContent = '⛶ Full Screen';
-      if (document.fullscreenElement) {
-        document.exitFullscreen().catch(() => {});
-      } else if (document.webkitFullscreenElement) {
-        document.webkitExitFullscreen();
-      }
-      if (!fromPopstate && history.state && history.state.tvFullscreen) {
-        history.back();
-      }
+      if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+      else if (document.webkitFullscreenElement) document.webkitExitFullscreen();
+      if (!fromPopstate && history.state && history.state.tvFullscreen) history.back();
     }
 
     function toggleFullscreen() {
@@ -225,42 +535,52 @@
       else enterFullscreen();
     }
 
-    // मोबाईलचे Back Button दाबल्यावर Full Screen बंद करणे
-    window.addEventListener('popstate', () => {
-      if (isFull) exitFullscreen(true);
-    });
-
-    // सिस्टीममधून Fullscreen बंद केल्यास सिंक ठेवणे
-    document.addEventListener('fullscreenchange', () => {
-      if (!document.fullscreenElement && isFull) {
-        exitFullscreen();
-      }
-    });
-
-    // स्क्रीन आडवी (Landscape) केल्यास ऑटो Full Screen
+    window.addEventListener('popstate', () => { if (isFull) exitFullscreen(true); });
+    document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement && isFull) exitFullscreen(); });
     window.addEventListener('orientationchange', () => {
       setTimeout(() => {
         const isLandscape = window.innerWidth > window.innerHeight;
-        const tvVisible = document.getElementById('tv-wrapper').style.display !== 'none';
-        if (isLandscape && tvVisible) {
-          enterFullscreen();
-        } else if (!isLandscape && isFull) {
-          exitFullscreen();
-        }
+        const homeVisible = document.getElementById('home-extras').style.display !== 'none';
+        if (isLandscape && homeVisible) enterFullscreen();
+        else if (!isLandscape && isFull) exitFullscreen();
       }, 200);
     });
 
+    // State
     let allCategories = [];
+    let youtubeVideos = [];
+    let activeCatIndex = 0;
+    let currentNewsPage = 1;
+    let currentYtPage = 1;
+    const NEWS_PER_PAGE = 10;
+    const YT_PER_PAGE = 5;
+
+    function showSkeletons(count = 4) {
+      const listEl = document.getElementById('news-list');
+      listEl.innerHTML = Array(count).fill(`
+        <div class="skeleton-card">
+          <div class="skeleton-img"></div>
+          <div class="skeleton-body">
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line short"></div>
+            <div class="skeleton-line tiny"></div>
+          </div>
+        </div>
+      `).join('');
+    }
 
     async function loadNews() {
+      showSkeletons(4);
       try {
         const res = await fetch('news.json?t=' + new Date().getTime());
         const data = await res.json();
         allCategories = data.categories || [];
+        youtubeVideos = data.youtube || [];
         renderTabs();
-        if (allCategories.length > 0) renderNews(0);
+        if (allCategories.length > 0) renderNews(0, 1);
+        renderYouTube(1);
       } catch (err) {
-        document.getElementById('news-list').innerHTML = '<div class="loader">बातम्या लोड करण्यात अडचण आली.</div>';
+        document.getElementById('news-list').innerHTML = '<div style="text-align:center;padding:30px;color:#666;">बातम्या लोड करण्यात अडचण आली.</div>';
       }
     }
 
@@ -276,20 +596,31 @@
     function selectTab(index, btn) {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      // फक्त 'ठळक बातम्या' (index 0) वर Live TV दाखवा
-      document.getElementById('tv-wrapper').style.display = (index === 0) ? 'block' : 'none';
-      renderNews(index);
+      activeCatIndex = index;
+      const isHome = (index === 0);
+      document.getElementById('home-extras').style.display = isHome ? 'block' : 'none';
+      document.getElementById('yt-section').style.display = (isHome && youtubeVideos.length > 0) ? 'block' : 'none';
+      renderNews(index, 1);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    function renderNews(index) {
+    function renderNews(catIdx, page) {
+      currentNewsPage = page;
       const listEl = document.getElementById('news-list');
-      const items = allCategories[index].items;
-      if (!items || items.length === 0) {
-        listEl.innerHTML = '<div class="loader">या विभागात सध्या बातम्या उपलब्ध नाहीत.</div>';
+      const pagEl = document.getElementById('news-pagination');
+      const items = allCategories[catIdx]?.items || [];
+
+      if (items.length === 0) {
+        listEl.innerHTML = '<div style="text-align:center;padding:30px;color:#666;">या विभागात सध्या बातम्या उपलब्ध नाहीत.</div>';
+        pagEl.innerHTML = '';
         return;
       }
-      listEl.innerHTML = items.map(item => `
+
+      const totalPages = Math.ceil(items.length / NEWS_PER_PAGE);
+      const start = (page - 1) * NEWS_PER_PAGE;
+      const pageItems = items.slice(start, start + NEWS_PER_PAGE);
+
+      listEl.innerHTML = pageItems.map(item => `
         <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-card">
           <img src="${item.image}" alt="" class="news-img" loading="lazy">
           <div class="news-content">
@@ -298,6 +629,68 @@
           </div>
         </a>
       `).join('');
+
+      if (totalPages > 1) {
+        let html = `<button class="page-btn" ${page === 1 ? 'disabled' : ''} onclick="changeNewsPage(${page - 1})">&laquo; मागील</button>`;
+        for (let i = 1; i <= totalPages; i++) {
+          html += `<button class="page-btn ${i === page ? 'active' : ''}" onclick="changeNewsPage(${i})">${i}</button>`;
+        }
+        html += `<button class="page-btn" ${page === totalPages ? 'disabled' : ''} onclick="changeNewsPage(${page + 1})">पुढील &raquo;</button>`;
+        pagEl.innerHTML = html;
+      } else {
+        pagEl.innerHTML = '';
+      }
+    }
+
+    function changeNewsPage(page) {
+      renderNews(activeCatIndex, page);
+      document.getElementById('news-list').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function renderYouTube(page) {
+      const sectionEl = document.getElementById('yt-section');
+      const listEl = document.getElementById('yt-list');
+      const pagEl = document.getElementById('yt-pagination');
+
+      if (!youtubeVideos.length || activeCatIndex !== 0) {
+        sectionEl.style.display = 'none';
+        return;
+      }
+
+      sectionEl.style.display = 'block';
+      currentYtPage = page;
+      const totalPages = Math.ceil(youtubeVideos.length / YT_PER_PAGE);
+      const start = (page - 1) * YT_PER_PAGE;
+      const pageItems = youtubeVideos.slice(start, start + YT_PER_PAGE);
+
+      listEl.innerHTML = pageItems.map(v => `
+        <a href="${v.link}" target="_blank" rel="noopener noreferrer" class="yt-card">
+          <div class="yt-thumb-wrap">
+            <img src="${v.image}" alt="" loading="lazy">
+            <div class="yt-play-badge"><i class="fa-solid fa-play"></i></div>
+          </div>
+          <div class="yt-info">
+            <div class="yt-title">${v.title}</div>
+            <div class="yt-date">${v.date}</div>
+          </div>
+        </a>
+      `).join('');
+
+      if (totalPages > 1) {
+        let html = `<button class="page-btn" ${page === 1 ? 'disabled' : ''} onclick="changeYtPage(${page - 1})">&laquo;</button>`;
+        for (let i = 1; i <= totalPages; i++) {
+          html += `<button class="page-btn ${i === page ? 'active' : ''}" onclick="changeYtPage(${i})">${i}</button>`;
+        }
+        html += `<button class="page-btn" ${page === totalPages ? 'disabled' : ''} onclick="changeYtPage(${page + 1})">&raquo;</button>`;
+        pagEl.innerHTML = html;
+      } else {
+        pagEl.innerHTML = '';
+      }
+    }
+
+    function changeYtPage(page) {
+      renderYouTube(page);
+      document.getElementById('yt-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     loadNews();
