@@ -1,9 +1,99 @@
 {
-  "updated_at": "21 Nov 2026, 07:43 AM",
+  "updated_at": "21 Nov 2026, 03:25 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Konkan Railway Delay : कोकण रेल्वेचे वेळापत्रक कोलमडले",
+          "link": "https://kokansadlive.com/kokan/konkan-railway-delay-ltt-madgaon-konkan-kanya-jan-shatabdi/36138",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36138_pic_20261121.2036.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "यंदा कणकवली पर्यटन महोत्सव मोठ्या उत्साहात होणार",
+          "link": "https://kokansadlive.com/kokan/kankavli-tourism-festival-to-be-held-with-great-enthusiasm-this-year/36136",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36136_pic_20261121.2042.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Dodamarg News : रात्री बसस्थानकात पार्क केलेली एसटी सकाळी महामार्गावर",
+          "link": "https://kokansadlive.com/kokan/dodamarg-st-bus-highway-incident-45-litres-diesel-missing/36133",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36133_pic_20261121.1944.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "कै. डॉ. शरयू आसोलकर यांच्या नावे कविता पुरस्कार",
+          "link": "https://kokansadlive.com/kokan/poetry-award-in-the-name-of-the-late-dr-sharayu-asolkar/36131",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36131_pic_20261121.1911.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "MPSC Guidance Workshop : सिंधुदुर्गातील युवक आता प्रशासकीय सेवेत चमकणार",
+          "link": "https://kokansadlive.com/kokan/free-mpsc-guidance-workshop-kudal-170-students-nilesh-rane/36129",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36129_pic_20261121.1848.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Nitesh Rane : पंचायत समिती नूतन इमारतीचे पालकमंत्र्यांच्या हस्ते भूमिपूजन",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-panchayat-samiti-building-14-65-crore-fund/36128",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36128_pic_20261121.1828.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "... जेव्हा पालकमंत्री आपला ताफा थांबवायला सांगता",
+          "link": "https://kokansadlive.com/kokan/nitesh-rane-visits-advait-bake-house-sawantwadi-advait-nevgi/36127",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36127_pic_20261121.1822.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "सेवानिवृत्त शिक्षक उदय दिनदयाळ यांचे निधन",
+          "link": "https://kokansadlive.com/kokan/retired-teacher-uday-dindayal-passes-away/36125",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36125_pic_20261121.1736.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Kurli Devi Tripurari Pournima Festival 2026 : कुर्ली गावचा त्रिपुरारी पौर्णिमा उत्सव २४ नोव्हेंबरला",
+          "link": "https://kokansadlive.com/kokan/kurli-devi-tripurari-pournima-festival-2026-kurli-village-tripurari-pournima-festival-on-november-24/36123",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36123_pic_20261121.1618.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
+          "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "'क्लास १' अधिकारी घडण्यासाठी नगरसेवक मंदार शिरसाट यांचे सकारात्मक पाऊल",
+          "link": "https://kokansadlive.com/kokan/kudal-mumbai-university-competitive-exam-guidance-centre-demand/36120",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36120_pic_20261121.1357.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Chiplun Water Supply : चिपळुणात आता दिवसातून एकदाच पाणीपुरवठा",
+          "link": "https://kokansadlive.com/kokan/chiplun-water-supply-timings-changed-november-23/36119",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36119_pic_20261121.1350.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "तेंडोली येथे २४ नोव्हेंबर रोजी श्री देव रवळनाथ पंचायतनचा वार्षिक जत्रोत्सव",
+          "link": "https://kokansadlive.com/kokan/jatrotsav-shri-dev-ravalnath-panchayatan-held-tendoli-november-24/36117",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36117_pic_20261121.1333.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "कुडाळमध्ये लायन्स फेस्टिव्हलचे आयोजन",
+          "link": "https://kokansadlive.com/kokan/kudal-lions-festival-auto-expo-industrial-food-festival-2026/36116",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36116_pic_20261121.1328.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "आनंदी जीवनासाठी सत्संग आणि साधनेत सातत्य आवश्यक",
+          "link": "https://kokansadlive.com/kokan/importance-of-consistent-satsang-and-spiritual-practice-for-a-happy-life/36115",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36115_pic_20261121.1315.webp",
+          "date": "November 21, 2026"
+        },
         {
           "title": "दलित वस्ती सुधार योजनेचे निकष बदला",
           "link": "https://kokansadlive.com/kokan/devgad-dalit-vasti-development-scheme-fund-allocation-demand/36114",
@@ -93,102 +183,18 @@
           "link": "https://kokansadlive.com/kokan/devgad-pmay-housing-scheme-construction-irregularities/36095",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36095_pic_20261120.1727.webp",
           "date": "November 20, 2026"
-        },
-        {
-          "title": "Omkar Elephant Sindhudurg : ओटवणेत 'ओंकार'चा तांडव",
-          "link": "https://kokansadlive.com/kokan/omkar-elephant-damages-vehicles-otavane-sawantwadi/36093",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36093_pic_20261120.1702.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "सावंतवाडी पंचायत समितीच्या नवीन इमारतीचे २१ नोव्हेंबरला भूमिपूजन",
-          "link": "https://kokansadlive.com/kokan/sawantwadi-panchayat-samiti-new-building-groundbreakin/36091",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36091_pic_20261120.1626.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Nitesh Rane : कोकण रेल्वे प्रवाशांच्या गैरसोयी दूर करण्यासाठी केंद्र सरकार सकारात्मक",
-          "link": "https://kokansadlive.com/kokan/kankavli-railway-station-shelter-shed-lift-work-nitesh-rane/36090",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36090_pic_20261120.1621.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Sindhudurg Congress : सिंधुदुर्गात अल्पसंख्याक काँग्रेसच्या संघटनात्मक बळकटीकरणासाठी बैठक",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-congress-minority-wing-meeting-yasir-arafat-bubare/36089",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36089_pic_20261120.1611.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "अधिकारी गैरहजर, प्रतिनिधींची हजेरी नको",
-          "link": "https://kokansadlive.com/kokan/vaibhavwadi-panchayat-samiti-meeting-chairman-siddhesh-ravrane/36088",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36088_pic_20261120.1548.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Konkan Railway : सिंधुदुर्ग रेल्वे स्थानकावर वातानुकूलित कक्ष प्रवाशांच्या सेवेत दाखल",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-railway-station-ac-waiting-room-nilesh-rane/36087",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36087_pic_20261120.1404.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "ग्रामीण भागातील मूलभूत सुविधांच्या विकासाला प्राधान्य",
-          "link": "https://kokansadlive.com/kokan/prioritizing-development-of-basic-infrastructure-in-rural-areas/36086",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36086_pic_20261120.1353.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "जेसीआय सावंतवाडीच्या २०२७ च्या नेतृत्वाची घोषणा",
-          "link": "https://kokansadlive.com/kokan/announcement-jci-sawantwadi-leadership-for-2027/36084",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36084_pic_20261120.1244.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "24 नोव्हेंबरला सावंतवाडीत रंगणार ‘हे चांदणे फुलांनी’ सुरेल संगीत मैफल'",
-          "link": "https://kokansadlive.com/kokan/he-chandane-phulanni-melodious-musical-concert-in-sawantwadi/36083",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36083_pic_20261120.1242.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "सशस्त्र दरोडेखोराला धाडसानं पकडलेल्या नागरिकांचा एसपींकडून सन्मान",
-          "link": "https://kokansadlive.com/kokan/citizens-honored-by-sp-for-bravely-apprehending-armed-robber/36082",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36082_pic_20261120.1152.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "तन्वी चांदोस्कर यांची ‘लोकनेत्री’च्या पहिल्या गटात निवड",
-          "link": "https://kokansadlive.com/kokan/tanvi-chandoskar-selected-in-first-group-of-loknetri/36081",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36081_pic_20261120.1134.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "अणसुर ग्रामपंचायतचे यश उल्लेखनीय : सुजता पडवळ",
-          "link": "https://kokansadlive.com/kokan/ansur-grampanchayat-success-notable-sujata-padwal/36080",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36080_pic_20261120.1117.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Sindhudurg Drought Management Plan : टंचाई आराखड्याची टप्प्याटप्प्याने अंमलबजावणी करा",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-drought-management-water-scarcity-funds-nitesh-rane/36078",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36078_pic_20261119.2048.webp",
-          "date": "November 19, 2026"
-        },
-        {
-          "title": "Marine Courses in Sindhudurg ITI : जहाज बांधणी, बंदर विकासासाठी सिंधुदुर्गात कौशल्याधारित अभ्यासक्रम सुरू करणार",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-iti-marine-engine-fitter-marine-fitter-courses-nitesh-rane/36077",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36077_pic_20261119.2034.webp",
-          "date": "November 19, 2026"
-        },
-        {
-          "title": "अनुकंपा तत्त्वावरील पात्र उमेदवारास पालकमंत्री नितेश राणेंच्या हस्ते नियुक्तीपत्र प्रदान",
-          "link": "https://kokansadlive.com/kokan/nitesh-rane-compassionate-appointment-shailesh-newalkar-sindhudurg/36076",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36076_pic_20261119.2025.webp",
-          "date": "November 19, 2026"
         }
       ]
     },
     {
       "name": "लक्ष्यवेधी",
       "items": [
+        {
+          "title": "होय, आमच्या TRP चा आकडा बोलतो !",
+          "link": "https://kokansadlive.com/lakshavedi/ho-amchya-trp-cha-aakda-bolto/36137",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36137_pic_20261121.2025.webp",
+          "date": "20:19"
+        },
         {
           "title": "धूप-कापूर, मोर अन् कोंबड्याचं गूढ! कोकणात धुमाकूळ घालतोय ‘महामारी विशुचिका’ नाट्यप्रयोग",
           "link": "https://kokansadlive.com/lakshavedi/mahamari-vishuchika-dashavatar-natak-konkan-40-shows/36011",
@@ -242,18 +248,18 @@
           "link": "https://kokansadlive.com/lakshavedi/sindhudurg-bank-dalvi-era-strengthening-rural-economy-backbone/35415",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35415_pic_20261030.1504.webp",
           "date": "Oct 30"
-        },
-        {
-          "title": "Daman Development Model : निसर्गसंपत्ती सिंधुदुर्गकडे, विकासाचे मॉडेल दमणकडे!",
-          "link": "https://kokansadlive.com/lakshavedi/daman-development-model-sindhudurg-tourism/35389",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35389_pic_20261029.1806.webp",
-          "date": "Oct 29"
         }
       ]
     },
     {
       "name": "देश-विदेश",
       "items": [
+        {
+          "title": "Indian Railways Rule : रेल्वे प्रवाशांनो सावधान! रेल्वेमध्ये मोठ्या आवाजात फोनवर बोलल्यास दंड अन् शिक्षेची तरतूद",
+          "link": "https://kokansadlive.com/national-international/indian-railways-loud-phone-calls-music-fine-rule/36124",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36124_pic_20261121.1714.webp",
+          "date": "17:09"
+        },
         {
           "title": "Hattarwad One Village One Tulsi Vivah : ‘या’ गावची तुळस आहे राखणदारीण",
           "link": "https://kokansadlive.com/national-international/hattarwad-one-village-one-tulsi-vivah-ya-gaavchi-tuls-aahe-rakhandarin/36109",
@@ -306,12 +312,6 @@
           "title": "मायक्रोसॉफ्टचे सर्वर डाउन! आऊटलूक, टीम्स आणि कोपायलटची सेवा ठप्प; जगभरातील लाखो युजर्सना फटका",
           "link": "https://kokansadlive.com/national-international/microsoft-365-outage-outlook-teams-copilot-global-disruption/35862",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35862_pic_20261113.1739.webp",
-          "date": "Nov 13"
-        },
-        {
-          "title": "TVS NTORQ 150 च्या चाहत्यांसाठी खुशखबर! नवीन 'स्पेक्ट्रल ग्रीन' कलर लॉन्च; जाणून घ्या किंमत अन् फीचर्स",
-          "link": "https://kokansadlive.com/national-international/tvs-ntorq-150-spectral-green-colour-launched-price-features/35852",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35852_pic_20261113.1402.webp",
           "date": "Nov 13"
         }
       ]
@@ -385,6 +385,30 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Kankavli POCSO Case : अल्पवयीन मुलीवर अत्याचार प्रकरणी आरोपीला जामीन",
+          "link": "https://kokansadlive.com/crime/kankavli-pocso-case-accused-gets-conditional-bail-25000-bond/36135",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36135_pic_20261121.2013.webp",
+          "date": "20:04"
+        },
+        {
+          "title": "Tilari Ghat Bike Accident : तिलारी घाटात दुचाकीच्या भीषण अपघातात तरुणाचा मृत्यू",
+          "link": "https://kokansadlive.com/crime/tilari-ghat-bike-accident-akhil-jos-death-nursing-students-help/36134",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36134_pic_20261121.2001.webp",
+          "date": "19:49"
+        },
+        {
+          "title": "Mumbai-Goa Highway Accident : मुंबई-गोवा महामार्गावर चालकाचे कारवरील नियंत्रण सुटल्याने दगडावर आदळून अपघात",
+          "link": "https://kokansadlive.com/crime/veral-ghat-car-accident-lanja-mumbai-tourists-injured/36130",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36130_pic_20261121.1900.webp",
+          "date": "18:51"
+        },
+        {
+          "title": "Nitesh Rane : पालकमंत्री नितेश राणेंची सावंतवाडीत एसपींसह बैठक",
+          "link": "https://kokansadlive.com/crime/nitesh-rane-sindhudurg-police-illegal-business-action-plan/36126",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36126_pic_20261121.1753.webp",
+          "date": "17:40"
+        },
+        {
           "title": "Sawantwadi Crime News : सावंतवाडी पोलीस ठाण्यात दारूच्या नशेत पोलिसांशी हुज्जत",
           "link": "https://kokansadlive.com/crime/sawantwadi-police-station-three-booked-for-threatening-police/36107",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36107_pic_20261120.2035.webp",
@@ -419,36 +443,18 @@
           "link": "https://kokansadlive.com/crime/collision-between-an-st-bus-and-a-two-wheeler-at-ambeli-bend-dodamarg/36068",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36068_pic_20261119.1943.webp",
           "date": "Nov 19"
-        },
-        {
-          "title": "Kudal Crime News : कुडाळमधील स्टेट बँक दरोडा व चैन स्नॅचिंग प्रकरणांची सखोल चौकशी करा",
-          "link": "https://kokansadlive.com/crime/kudal-chain-snatching-sbi-robbery-attempt-investigation-demand/36046",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36046_pic_20261119.1452.webp",
-          "date": "Nov 19"
-        },
-        {
-          "title": "रिक्षाचालकाची झाडाला गळफास घेऊन आत्महत्या",
-          "link": "https://kokansadlive.com/crime/rickshaw-driver-commits-suicide-by-hanging-himself-from-a-tree/36040",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36040_pic_20261118.2103.webp",
-          "date": "Nov 18"
-        },
-        {
-          "title": "Sawantwadi Crime: एसटी बसमध्ये चढताना वृद्धाच्या खिशातील ५,५०० रुपये लंपास",
-          "link": "https://kokansadlive.com/crime/sawantwadi-st-bus-stand-pickpocketing-5500-stolen/36020",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36020_pic_20261118.1519.webp",
-          "date": "Nov 18"
-        },
-        {
-          "title": "Devgad News : देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर नौका जप्त",
-          "link": "https://kokansadlive.com/crime/devgad-news-karnataka-high-speed-trawler-boat-seized-in-devgad-sea/36008",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36008_pic_20261118.1044.webp",
-          "date": "Nov 18"
         }
       ]
     },
     {
       "name": "मनोरंजन",
       "items": [
+        {
+          "title": "लोकप्रिय अभिनेत्यांच्या यादीत प्रभास अव्वल; शाहरुख खान दुसऱ्या, सलमान खान कितव्या क्रमांकावर?",
+          "link": "https://kokansadlive.com/entertainment/ormax-top-10-most-popular-actors-october-2026/36122",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36122_pic_20261121.1550.webp",
+          "date": "15:39"
+        },
         {
           "title": "DARYAA Short Film IFFI 2026 : कोकणचा ‘दर्या’ झळकणार इफ्फीच्या मंचावर",
           "link": "https://kokansadlive.com/entertainment/daryaa-short-film-selected-57th-iffi-2026-sindhudurg/36048",
@@ -502,18 +508,18 @@
           "link": "https://kokansadlive.com/entertainment/ramayana-movie-deleted-scene-viral-video-sita-lakshman-lord-ram/35866",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35866_pic_20261113.1826.webp",
           "date": "Nov 13"
-        },
-        {
-          "title": "‘रामायण’च्या भव्य पडद्यावर झळकले सावंतवाडीच्या सुपुत्राचे नाव",
-          "link": "https://kokansadlive.com/entertainment/sahadev-gaonkar-ramayana-movie-animation-vfx-sawantwadi/35861",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35861_pic_20261113.1707.webp",
-          "date": "Nov 13"
         }
       ]
     },
     {
       "name": "क्रीडा",
       "items": [
+        {
+          "title": "नीरजा पवारची बॅडमिंटन राज्य अजिंक्यपद स्पर्धेत सुवर्ण झेप",
+          "link": "https://kokansadlive.com/sports/neeraja-pawar-s-badminton-state-championship-gold-leap/36118",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36118_pic_20261121.1338.webp",
+          "date": "13:35"
+        },
         {
           "title": "भारताची न्यूझीलंडवर ११८ धावांची भक्कम आघाडी; ९८ धावांवर गिल क्लीन बोल्ड, पडिक्कलही शतकापासून दूर",
           "link": "https://kokansadlive.com/sports/shubman-gill-98-india-vs-new-zealand-1st-test-day-3/36113",
@@ -567,18 +573,18 @@
           "link": "https://kokansadlive.com/sports/jay-shah-re-elected-icc-chairman-second-term/35933",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35933_pic_20261116.1341.webp",
           "date": "Nov 16"
-        },
-        {
-          "title": "२०२९ मध्ये भारतात चॅम्पियन्स ट्रॉफीचा थरार! २०३५ पर्यंतच्या आयसीसी स्पर्धांच्या वेळापत्रकाला मंजुरी, वाचा सविस्तर",
-          "link": "https://kokansadlive.com/sports/india-to-host-icc-champions-trophy-2029-cricket-schedule-2035/35932",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35932_pic_20261116.1317.webp",
-          "date": "Nov 16"
         }
       ]
     },
     {
       "name": "आरोग्य",
       "items": [
+        {
+          "title": "'माझे गाव, आरोग्य संपन्न गाव' अभियान केवळ घोषणांपुरतेच?",
+          "link": "https://kokansadlive.com/health/blood-testing-services-primary-health-centres-sawantwadi-taluka-closed/36132",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36132_pic_20261121.1927.webp",
+          "date": "19:23"
+        },
         {
           "title": "Thyroid Surgery : शासकीय वैद्यकीय महाविद्यालयात थायरॉईड ग्रंथीच्या मोठ्या गलगंडावर यशस्वी शस्त्रक्रिया",
           "link": "https://kokansadlive.com/health/sindhudurg-government-hospital-successful-thyroid-goitre-surgery/36060",
@@ -632,17 +638,59 @@
           "link": "https://kokansadlive.com/health/vaibhavwadi-rural-hospital-dialysis-centre-closed-funding-issue/35727",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35727_pic_20261107.1643.webp",
           "date": "Nov 7"
-        },
-        {
-          "title": "Ayush OPD In Sawantwadi : आयुष ओपीडी जिल्हावासियांच्या सेवेत",
-          "link": "https://kokansadlive.com/health/ayurveda-opd-inaugurated-sawantwadi-uday-samant/35630",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35630_pic_20261105.1329.webp",
-          "date": "Nov 5"
         }
       ]
     }
   ],
   "youtube": [
+    {
+      "title": "पालकमंत्री नितेश राणेंची सावंतवाडीत एसपींसह बैठक",
+      "link": "https://www.youtube.com/watch?v=Zh0LlI2wFc4",
+      "image": "https://i.ytimg.com/vi/Zh0LlI2wFc4/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "खाद्यतेलाच्या दरवाढीचा फटका वडापाव, समोसा विक्रेत्यांना",
+      "link": "https://www.youtube.com/watch?v=4qv1gwg8do8",
+      "image": "https://i.ytimg.com/vi/4qv1gwg8do8/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "कोकण रेल्वेचे वेळापत्रक कोलमडले",
+      "link": "https://www.youtube.com/watch?v=PGpQOjrAglU",
+      "image": "https://i.ytimg.com/vi/PGpQOjrAglU/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "अन् पालकमंत्र्यांचा ताफा थांबला !",
+      "link": "https://www.youtube.com/watch?v=yWonYFe0Iyw",
+      "image": "https://i.ytimg.com/vi/yWonYFe0Iyw/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "हिरव्या सापांचा कार्यक्रम करण्यासाठी सज्ज",
+      "link": "https://www.youtube.com/watch?v=6UZzzDXq9tE",
+      "image": "https://i.ytimg.com/vi/6UZzzDXq9tE/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "विठ्ठल मंदिरात धार्मिक कार्यक्रम",
+      "link": "https://www.youtube.com/watch?v=Q8Y0at_eb4g",
+      "image": "https://i.ytimg.com/vi/Q8Y0at_eb4g/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "शासनाने तातडीने निर्णय घ्यावा : दत्ता सामंत",
+      "link": "https://www.youtube.com/watch?v=qFpRwRqv2CA",
+      "image": "https://i.ytimg.com/vi/qFpRwRqv2CA/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "सिंधुदुर्गचा समावेश ट्रिगर १ मध्ये होणे चिंतेचे : मंत्री नितेश राणे",
+      "link": "https://www.youtube.com/watch?v=ISIWydmpOXI",
+      "image": "https://i.ytimg.com/vi/ISIWydmpOXI/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
     {
       "title": "'कँडेला पी-१२' हायड्रोफॉइलची महाराष्ट्रात यशस्वी चाचणी",
       "link": "https://www.youtube.com/watch?v=1B6Tv2rj3zo",
@@ -683,54 +731,6 @@
       "title": "बिल्डरचा उधळला डाव | शाळेत पुन्हा मुलांच्या बागडण्याचा आवाज",
       "link": "https://www.youtube.com/watch?v=rNgqOUAPaGk",
       "image": "https://i.ytimg.com/vi/rNgqOUAPaGk/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकण रेल्वे प्रवाशांची गैरसोय दूर करण्यासाठी केंद्र सरकार सकारात्मक : नितेश राणे",
-      "link": "https://www.youtube.com/watch?v=PNBkego1SzU",
-      "image": "https://i.ytimg.com/vi/PNBkego1SzU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सशस्त्र दरोडेखोराला धाडसानं पकडलं  | एसपींनी बोलावून घेत खास कौतुक केलं",
-      "link": "https://www.youtube.com/watch?v=s1ya5Gi0PD8",
-      "image": "https://i.ytimg.com/vi/s1ya5Gi0PD8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "डॉ. आंबेडकर स्‍मारक लवकरच पूर्ण होईल | पालकमंत्री नीतेश राणेंची ग्‍वाही",
-      "link": "https://www.youtube.com/watch?v=vGOYBe72YII",
-      "image": "https://i.ytimg.com/vi/vGOYBe72YII/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शायना एनसी यांनी माफी मागितली  | निलेश राणेंनी एका वाक्यात विषय संपवला",
-      "link": "https://www.youtube.com/watch?v=BigvpzLj51A",
-      "image": "https://i.ytimg.com/vi/BigvpzLj51A/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकण रेल्वेच्या प्रवाशांसाठी खुशखबर | कुडाळ - सिंधुदुर्गनगरी रेल्वेस्थानकांवर मिळणार मोठ्या सुविधा",
-      "link": "https://www.youtube.com/watch?v=vndbZ7v-2LY",
-      "image": "https://i.ytimg.com/vi/vndbZ7v-2LY/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 19-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=6-eRI-ebMFU",
-      "image": "https://i.ytimg.com/vi/6-eRI-ebMFU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "राष्ट्राला इस्लामीकरणाचे गालबोट लागता कामा नये",
-      "link": "https://www.youtube.com/watch?v=xel_9igMefI",
-      "image": "https://i.ytimg.com/vi/xel_9igMefI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शेतीमध्ये नवे प्रयोग आणि बदल स्वीकारण्याची क्षमता",
-      "link": "https://www.youtube.com/watch?v=zGqJAyaW4fw",
-      "image": "https://i.ytimg.com/vi/zGqJAyaW4fw/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
