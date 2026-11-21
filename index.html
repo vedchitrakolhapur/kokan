@@ -51,6 +51,57 @@
       color: #ffffff;
       border-color: #0A0989;
     }
+
+    /* Live TV Wrapper */
+    .tv-wrapper {
+      max-width: 800px;
+      margin: 12px auto 4px;
+      padding: 0 12px;
+    }
+    .tv-box {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .tv-box iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+    .tv-controls {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      z-index: 10;
+      display: flex;
+      gap: 6px;
+    }
+    .tv-btn {
+      background: rgba(0, 0, 0, 0.65);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    /* Fullscreen Mode (CSS Fallback + Landscape) */
+    .tv-box.is-fullscreen {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      aspect-ratio: auto;
+      border-radius: 0;
+      z-index: 9999;
+    }
+
     /* News Grid */
     .news-container {
       max-width: 800px;
@@ -107,12 +158,28 @@
 <body>
 
   <div class="tabs-container" id="tabs"></div>
+
+  <!-- Live TV Section -->
+  <div class="tv-wrapper" id="tv-wrapper">
+    <div class="tv-box" id="tv-box">
+      <div class="tv-controls">
+        <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
+      </div>
+      <iframe
+        id="live-tv-frame"
+        src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
+        allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
   <div class="news-container" id="news-list">
     <div class="loader">बातम्या लोड होत आहेत...</div>
   </div>
 
   <script>
-    // Right-click, Inspect आणि Copy बंद करण्यासाठी
+    // Right-click, Inspect आणि Copy बंद
     document.addEventListener('contextmenu', e => e.preventDefault());
     document.addEventListener('keydown', e => {
       if (e.key === 'F12' || (e.ctrlKey && ['u', 'U', 'c', 'C', 's', 'S'].includes(e.key))) {
@@ -120,18 +187,78 @@
       }
     });
 
+    const tvBox = document.getElementById('tv-box');
+    const fsBtn = document.getElementById('fs-btn');
+    let isFull = false;
+
+    function enterFullscreen() {
+      if (isFull) return;
+      isFull = true;
+      tvBox.classList.add('is-fullscreen');
+      fsBtn.textContent = '✕ बाहेर पडा';
+      // Back Button हाताळण्यासाठी history मध्ये state जोडणे
+      history.pushState({ tvFullscreen: true }, '');
+      if (tvBox.requestFullscreen) {
+        tvBox.requestFullscreen().catch(() => {});
+      } else if (tvBox.webkitRequestFullscreen) {
+        tvBox.webkitRequestFullscreen();
+      }
+    }
+
+    function exitFullscreen(fromPopstate = false) {
+      if (!isFull) return;
+      isFull = false;
+      tvBox.classList.remove('is-fullscreen');
+      fsBtn.textContent = '⛶ Full Screen';
+      if (document.fullscreenElement) {
+        document.exitFullscreen().catch(() => {});
+      } else if (document.webkitFullscreenElement) {
+        document.webkitExitFullscreen();
+      }
+      if (!fromPopstate && history.state && history.state.tvFullscreen) {
+        history.back();
+      }
+    }
+
+    function toggleFullscreen() {
+      if (isFull) exitFullscreen();
+      else enterFullscreen();
+    }
+
+    // मोबाईलचे Back Button दाबल्यावर Full Screen बंद करणे
+    window.addEventListener('popstate', () => {
+      if (isFull) exitFullscreen(true);
+    });
+
+    // सिस्टीममधून Fullscreen बंद केल्यास सिंक ठेवणे
+    document.addEventListener('fullscreenchange', () => {
+      if (!document.fullscreenElement && isFull) {
+        exitFullscreen();
+      }
+    });
+
+    // स्क्रीन आडवी (Landscape) केल्यास ऑटो Full Screen
+    window.addEventListener('orientationchange', () => {
+      setTimeout(() => {
+        const isLandscape = window.innerWidth > window.innerHeight;
+        const tvVisible = document.getElementById('tv-wrapper').style.display !== 'none';
+        if (isLandscape && tvVisible) {
+          enterFullscreen();
+        } else if (!isLandscape && isFull) {
+          exitFullscreen();
+        }
+      }, 200);
+    });
+
     let allCategories = [];
 
     async function loadNews() {
       try {
-        // Cache टाळण्यासाठी timestamp जोडला आहे
         const res = await fetch('news.json?t=' + new Date().getTime());
         const data = await res.json();
         allCategories = data.categories || [];
         renderTabs();
-        if (allCategories.length > 0) {
-          renderNews(0);
-        }
+        if (allCategories.length > 0) renderNews(0);
       } catch (err) {
         document.getElementById('news-list').innerHTML = '<div class="loader">बातम्या लोड करण्यात अडचण आली.</div>';
       }
@@ -149,6 +276,8 @@
     function selectTab(index, btn) {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      // फक्त 'ठळक बातम्या' (index 0) वर Live TV दाखवा
+      document.getElementById('tv-wrapper').style.display = (index === 0) ? 'block' : 'none';
       renderNews(index);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
