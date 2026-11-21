@@ -14,47 +14,28 @@ ALLOWED_CATEGORIES = [
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
 def scrape_kokan_all():
-    """https://kokansadlive.com/c/kokan वरून सर्व बातम्या काढते"""
+    """https://kokansadlive.com/c/kokan वरून सर्व बातम्या अचूक काढते"""
     items = []
-    seen_links = set()
     try:
         res = requests.get(KOKAN_ALL_URL, headers=HEADERS, timeout=15)
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # पेजवरील सर्व बातम्यांचे कार्ड्स शोधणे
-        for a_tag in soup.find_all("a", href=True):
-            href = a_tag["href"]
-            if "/kokan/" not in href or href in seen_links:
-                continue
+        # फक्त मुख्य कोकण सेक्शनमधील कार्ड्स निवडा
+        cards = soup.select(".sub-categry-section .left-container .breaking-news-content")
+        for card in cards:
+            title_tag = card.select_one(".upper-text span")
+            link_tag = card.select_one(".lower-text a")
+            img_tag = card.select_one(".img img")
+            date_tag = card.select_one(".date-text span")
 
-            # लिंकच्या आत किंवा पालक घटकात इमेज आणि टायटल शोधणे
-            parent = a_tag.parent
-            img_tag = a_tag.find("img") or (parent.find("img") if parent else None)
-            
-            title_tag = (
-                a_tag.find(["h1", "h2", "h3", "h4", "h5", "h6"])
-                or a_tag
-            )
-            title = title_tag.get_text(" ", strip=True)
-
-            if not title or len(title) < 10:
-                continue
-
-            # तारीख शोधणे (असल्यास)
-            date_text = "कोकण"
-            if parent:
-                p_tag = parent.find("p")
-                if p_tag and len(p_tag.get_text(strip=True)) < 25:
-                    date_text = p_tag.get_text(strip=True)
-
-            seen_links.add(href)
-            items.append({
-                "title": title,
-                "link": href if href.startswith("http") else f"https://kokansadlive.com{href}",
-                "image": img_tag["src"] if img_tag and img_tag.get("src") else "",
-                "date": date_text
-            })
+            if title_tag and link_tag and link_tag.get("href"):
+                items.append({
+                    "title": title_tag.get_text(strip=True),
+                    "link": link_tag["href"],
+                    "image": img_tag["src"] if img_tag and img_tag.get("src") else "",
+                    "date": date_tag.get_text(strip=True) if date_tag else "कोकण"
+                })
     except Exception as e:
         print("Error scraping /c/kokan:", e)
 
