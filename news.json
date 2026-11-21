@@ -1,9 +1,15 @@
 {
-  "updated_at": "21 Nov 2026, 07:14 AM",
+  "updated_at": "21 Nov 2026, 07:43 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "दलित वस्ती सुधार योजनेचे निकष बदला",
+          "link": "https://kokansadlive.com/kokan/devgad-dalit-vasti-development-scheme-fund-allocation-demand/36114",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36114_pic_20261121.1304.webp",
+          "date": "November 21, 2026"
+        },
         {
           "title": "देवगड महाविद्यालयात २७ नोव्हेंबरला ‘गांधी विचार संस्कार परीक्षा २०२६’",
           "link": "https://kokansadlive.com/kokan/gandhi-thought-and-values-examination-2026-held-devgad-college-november-27/36112",
@@ -176,12 +182,6 @@
           "title": "अनुकंपा तत्त्वावरील पात्र उमेदवारास पालकमंत्री नितेश राणेंच्या हस्ते नियुक्तीपत्र प्रदान",
           "link": "https://kokansadlive.com/kokan/nitesh-rane-compassionate-appointment-shailesh-newalkar-sindhudurg/36076",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36076_pic_20261119.2025.webp",
-          "date": "November 19, 2026"
-        },
-        {
-          "title": "आकारीपड जमीन प्रश्नावर उद्या गोठोस तिठा येथे महत्त्वपूर्ण मेळावा",
-          "link": "https://kokansadlive.com/kokan/meeting-held-gothos-titha-regarding-akaripad-issue/36075",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36075_pic_20261119.2017.webp",
           "date": "November 19, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "'कँडेला पी-१२' हायड्रोफॉइलची महाराष्ट्रात यशस्वी चाचणी",
+      "link": "https://www.youtube.com/watch?v=1B6Tv2rj3zo",
+      "image": "https://i.ytimg.com/vi/1B6Tv2rj3zo/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 20-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=UG7wT20wEak",
       "image": "https://i.ytimg.com/vi/UG7wT20wEak/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "शेतीमध्ये नवे प्रयोग आणि बदल स्वीकारण्याची क्षमता",
       "link": "https://www.youtube.com/watch?v=zGqJAyaW4fw",
       "image": "https://i.ytimg.com/vi/zGqJAyaW4fw/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "एसटी बस-दुचाकीची भीषण धडक",
-      "link": "https://www.youtube.com/watch?v=xLmi47lrg1E",
-      "image": "https://i.ytimg.com/vi/xLmi47lrg1E/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
