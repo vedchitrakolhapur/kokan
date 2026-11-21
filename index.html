@@ -3,7 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>ठळक बातम्या</title>
+  <meta name="theme-color" content="#0A0989">
+  <title>Kokansad Live app</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-192.png">
   <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
@@ -22,23 +25,137 @@
       padding-bottom: 24px;
     }
 
+    /* App Header */
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 200;
+      height: 54px;
+      background: linear-gradient(135deg, #070661 0%, #0A0989 60%, #1d4ed8 100%);
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      box-shadow: 0 2px 10px rgba(10, 9, 137, 0.25);
+    }
+    .app-title {
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: 0.3px;
+    }
+    .menu-btn {
+      background: rgba(255, 255, 255, 0.14);
+      border: none;
+      color: #ffffff;
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      font-size: 19px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+    .menu-btn:active { background: rgba(255, 255, 255, 0.25); }
+
+    /* Right Slide Drawer Menu */
+    .drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 300;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.25s ease;
+    }
+    .drawer-overlay.open {
+      opacity: 1;
+      visibility: visible;
+    }
+    .side-drawer {
+      position: fixed;
+      top: 0;
+      right: -270px;
+      width: 260px;
+      height: 100vh;
+      background: #ffffff;
+      z-index: 301;
+      box-shadow: -4px 0 20px rgba(0, 0, 0, 0.18);
+      transition: right 0.25s ease;
+      display: flex;
+      flex-direction: column;
+    }
+    .side-drawer.open { right: 0; }
+    .drawer-header {
+      background: linear-gradient(135deg, #070661 0%, #0A0989 100%);
+      color: #ffffff;
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .drawer-header span {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .drawer-close {
+      background: rgba(255,255,255,0.18);
+      border: none;
+      color: #fff;
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .drawer-list {
+      list-style: none;
+      padding: 10px;
+      overflow-y: auto;
+      flex: 1;
+    }
+    .drawer-item {
+      width: 100%;
+      text-align: left;
+      padding: 11px 14px;
+      margin-bottom: 4px;
+      border: none;
+      border-radius: 10px;
+      background: transparent;
+      font-family: inherit;
+      font-size: 16px;
+      font-weight: 600;
+      color: #222;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .drawer-item.active {
+      background: #eef2ff;
+      color: #0A0989;
+      font-weight: 700;
+    }
+    .drawer-item:active { background: #e0e7ff; }
+
     /* Sticky Category Tabs */
     .tabs-container {
       position: sticky;
-      top: 0;
-      z-index: 100;
+      top: 54px;
+      z-index: 150;
       background: #ffffff;
       display: flex;
       overflow-x: auto;
       gap: 8px;
       padding: 10px 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
       scrollbar-width: none;
     }
     .tabs-container::-webkit-scrollbar { display: none; }
     .tab-btn {
       flex: 0 0 auto;
-      padding: 6px 14px;
+      padding: 5px 14px;
       border-radius: 20px;
       border: 1px solid #e0e0e0;
       background: #f8f9fa;
@@ -61,9 +178,7 @@
     }
 
     /* Live TV Wrapper */
-    .tv-wrapper {
-      margin-top: 12px;
-    }
+    .tv-wrapper { margin-top: 12px; }
     .tv-box {
       position: relative;
       width: 100%;
@@ -141,12 +256,10 @@
       font-size: 19px;
       font-weight: 800;
       line-height: 1.2;
-      letter-spacing: 0.2px;
     }
     .epaper-tagline {
       font-size: 13px;
       opacity: 0.92;
-      font-weight: 400;
       margin-top: 2px;
     }
     .epaper-cta {
@@ -190,9 +303,7 @@
       background-size: 200% 100%;
       animation: shimmer 1.4s infinite;
     }
-    .news-content {
-      padding: 10px 12px 12px;
-    }
+    .news-content { padding: 10px 12px 12px; }
     .news-title {
       font-size: 16px;
       line-height: 1.4;
@@ -200,11 +311,7 @@
       color: #0A0989;
       margin-bottom: 6px;
     }
-    .news-date {
-      font-size: 12px;
-      color: #777;
-      font-weight: 600;
-    }
+    .news-date { font-size: 12px; color: #777; font-weight: 600; }
 
     /* Skeleton Loader */
     @keyframes shimmer {
@@ -262,12 +369,9 @@
       color: #ffffff;
       border-color: #0A0989;
     }
-    .page-btn:disabled {
-      opacity: 0.45;
-      cursor: not-allowed;
-    }
+    .page-btn:disabled { opacity: 0.45; cursor: not-allowed; }
 
-    /* YouTube Section (Distinct Dark Background) */
+    /* YouTube Section */
     .yt-section {
       margin-top: 22px;
       background: linear-gradient(160deg, #18181b 0%, #27272a 100%);
@@ -397,10 +501,7 @@
     .sb-ig { background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af); }
     .sb-wa { background: #25d366; }
 
-    .policy-links {
-      font-size: 13px;
-      color: #6b7280;
-    }
+    .policy-links { font-size: 13px; color: #6b7280; }
     .policy-links a {
       color: #374151;
       text-decoration: none;
@@ -412,6 +513,27 @@
 </head>
 <body>
 
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="app-title">Kokansad Live app</div>
+    <button class="menu-btn" onclick="openDrawer()" aria-label="Menu">
+      <i class="fa-solid fa-bars"></i>
+    </button>
+  </header>
+
+  <!-- Right Slide Hamburger Drawer -->
+  <div class="drawer-overlay" id="drawer-overlay" onclick="closeDrawer()"></div>
+  <aside class="side-drawer" id="side-drawer">
+    <div class="drawer-header">
+      <span>विभाग निवडा</span>
+      <button class="drawer-close" onclick="closeDrawer()" aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+    <div class="drawer-list" id="drawer-list"></div>
+  </aside>
+
+  <!-- Sticky Category Tabs -->
   <div class="tabs-container" id="tabs"></div>
 
   <div class="container-wrap">
@@ -492,6 +614,13 @@
   </div>
 
   <script>
+    // PWA Service Worker नोंदणी
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch(() => {});
+      });
+    }
+
     // Right-click, Inspect आणि Copy बंद
     document.addEventListener('contextmenu', e => e.preventDefault());
     document.addEventListener('keydown', e => {
@@ -500,7 +629,17 @@
       }
     });
 
-    // Fullscreen & Back Button Handling (फक्त बटण क्लिक केल्यावरच Full Screen + Landscape)
+    // Hamburger Drawer Control
+    function openDrawer() {
+      document.getElementById('drawer-overlay').classList.add('open');
+      document.getElementById('side-drawer').classList.add('open');
+    }
+    function closeDrawer() {
+      document.getElementById('drawer-overlay').classList.remove('open');
+      document.getElementById('side-drawer').classList.remove('open');
+    }
+
+    // Fullscreen & Back Button Handling
     const tvBox = document.getElementById('tv-box');
     const fsBtn = document.getElementById('fs-btn');
     let isFull = false;
@@ -511,14 +650,9 @@
       tvBox.classList.add('is-fullscreen');
       fsBtn.textContent = '✕ बाहेर पडा';
       history.pushState({ tvFullscreen: true }, '');
-
       try {
-        if (tvBox.requestFullscreen) {
-          await tvBox.requestFullscreen();
-        } else if (tvBox.webkitRequestFullscreen) {
-          tvBox.webkitRequestFullscreen();
-        }
-        // उभा मोबाईल असल्यास आडव्या (Landscape) मोडमध्ये लॉक करणे
+        if (tvBox.requestFullscreen) await tvBox.requestFullscreen();
+        else if (tvBox.webkitRequestFullscreen) tvBox.webkitRequestFullscreen();
         if (screen.orientation && screen.orientation.lock) {
           await screen.orientation.lock('landscape').catch(() => {});
         }
@@ -530,21 +664,12 @@
       isFull = false;
       tvBox.classList.remove('is-fullscreen');
       fsBtn.textContent = '⛶ Full Screen';
-
       try {
-        if (screen.orientation && screen.orientation.unlock) {
-          screen.orientation.unlock();
-        }
-        if (document.fullscreenElement) {
-          document.exitFullscreen().catch(() => {});
-        } else if (document.webkitFullscreenElement) {
-          document.webkitExitFullscreen();
-        }
+        if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock();
+        if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+        else if (document.webkitFullscreenElement) document.webkitExitFullscreen();
       } catch (e) {}
-
-      if (!fromPopstate && history.state && history.state.tvFullscreen) {
-        history.back();
-      }
+      if (!fromPopstate && history.state && history.state.tvFullscreen) history.back();
     }
 
     function toggleFullscreen() {
@@ -552,25 +677,18 @@
       else enterFullscreen();
     }
 
-    window.addEventListener('popstate', () => {
-      if (isFull) exitFullscreen(true);
-    });
-    document.addEventListener('fullscreenchange', () => {
-      if (!document.fullscreenElement && isFull) exitFullscreen();
-    });
+    window.addEventListener('popstate', () => { if (isFull) exitFullscreen(true); });
+    document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement && isFull) exitFullscreen(); });
 
     // State
     let allCategories = [];
     let youtubeVideos = [];
     let activeCatIndex = 0;
-    let currentNewsPage = 1;
-    let currentYtPage = 1;
     const NEWS_PER_PAGE = 10;
     const YT_PER_PAGE = 5;
 
     function showSkeletons(count = 4) {
-      const listEl = document.getElementById('news-list');
-      listEl.innerHTML = Array(count).fill(`
+      document.getElementById('news-list').innerHTML = Array(count).fill(`
         <div class="skeleton-card">
           <div class="skeleton-img"></div>
           <div class="skeleton-body">
@@ -589,7 +707,7 @@
         const data = await res.json();
         allCategories = data.categories || [];
         youtubeVideos = data.youtube || [];
-        renderTabs();
+        renderNavigation();
         if (allCategories.length > 0) renderNews(0, 1);
         renderYouTube(1);
       } catch (err) {
@@ -597,28 +715,48 @@
       }
     }
 
-    function renderTabs() {
+    function renderNavigation() {
       const tabsEl = document.getElementById('tabs');
+      const drawerEl = document.getElementById('drawer-list');
+
       tabsEl.innerHTML = allCategories.map((cat, idx) => `
-        <button class="tab-btn ${idx === 0 ? 'active' : ''}" onclick="selectTab(${idx}, this)">
+        <button class="tab-btn ${idx === 0 ? 'active' : ''}" data-idx="${idx}" onclick="selectCategory(${idx})">
           ${cat.name}
+        </button>
+      `).join('');
+
+      drawerEl.innerHTML = allCategories.map((cat, idx) => `
+        <button class="drawer-item ${idx === 0 ? 'active' : ''}" data-idx="${idx}" onclick="selectCategory(${idx})">
+          <span>${cat.name}</span>
+          <i class="fa-solid fa-chevron-right" style="font-size:12px;opacity:0.5;"></i>
         </button>
       `).join('');
     }
 
-    function selectTab(index, btn) {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+    function selectCategory(index) {
       activeCatIndex = index;
+      closeDrawer();
+
+      // Tabs आणि Drawer दोन्हीकडे Active Highlight अपडेट करा
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.toggle('active', Number(b.dataset.idx) === index);
+        if (Number(b.dataset.idx) === index) {
+          b.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        }
+      });
+      document.querySelectorAll('.drawer-item').forEach(b => {
+        b.classList.toggle('active', Number(b.dataset.idx) === index);
+      });
+
       const isHome = (index === 0);
       document.getElementById('home-extras').style.display = isHome ? 'block' : 'none';
       document.getElementById('yt-section').style.display = (isHome && youtubeVideos.length > 0) ? 'block' : 'none';
+
       renderNews(index, 1);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function renderNews(catIdx, page) {
-      currentNewsPage = page;
       const listEl = document.getElementById('news-list');
       const pagEl = document.getElementById('news-pagination');
       const items = allCategories[catIdx]?.items || [];
@@ -671,7 +809,6 @@
       }
 
       sectionEl.style.display = 'block';
-      currentYtPage = page;
       const totalPages = Math.ceil(youtubeVideos.length / YT_PER_PAGE);
       const start = (page - 1) * YT_PER_PAGE;
       const pageItems = youtubeVideos.slice(start, start + YT_PER_PAGE);
