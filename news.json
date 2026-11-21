@@ -1,9 +1,21 @@
 {
-  "updated_at": "21 Nov 2026, 03:25 PM",
+  "updated_at": "21 Nov 2026, 09:03 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Omkar Elephant : सावंतवाडी, वेंगुर्ल्यात धुमाकूळ घातल्यानंतर ओंकार हत्ती पुन्हा दोडामार्गात",
+          "link": "https://kokansadlive.com/kokan/omkar-elephant-returns-dodamarg-adali-village-sindhudurg/36140",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36140_pic_20261121.2126.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "कोकणातून अधिकारी घडवणे हेच ध्येय असून शेवटच्या श्वासापर्यंत कोकणासाठी काम करणार",
+          "link": "https://kokansadlive.com/kokan/jijau-organization-free-notebooks-distribution-dodamarg-nilesh-sambare/36139",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36139_pic_20261121.2059.webp",
+          "date": "November 21, 2026"
+        },
         {
           "title": "Konkan Railway Delay : कोकण रेल्वेचे वेळापत्रक कोलमडले",
           "link": "https://kokansadlive.com/kokan/konkan-railway-delay-ltt-madgaon-konkan-kanya-jan-shatabdi/36138",
@@ -171,18 +183,6 @@
           "link": "https://kokansadlive.com/kokan/nitesh-rane-no-politics-on-elephant-issue/36098",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36098_pic_20261120.1757.webp",
           "date": "November 20, 2026"
-        },
-        {
-          "title": "देवगडच्या अग्निशमन यंत्रणेचा कारभार अपुऱ्या मनुष्यबळावर",
-          "link": "https://kokansadlive.com/kokan/devgad-fire-service-operations-hampered-by-insufficient-manpower/36097",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36097_pic_20261120.1747.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "PMAY Housing Scheme : आवास योजनेच्या बांधकामात गंभीर अनियमितता? तांबे यांचा कारवाईचा आग्रह",
-          "link": "https://kokansadlive.com/kokan/devgad-pmay-housing-scheme-construction-irregularities/36095",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36095_pic_20261120.1727.webp",
-          "date": "November 20, 2026"
         }
       ]
     },
@@ -193,7 +193,7 @@
           "title": "होय, आमच्या TRP चा आकडा बोलतो !",
           "link": "https://kokansadlive.com/lakshavedi/ho-amchya-trp-cha-aakda-bolto/36137",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36137_pic_20261121.2025.webp",
-          "date": "20:19"
+          "date": "Nov 21"
         },
         {
           "title": "धूप-कापूर, मोर अन् कोंबड्याचं गूढ! कोकणात धुमाकूळ घालतोय ‘महामारी विशुचिका’ नाट्यप्रयोग",
@@ -255,10 +255,16 @@
       "name": "देश-विदेश",
       "items": [
         {
+          "title": "Lutru Mahadev Temple : देवाला चक्क दारू आणि सिगारेटचा नैवेद्य?",
+          "link": "https://kokansadlive.com/national-international/lutru-mahadev-temple-cigarette-offering-lord-shiva-unique-temple-ritual/36141",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36141_pic_20261121.2123.webp",
+          "date": "Nov 21"
+        },
+        {
           "title": "Indian Railways Rule : रेल्वे प्रवाशांनो सावधान! रेल्वेमध्ये मोठ्या आवाजात फोनवर बोलल्यास दंड अन् शिक्षेची तरतूद",
           "link": "https://kokansadlive.com/national-international/indian-railways-loud-phone-calls-music-fine-rule/36124",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36124_pic_20261121.1714.webp",
-          "date": "17:09"
+          "date": "Nov 21"
         },
         {
           "title": "Hattarwad One Village One Tulsi Vivah : ‘या’ गावची तुळस आहे राखणदारीण",
@@ -307,12 +313,6 @@
           "link": "https://kokansadlive.com/national-international/kulgam-terror-attack-mohammad-latif-bhat-crpf-personnel-injured/35880",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35880_pic_20261114.1318.webp",
           "date": "Nov 14"
-        },
-        {
-          "title": "मायक्रोसॉफ्टचे सर्वर डाउन! आऊटलूक, टीम्स आणि कोपायलटची सेवा ठप्प; जगभरातील लाखो युजर्सना फटका",
-          "link": "https://kokansadlive.com/national-international/microsoft-365-outage-outlook-teams-copilot-global-disruption/35862",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35862_pic_20261113.1739.webp",
-          "date": "Nov 13"
         }
       ]
     },
@@ -388,25 +388,25 @@
           "title": "Kankavli POCSO Case : अल्पवयीन मुलीवर अत्याचार प्रकरणी आरोपीला जामीन",
           "link": "https://kokansadlive.com/crime/kankavli-pocso-case-accused-gets-conditional-bail-25000-bond/36135",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36135_pic_20261121.2013.webp",
-          "date": "20:04"
+          "date": "Nov 21"
         },
         {
           "title": "Tilari Ghat Bike Accident : तिलारी घाटात दुचाकीच्या भीषण अपघातात तरुणाचा मृत्यू",
           "link": "https://kokansadlive.com/crime/tilari-ghat-bike-accident-akhil-jos-death-nursing-students-help/36134",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36134_pic_20261121.2001.webp",
-          "date": "19:49"
+          "date": "Nov 21"
         },
         {
           "title": "Mumbai-Goa Highway Accident : मुंबई-गोवा महामार्गावर चालकाचे कारवरील नियंत्रण सुटल्याने दगडावर आदळून अपघात",
           "link": "https://kokansadlive.com/crime/veral-ghat-car-accident-lanja-mumbai-tourists-injured/36130",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36130_pic_20261121.1900.webp",
-          "date": "18:51"
+          "date": "Nov 21"
         },
         {
           "title": "Nitesh Rane : पालकमंत्री नितेश राणेंची सावंतवाडीत एसपींसह बैठक",
           "link": "https://kokansadlive.com/crime/nitesh-rane-sindhudurg-police-illegal-business-action-plan/36126",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36126_pic_20261121.1753.webp",
-          "date": "17:40"
+          "date": "Nov 21"
         },
         {
           "title": "Sawantwadi Crime News : सावंतवाडी पोलीस ठाण्यात दारूच्या नशेत पोलिसांशी हुज्जत",
@@ -453,7 +453,7 @@
           "title": "लोकप्रिय अभिनेत्यांच्या यादीत प्रभास अव्वल; शाहरुख खान दुसऱ्या, सलमान खान कितव्या क्रमांकावर?",
           "link": "https://kokansadlive.com/entertainment/ormax-top-10-most-popular-actors-october-2026/36122",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36122_pic_20261121.1550.webp",
-          "date": "15:39"
+          "date": "Nov 21"
         },
         {
           "title": "DARYAA Short Film IFFI 2026 : कोकणचा ‘दर्या’ झळकणार इफ्फीच्या मंचावर",
@@ -518,13 +518,13 @@
           "title": "नीरजा पवारची बॅडमिंटन राज्य अजिंक्यपद स्पर्धेत सुवर्ण झेप",
           "link": "https://kokansadlive.com/sports/neeraja-pawar-s-badminton-state-championship-gold-leap/36118",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36118_pic_20261121.1338.webp",
-          "date": "13:35"
+          "date": "Nov 21"
         },
         {
           "title": "भारताची न्यूझीलंडवर ११८ धावांची भक्कम आघाडी; ९८ धावांवर गिल क्लीन बोल्ड, पडिक्कलही शतकापासून दूर",
           "link": "https://kokansadlive.com/sports/shubman-gill-98-india-vs-new-zealand-1st-test-day-3/36113",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36113_pic_20261121.1225.webp",
-          "date": "12:19"
+          "date": "Nov 21"
         },
         {
           "title": "भारताची सुरुवात दमदार, पण निकोल्स-फिलिप्सची शतकी भागीदारी! पहिल्या दिवसअखेर न्यूझीलंडची २४३ धावांपर्यंत मजल",
@@ -583,7 +583,7 @@
           "title": "'माझे गाव, आरोग्य संपन्न गाव' अभियान केवळ घोषणांपुरतेच?",
           "link": "https://kokansadlive.com/health/blood-testing-services-primary-health-centres-sawantwadi-taluka-closed/36132",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36132_pic_20261121.1927.webp",
-          "date": "19:23"
+          "date": "Nov 21"
         },
         {
           "title": "Thyroid Surgery : शासकीय वैद्यकीय महाविद्यालयात थायरॉईड ग्रंथीच्या मोठ्या गलगंडावर यशस्वी शस्त्रक्रिया",
@@ -643,6 +643,30 @@
     }
   ],
   "youtube": [
+    {
+      "title": "कोकणसाद Live Prime Time Bulletin | 21-11-26 | Kokansad News",
+      "link": "https://www.youtube.com/watch?v=A2rim-cAtW8",
+      "image": "https://i.ytimg.com/vi/A2rim-cAtW8/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "मालवणी बातमे | Malavani Bulletin | Kokansad LIVE | 22. 11. 2026 | Kokansad Live",
+      "link": "https://www.youtube.com/watch?v=WCTlMFUno7w",
+      "image": "https://i.ytimg.com/vi/WCTlMFUno7w/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "सिंधुदुर्गातील तरुण - तरुणींसाठी एमपीएससी मार्गदर्शन कार्यशाळा",
+      "link": "https://www.youtube.com/watch?v=YO01C7GPpj0",
+      "image": "https://i.ytimg.com/vi/YO01C7GPpj0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "पंचायत समिती नूतन इमारतीचे पालकमंत्र्यांच्या हस्ते भूमिपूजन",
+      "link": "https://www.youtube.com/watch?v=bve5zzVX1CE",
+      "image": "https://i.ytimg.com/vi/bve5zzVX1CE/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
     {
       "title": "पालकमंत्री नितेश राणेंची सावंतवाडीत एसपींसह बैठक",
       "link": "https://www.youtube.com/watch?v=Zh0LlI2wFc4",
@@ -707,30 +731,6 @@
       "title": "हत्ती प्रश्नावर राजकारण नको | टीकेचा नितेश राणेंकडून समाचार",
       "link": "https://www.youtube.com/watch?v=oZR4aaSFb1M",
       "image": "https://i.ytimg.com/vi/oZR4aaSFb1M/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कामचुकार कर्मचाऱ्यांवर कारवाई करा | सभापती सिद्धेश रावराणेंचे आदेश",
-      "link": "https://www.youtube.com/watch?v=HanK3NnuQlI",
-      "image": "https://i.ytimg.com/vi/HanK3NnuQlI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "वनकर्मचारी सोबत नसल्याने तीव्र नाराजी | ओंकारचा धुमाकूळ",
-      "link": "https://www.youtube.com/watch?v=B6_XyYPcbBI",
-      "image": "https://i.ytimg.com/vi/B6_XyYPcbBI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "गोव्यात आजपासून 'इफ्फी'ची धूम",
-      "link": "https://www.youtube.com/watch?v=3V6cDCpIWpA",
-      "image": "https://i.ytimg.com/vi/3V6cDCpIWpA/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "बिल्डरचा उधळला डाव | शाळेत पुन्हा मुलांच्या बागडण्याचा आवाज",
-      "link": "https://www.youtube.com/watch?v=rNgqOUAPaGk",
-      "image": "https://i.ytimg.com/vi/rNgqOUAPaGk/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
