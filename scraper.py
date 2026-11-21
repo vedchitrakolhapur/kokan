@@ -1,10 +1,13 @@
 import json
+import re
+import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 HOME_URL = "https://kokansadlive.com/kokan.html"
 KOKAN_ALL_URL = "https://kokansadlive.com/c/kokan"
+YOUTUBE_HANDLE_URL = "https://www.youtube.com/@KokansadLiveNews"
 
 ALLOWED_CATEGORIES = [
     "लक्ष्यवेधी", "देश-विदेश", "महाराष्ट्र",
@@ -14,14 +17,13 @@ ALLOWED_CATEGORIES = [
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
 def scrape_kokan_all():
-    """https://kokansadlive.com/c/kokan वरून सर्व बातम्या अचूक काढते"""
+    """https://kokansadlive.com/c/kokan वरून सर्व ३० बातम्या काढते"""
     items = []
     try:
         res = requests.get(KOKAN_ALL_URL, headers=HEADERS, timeout=15)
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # फक्त मुख्य कोकण सेक्शनमधील कार्ड्स निवडा
         cards = soup.select(".sub-categry-section .left-container .breaking-news-content")
         for card in cards:
             title_tag = card.select_one(".upper-text span")
@@ -41,6 +43,60 @@ def scrape_kokan_all():
 
     return items
 
+def scrape_youtube():
+    """@KokansadLiveNews चॅनलचे लेटेस्ट १५ व्हिडिओ काढते"""
+    videos = []
+    try:
+        ch_res = requests.get(
+            YOUTUBE_HANDLE_URL,
+            headers=HEADERS,
+            cookies={"CONSENT": "YES+cb"},
+            timeout=15
+        )
+        match = (
+            re.search(r'"channelId":"(UC[\w-]+)"', ch_res.text)
+            or re.search(r'channel_id=(UC[\w-]+)', ch_res.text)
+        )
+        if not match:
+            print("YouTube channel ID not found")
+            return videos
+
+        channel_id = match.group(1)
+        feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+        feed_res = requests.get(feed_url, headers=HEADERS, timeout=15)
+        root = ET.fromstring(feed_res.content)
+
+        ns = {
+            "atom": "http://www.w3.org/2005/Atom",
+            "yt": "http://www.youtube.com/xml/schemas/2015"
+        }
+
+        for entry in root.findall("atom:entry", ns)[:15]:
+            vid_id_el = entry.find("yt:videoId", ns)
+            title_el = entry.find("atom:title", ns)
+            pub_el = entry.find("atom:published", ns)
+
+            if vid_id_el is not None and title_el is not None:
+                vid_id = vid_id_el.text
+                pub_date = ""
+                if pub_el is not None and pub_el.text:
+                    try:
+                        dt = datetime.fromisoformat(pub_el.text.replace("Z", "+00:00"))
+                        pub_date = dt.strftime("%d %b %Y")
+                    except Exception:
+                        pub_date = pub_el.text[:10]
+
+                videos.append({
+                    "title": title_el.text.strip(),
+                    "link": f"https://www.youtube.com/watch?v={vid_id}",
+                    "image": f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg",
+                    "date": pub_date
+                })
+    except Exception as e:
+        print("Error scraping YouTube:", e)
+
+    return videos
+
 def scrape_news():
     response = requests.get(HOME_URL, headers=HEADERS, timeout=15)
     response.encoding = "utf-8"
@@ -48,17 +104,17 @@ def scrape_news():
 
     data = {
         "updated_at": datetime.now().strftime("%d %b %Y, %I:%M %p"),
-        "categories": []
+        "categories": [],
+        "youtube": scrape_youtube()
     }
 
-    # १. मुख्य सेक्शन: /c/kokan मधील सर्व बातम्या ("ठळक बातम्या")
-    main_news = scrape_kokan_all()
+    # १. मुख्य सेक्शन: ठळक बातम्या
     data["categories"].append({
         "name": "ठळक बातम्या",
-        "items": main_news
+        "items": scrape_kokan_all()
     })
 
-    # २. इतर कॅटेगरी (section.blogs)
+    # २. इतर कॅटेगरी
     for section in soup.find_all("section", class_="blogs"):
         cat_heading = section.select_one(".breaking-news h6")
         if not cat_heading:
