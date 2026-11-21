@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>ठळक बातम्या</title>
+  <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+    body {
+      font-family: 'Mukta', sans-serif;
+      background-color: #f4f6f9;
+      color: #1a1a1a;
+      padding-bottom: 20px;
+    }
+    /* Sticky Category Tabs */
+    .tabs-container {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #ffffff;
+      display: flex;
+      overflow-x: auto;
+      gap: 8px;
+      padding: 10px 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      scrollbar-width: none;
+    }
+    .tabs-container::-webkit-scrollbar { display: none; }
+    .tab-btn {
+      flex: 0 0 auto;
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid #e0e0e0;
+      background: #f8f9fa;
+      color: #333;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .tab-btn.active {
+      background: #0A0989;
+      color: #ffffff;
+      border-color: #0A0989;
+    }
+    /* News Grid */
+    .news-container {
+      max-width: 800px;
+      margin: 12px auto;
+      padding: 0 12px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+    @media (min-width: 600px) {
+      .news-container { grid-template-columns: 1fr 1fr; }
+    }
+    .news-card {
+      display: flex;
+      flex-direction: column;
+      background: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+      transition: transform 0.15s ease;
+    }
+    .news-card:active { transform: scale(0.98); }
+    .news-img {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      background: #eaeaea;
+    }
+    .news-content {
+      padding: 10px 12px 12px;
+    }
+    .news-title {
+      font-size: 16px;
+      line-height: 1.4;
+      font-weight: 700;
+      color: #0A0989;
+      margin-bottom: 6px;
+    }
+    .news-date {
+      font-size: 12px;
+      color: #777;
+      font-weight: 600;
+    }
+    .loader {
+      text-align: center;
+      padding: 40px;
+      font-size: 16px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="tabs-container" id="tabs"></div>
+  <div class="news-container" id="news-list">
+    <div class="loader">बातम्या लोड होत आहेत...</div>
+  </div>
+
+  <script>
+    // Right-click, Inspect आणि Copy बंद करण्यासाठी
+    document.addEventListener('contextmenu', e => e.preventDefault());
+    document.addEventListener('keydown', e => {
+      if (e.key === 'F12' || (e.ctrlKey && ['u', 'U', 'c', 'C', 's', 'S'].includes(e.key))) {
+        e.preventDefault();
+      }
+    });
+
+    let allCategories = [];
+
+    async function loadNews() {
+      try {
+        // Cache टाळण्यासाठी timestamp जोडला आहे
+        const res = await fetch('news.json?t=' + new Date().getTime());
+        const data = await res.json();
+        allCategories = data.categories || [];
+        renderTabs();
+        if (allCategories.length > 0) {
+          renderNews(0);
+        }
+      } catch (err) {
+        document.getElementById('news-list').innerHTML = '<div class="loader">बातम्या लोड करण्यात अडचण आली.</div>';
+      }
+    }
+
+    function renderTabs() {
+      const tabsEl = document.getElementById('tabs');
+      tabsEl.innerHTML = allCategories.map((cat, idx) => `
+        <button class="tab-btn ${idx === 0 ? 'active' : ''}" onclick="selectTab(${idx}, this)">
+          ${cat.name}
+        </button>
+      `).join('');
+    }
+
+    function selectTab(index, btn) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderNews(index);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function renderNews(index) {
+      const listEl = document.getElementById('news-list');
+      const items = allCategories[index].items;
+      if (!items || items.length === 0) {
+        listEl.innerHTML = '<div class="loader">या विभागात सध्या बातम्या उपलब्ध नाहीत.</div>';
+        return;
+      }
+      listEl.innerHTML = items.map(item => `
+        <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-card">
+          <img src="${item.image}" alt="" class="news-img" loading="lazy">
+          <div class="news-content">
+            <div class="news-title">${item.title}</div>
+            <div class="news-date">${item.date}</div>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
