@@ -1,20 +1,188 @@
 {
-  "updated_at": "21 Nov 2026, 05:14 AM",
+  "updated_at": "21 Nov 2026, 05:28 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
         {
-          "title": "आकारीपड जमिनीचा प्रश्न 'मी' सोडवणारच : निलेश राणे",
-          "link": "https://kokansadlive.com/kokan/nilesh-rane-mangaon-valley-akaripadt-land-issue-1444-farmers/36106",
-          "image": "",
-          "date": "कोकण"
+          "title": "Waghbaras Festival 2026 : 'वाघ आला रे...वाघ!' रानात घुमणार आरोळ्या",
+          "link": "https://kokansadlive.com/kokan/waghbaras-festival-chiplun-ratnagiri-november-22-2026/36108",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36108_pic_20261120.2100.webp",
+          "date": "November 20, 2026"
         },
         {
-          "title": "जलसंधारणासाठी सामूहिक प्रयत्नांची गरज",
+          "title": "Nilesh Rane : आकारीपड जमिनीचा प्रश्न 'मी' सोडवणारच : निलेश राणे",
+          "link": "https://kokansadlive.com/kokan/nilesh-rane-mangaon-valley-akaripadt-land-issue-1444-farmers/36106",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36106_pic_20261120.2015.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Sindhudurg Civil Defence Mock Drill : जिल्ह्यात २५ नोव्हेंबर रोजी नागरी संरक्षण मॉकड्रिल व ब्लॅकआउट सराव",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-civil-defence-mock-drill-blackout-exercise-2026/36104",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36104_pic_20261120.1946.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "कोल्हापूर–दोडामार्ग थेट एसटी सेवा सुरू",
+          "link": "https://kokansadlive.com/kokan/direct-st-bus-service-between-kolhapur-to-dodamarg-launched/36103",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36103_pic_20261120.1933.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Sindhudurg Water Conservation : वनराई बंधारे टिकवण्यासाठी गाळ काढणे, पाण्याला मार्ग देणे गरजेचे",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-water-conservation-madhav-bhandari-village-lakes/36102",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36102_pic_20261120.1931.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "मोकाट श्वानांचा उपद्रव थांबवणार अन् जीवही जपणार",
+          "link": "https://kokansadlive.com/kokan/devgad-jamsande-stray-dog-sterilization-vaccination-drive-153-dogs/36101",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36101_pic_20261120.1848.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "केटी बंधाऱ्यांना गळती लागत असेल तर २५ लाख रुपये खर्चून उपयोग काय?",
+          "link": "https://kokansadlive.com/kokan/kankavli-panchayat-samiti-meeting-gad-river-kt-weir-poor-quality-work/36100",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36100_pic_20261120.1841.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Sindhudurg Water Shortage : पाऊस ५ हजार मिमी, तरी पाणीटंचाई; जलसंधारणासाठी सामूहिक प्रयत्नांची गरज",
           "link": "https://kokansadlive.com/kokan/sindhudurg-water-shortage-5000mm-rainfall-nitesh-rane/36099",
-          "image": "",
-          "date": "कोकण"
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36099_pic_20261120.1813.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Nitesh Rane : हत्ती प्रश्‍नाबाबत राजकारण नको",
+          "link": "https://kokansadlive.com/kokan/nitesh-rane-no-politics-on-elephant-issue/36098",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36098_pic_20261120.1757.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "देवगडच्या अग्निशमन यंत्रणेचा कारभार अपुऱ्या मनुष्यबळावर",
+          "link": "https://kokansadlive.com/kokan/devgad-fire-service-operations-hampered-by-insufficient-manpower/36097",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36097_pic_20261120.1747.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "PMAY Housing Scheme : आवास योजनेच्या बांधकामात गंभीर अनियमितता? तांबे यांचा कारवाईचा आग्रह",
+          "link": "https://kokansadlive.com/kokan/devgad-pmay-housing-scheme-construction-irregularities/36095",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36095_pic_20261120.1727.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Omkar Elephant Sindhudurg : ओटवणेत 'ओंकार'चा तांडव",
+          "link": "https://kokansadlive.com/kokan/omkar-elephant-damages-vehicles-otavane-sawantwadi/36093",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36093_pic_20261120.1702.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "सावंतवाडी पंचायत समितीच्या नवीन इमारतीचे २१ नोव्हेंबरला भूमिपूजन",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-panchayat-samiti-new-building-groundbreakin/36091",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36091_pic_20261120.1626.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Nitesh Rane : कोकण रेल्वे प्रवाशांच्या गैरसोयी दूर करण्यासाठी केंद्र सरकार सकारात्मक",
+          "link": "https://kokansadlive.com/kokan/kankavli-railway-station-shelter-shed-lift-work-nitesh-rane/36090",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36090_pic_20261120.1621.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Sindhudurg Congress : सिंधुदुर्गात अल्पसंख्याक काँग्रेसच्या संघटनात्मक बळकटीकरणासाठी बैठक",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-congress-minority-wing-meeting-yasir-arafat-bubare/36089",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36089_pic_20261120.1611.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "अधिकारी गैरहजर, प्रतिनिधींची हजेरी नको",
+          "link": "https://kokansadlive.com/kokan/vaibhavwadi-panchayat-samiti-meeting-chairman-siddhesh-ravrane/36088",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36088_pic_20261120.1548.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Konkan Railway : सिंधुदुर्ग रेल्वे स्थानकावर वातानुकूलित कक्ष प्रवाशांच्या सेवेत दाखल",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-railway-station-ac-waiting-room-nilesh-rane/36087",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36087_pic_20261120.1404.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "ग्रामीण भागातील मूलभूत सुविधांच्या विकासाला प्राधान्य",
+          "link": "https://kokansadlive.com/kokan/prioritizing-development-of-basic-infrastructure-in-rural-areas/36086",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36086_pic_20261120.1353.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "जेसीआय सावंतवाडीच्या २०२७ च्या नेतृत्वाची घोषणा",
+          "link": "https://kokansadlive.com/kokan/announcement-jci-sawantwadi-leadership-for-2027/36084",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36084_pic_20261120.1244.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "24 नोव्हेंबरला सावंतवाडीत रंगणार ‘हे चांदणे फुलांनी’ सुरेल संगीत मैफल'",
+          "link": "https://kokansadlive.com/kokan/he-chandane-phulanni-melodious-musical-concert-in-sawantwadi/36083",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36083_pic_20261120.1242.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "सशस्त्र दरोडेखोराला धाडसानं पकडलेल्या नागरिकांचा एसपींकडून सन्मान",
+          "link": "https://kokansadlive.com/kokan/citizens-honored-by-sp-for-bravely-apprehending-armed-robber/36082",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36082_pic_20261120.1152.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "तन्वी चांदोस्कर यांची ‘लोकनेत्री’च्या पहिल्या गटात निवड",
+          "link": "https://kokansadlive.com/kokan/tanvi-chandoskar-selected-in-first-group-of-loknetri/36081",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36081_pic_20261120.1134.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "अणसुर ग्रामपंचायतचे यश उल्लेखनीय : सुजता पडवळ",
+          "link": "https://kokansadlive.com/kokan/ansur-grampanchayat-success-notable-sujata-padwal/36080",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36080_pic_20261120.1117.webp",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Sindhudurg Drought Management Plan : टंचाई आराखड्याची टप्प्याटप्प्याने अंमलबजावणी करा",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-drought-management-water-scarcity-funds-nitesh-rane/36078",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36078_pic_20261119.2048.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "Marine Courses in Sindhudurg ITI : जहाज बांधणी, बंदर विकासासाठी सिंधुदुर्गात कौशल्याधारित अभ्यासक्रम सुरू करणार",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-iti-marine-engine-fitter-marine-fitter-courses-nitesh-rane/36077",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36077_pic_20261119.2034.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "अनुकंपा तत्त्वावरील पात्र उमेदवारास पालकमंत्री नितेश राणेंच्या हस्ते नियुक्तीपत्र प्रदान",
+          "link": "https://kokansadlive.com/kokan/nitesh-rane-compassionate-appointment-shailesh-newalkar-sindhudurg/36076",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36076_pic_20261119.2025.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "आकारीपड जमीन प्रश्नावर उद्या गोठोस तिठा येथे महत्त्वपूर्ण मेळावा",
+          "link": "https://kokansadlive.com/kokan/meeting-held-gothos-titha-regarding-akaripad-issue/36075",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36075_pic_20261119.2017.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "फळपीक विम्याच्या १० गुंठे क्षेत्राच्या अटीत शिथिलता द्या",
+          "link": "https://kokansadlive.com/kokan/fruit-crop-insurance-10-gunta-area-condition-relaxed/36073",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36073_pic_20261119.2004.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "त्रिपुरारी पौर्णिमेनिमित्त श्री दिर्बा देवी-रामेश्वर देवस्थानची २४ नोव्हेंबरला यात्रा",
+          "link": "https://kokansadlive.com/kokan/tripurari-purnima-shri-dirba-devi-rameshwar-devsthan-yatra-november-24/36072",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36072_pic_20261119.1957.webp",
+          "date": "November 19, 2026"
+        },
+        {
+          "title": "Sindhudurg Fodder Management : गवताची पौष्टिकता वाढवून चारा साखळी विकसित करा : पालकमंत्री नितेश राणे",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-fodder-management-drought-hit-districts-nitesh-rane/36071",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36071_pic_20261119.1955.webp",
+          "date": "November 19, 2026"
         }
       ]
     },
