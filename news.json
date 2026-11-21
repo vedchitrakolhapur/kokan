@@ -1,9 +1,15 @@
 {
-  "updated_at": "21 Nov 2026, 06:03 AM",
+  "updated_at": "21 Nov 2026, 06:26 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "देवगड महाविद्यालयात २७ नोव्हेंबरला ‘गांधी विचार संस्कार परीक्षा २०२६’",
+          "link": "https://kokansadlive.com/kokan/gandhi-thought-and-values-examination-2026-held-devgad-college-november-27/36112",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36112_pic_20261121.1134.webp",
+          "date": "November 21, 2026"
+        },
         {
           "title": "स्थानिक कलागुणांना प्रोत्साहन देत पर्यावरणपूरक सणांची परंपरा जपूया : विशाल परब",
           "link": "https://kokansadlive.com/kokan/talavane-open-solo-dance-2026-and-eco-friendly-sky-lantern-competition/36111",
@@ -176,12 +182,6 @@
           "title": "आकारीपड जमीन प्रश्नावर उद्या गोठोस तिठा येथे महत्त्वपूर्ण मेळावा",
           "link": "https://kokansadlive.com/kokan/meeting-held-gothos-titha-regarding-akaripad-issue/36075",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36075_pic_20261119.2017.webp",
-          "date": "November 19, 2026"
-        },
-        {
-          "title": "फळपीक विम्याच्या १० गुंठे क्षेत्राच्या अटीत शिथिलता द्या",
-          "link": "https://kokansadlive.com/kokan/fruit-crop-insurance-10-gunta-area-condition-relaxed/36073",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36073_pic_20261119.2004.webp",
           "date": "November 19, 2026"
         }
       ]
@@ -642,96 +642,5 @@
       ]
     }
   ],
-  "youtube": [
-    {
-      "title": "तरुणांसोबत सभापती सिद्धेश रावराणे यांचाही गरब्यावर ताल",
-      "link": "https://www.youtube.com/watch?v=d1vU1627miQ",
-      "image": "https://i.ytimg.com/vi/d1vU1627miQ/hqdefault.jpg",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "सार्वजनिक मंडळांच्या नवदुर्गांना निरोप",
-      "link": "https://www.youtube.com/watch?v=-Ew9ZdrEMRY",
-      "image": "https://i.ytimg.com/vi/-Ew9ZdrEMRY/hqdefault.jpg",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "देवगड इंद्रधनुची उद्या सेलिब्रिटी नाईट",
-      "link": "https://www.youtube.com/watch?v=RK8W7kc8jGI",
-      "image": "https://i.ytimg.com/vi/RK8W7kc8jGI/hqdefault.jpg",
-      "date": "19 Oct 2026"
-    },
-    {
-      "title": "महादेव सावळो जाधव, पंचशीलनगर-दोडामार्ग, ता. दोडामार्ग",
-      "link": "https://www.youtube.com/watch?v=tnBIZD070cU",
-      "image": "https://i.ytimg.com/vi/tnBIZD070cU/hqdefault.jpg",
-      "date": "01 Oct 2026"
-    },
-    {
-      "title": "प्रदीप गणपत धनावडे, मु.पो. धामापूर, ता.संगमेश्वर, जि.रत्नागिरी",
-      "link": "https://www.youtube.com/watch?v=rD7xQwEqG6A",
-      "image": "https://i.ytimg.com/vi/rD7xQwEqG6A/hqdefault.jpg",
-      "date": "30 Sep 2026"
-    },
-    {
-      "title": "बाबुराव वामन राणे, बापर्डे, ता. देवगड यांच्या निवासस्थानी विराजमान गणराज",
-      "link": "https://www.youtube.com/watch?v=2f4VmGWtmuU",
-      "image": "https://i.ytimg.com/vi/2f4VmGWtmuU/hqdefault.jpg",
-      "date": "29 Sep 2026"
-    },
-    {
-      "title": "माजी पंचायत समिती सदस्य सुनिल गांवकर यांच्या देवगड साळशी येथील निवासस्थानी विराजमान श्री गणराज",
-      "link": "https://www.youtube.com/watch?v=kK93l7W8HNE",
-      "image": "https://i.ytimg.com/vi/kK93l7W8HNE/hqdefault.jpg",
-      "date": "29 Sep 2026"
-    },
-    {
-      "title": "दासू गोवेकर, कुंभारमाठ, मालवण, जि. सिंधुदुर्ग",
-      "link": "https://www.youtube.com/watch?v=VRg4PYEVkCw",
-      "image": "https://i.ytimg.com/vi/VRg4PYEVkCw/hqdefault.jpg",
-      "date": "29 Sep 2026"
-    },
-    {
-      "title": "भिकनाथ उर्फ बाब्या गोसावी, मळगाव-कुंभार्ली, ता. सावंतवाडी",
-      "link": "https://www.youtube.com/watch?v=rTIJ2sTaMkk",
-      "image": "https://i.ytimg.com/vi/rTIJ2sTaMkk/hqdefault.jpg",
-      "date": "29 Sep 2026"
-    },
-    {
-      "title": "राजेंद्र वासुदेव कोयंडे, (कालवेकर), कट्टा, ता. देवगड यांच्या निवासस्थानी विराजमान गणपती बाप्पा",
-      "link": "https://www.youtube.com/watch?v=6kJoQd-gWJM",
-      "image": "https://i.ytimg.com/vi/6kJoQd-gWJM/hqdefault.jpg",
-      "date": "28 Sep 2026"
-    },
-    {
-      "title": "तेजस राजस धुरी, आसोली - घाडीवाडी, ता. वेंगुर्ला, जि. सिंधुदुर्ग",
-      "link": "https://www.youtube.com/watch?v=Aknc9NXnQws",
-      "image": "https://i.ytimg.com/vi/Aknc9NXnQws/hqdefault.jpg",
-      "date": "28 Sep 2026"
-    },
-    {
-      "title": "बादल चौधरी, वालावल, ता. कुडाळ, जि. सिंधुदुर्ग",
-      "link": "https://www.youtube.com/watch?v=CQo7iyUsptk",
-      "image": "https://i.ytimg.com/vi/CQo7iyUsptk/hqdefault.jpg",
-      "date": "28 Sep 2026"
-    },
-    {
-      "title": "थळकर देवघर, थळकर कुटुंबीय, तळवडे- परबवाडी, ता. सावंतवाडी",
-      "link": "https://www.youtube.com/watch?v=HHFntzU6BEY",
-      "image": "https://i.ytimg.com/vi/HHFntzU6BEY/hqdefault.jpg",
-      "date": "26 Sep 2026"
-    },
-    {
-      "title": "प्रथमेश नित्यानंद ठाकूर, (राम गणोजी परिवार) म्हापण, खालचावाडा ठाकूर, ता. वेंगुर्ला",
-      "link": "https://www.youtube.com/watch?v=WrxyAoc-xoc",
-      "image": "https://i.ytimg.com/vi/WrxyAoc-xoc/hqdefault.jpg",
-      "date": "26 Sep 2026"
-    },
-    {
-      "title": "अनंत रामकृष्ण चाळके, मु  पो बेळणे खुर्द, वरचीवाडी, ता  कणकवली",
-      "link": "https://www.youtube.com/watch?v=VchrI_AzzlM",
-      "image": "https://i.ytimg.com/vi/VchrI_AzzlM/hqdefault.jpg",
-      "date": "24 Sep 2026"
-    }
-  ]
+  "youtube": []
 }
