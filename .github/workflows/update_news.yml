@@ -2,7 +2,7 @@ name: Update Kokansad News
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # दर १५ मिनिटांनी रन होईल
+    - cron: '7,22,37,52 * * * *' # दर १५ मिनिटांनी रन होईल
   workflow_dispatch:       # तुम्हाला हवे तेव्हा मॅन्युअली रन करण्यासाठी
 
 permissions:
