@@ -1,6 +1,6 @@
 import json
-import re
 import requests
+import yt_dlp
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -14,8 +14,7 @@ ALLOWED_CATEGORIES = [
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 }
 
 def scrape_kokan_all():
@@ -45,58 +44,29 @@ def scrape_kokan_all():
 
     return items
 
-def find_video_renderers(obj, results):
-    """ytInitialData मधून क्रमाने सर्व videoRenderer शोधते"""
-    if isinstance(obj, dict):
-        if "videoRenderer" in obj:
-            results.append(obj["videoRenderer"])
-        else:
-            for v in obj.values():
-                find_video_renderers(v, results)
-    elif isinstance(obj, list):
-        for item in obj:
-            find_video_renderers(item, results)
-
 def scrape_youtube():
-    """@KokansadLiveNews/videos वरून अगदी ताजे (Latest) १५ व्हिडिओ काढते"""
+    """yt-dlp वापरून @KokansadLiveNews चे अगदी ताजे १५ व्हिडिओ काढते"""
     videos = []
-    seen = set()
     try:
-        res = requests.get(
-            YOUTUBE_VIDEOS_URL,
-            headers=HEADERS,
-            cookies={"CONSENT": "YES+cb"},
-            timeout=15
-        )
-        match = re.search(r"var ytInitialData = (\{.*?\});</script>", res.text)
-        if not match:
-            print("ytInitialData not found")
-            return videos
-
-        yt_data = json.loads(match.group(1))
-        renderers = []
-        find_video_renderers(yt_data, renderers)
-
-        for vr in renderers:
-            vid_id = vr.get("videoId")
-            if not vid_id or vid_id in seen:
-                continue
-
-            title_runs = vr.get("title", {}).get("runs", [])
-            title = title_runs[0].get("text", "").strip() if title_runs else ""
-            pub_text = vr.get("publishedTimeText", {}).get("simpleText", "")
-
-            if title:
-                seen.add(vid_id)
-                videos.append({
-                    "title": title,
-                    "link": f"https://www.youtube.com/watch?v={vid_id}",
-                    "image": f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg",
-                    "date": pub_text
-                })
-
-            if len(videos) >= 15:
-                break
+        ydl_opts = {
+            "extract_flat": True,
+            "playlistend": 15,
+            "quiet": True,
+            "no_warnings": True,
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(YOUTUBE_VIDEOS_URL, download=False)
+            for entry in info.get("entries", []):
+                vid_id = entry.get("id")
+                title = entry.get("title")
+                duration = entry.get("duration_string") or "YouTube Video"
+                if vid_id and title:
+                    videos.append({
+                        "title": title.strip(),
+                        "link": f"https://www.youtube.com/watch?v={vid_id}",
+                        "image": f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg",
+                        "date": duration
+                    })
     except Exception as e:
         print("Error scraping YouTube:", e)
 
