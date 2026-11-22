@@ -69,10 +69,7 @@
       visibility: hidden;
       transition: all 0.25s ease;
     }
-    .drawer-overlay.open {
-      opacity: 1;
-      visibility: visible;
-    }
+    .drawer-overlay.open { opacity: 1; visibility: visible; }
     .side-drawer {
       position: fixed;
       top: 0;
@@ -95,10 +92,7 @@
       align-items: center;
       justify-content: space-between;
     }
-    .drawer-header span {
-      font-size: 18px;
-      font-weight: 700;
-    }
+    .drawer-header span { font-size: 18px; font-weight: 700; }
     .drawer-close {
       background: rgba(255,255,255,0.18);
       border: none;
@@ -138,6 +132,39 @@
       font-weight: 700;
     }
     .drawer-item:active { background: #e0e7ff; }
+
+    /* Drawer Bottom Actions (Share & Rate) */
+    .drawer-footer {
+      padding: 12px;
+      border-top: 1px solid #e5e7eb;
+      background: #f8fafc;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .drawer-action-btn {
+      width: 100%;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: none;
+      font-family: inherit;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: transform 0.15s ease;
+    }
+    .drawer-action-btn:active { transform: scale(0.97); }
+    .btn-share {
+      background: #e0e7ff;
+      color: #0A0989;
+    }
+    .btn-rate {
+      background: #fef3c7;
+      color: #b45309;
+    }
 
     /* Sticky Category Tabs */
     .tabs-container {
@@ -236,11 +263,7 @@
       transition: transform 0.15s ease;
     }
     .epaper-banner:active { transform: scale(0.98); }
-    .epaper-left {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
+    .epaper-left { display: flex; align-items: center; gap: 12px; }
     .epaper-icon {
       width: 44px;
       height: 44px;
@@ -252,16 +275,8 @@
       font-size: 22px;
       flex-shrink: 0;
     }
-    .epaper-title {
-      font-size: 19px;
-      font-weight: 800;
-      line-height: 1.2;
-    }
-    .epaper-tagline {
-      font-size: 13px;
-      opacity: 0.92;
-      margin-top: 2px;
-    }
+    .epaper-title { font-size: 19px; font-weight: 800; line-height: 1.2; }
+    .epaper-tagline { font-size: 13px; opacity: 0.92; margin-top: 2px; }
     .epaper-cta {
       background: #ffffff;
       color: #b91c1c;
@@ -509,9 +524,86 @@
       margin: 0 6px;
     }
     .policy-links a:hover { color: #0A0989; }
+
+    /* Offline Error Page Overlay */
+    .offline-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 5000;
+      background: #f4f6f9;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 24px;
+    }
+    .offline-overlay.show { display: flex; }
+    .offline-card {
+      background: #ffffff;
+      border-radius: 20px;
+      padding: 32px 24px;
+      max-width: 340px;
+      width: 100%;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+    .offline-icon-wrap {
+      width: 72px;
+      height: 72px;
+      margin: 0 auto 16px;
+      border-radius: 50%;
+      background: #fee2e2;
+      color: #dc2626;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+    }
+    .offline-title {
+      font-size: 20px;
+      font-weight: 800;
+      color: #111827;
+      margin-bottom: 8px;
+    }
+    .offline-desc {
+      font-size: 14px;
+      color: #6b7280;
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+    .retry-btn {
+      background: #0A0989;
+      color: #ffffff;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 25px;
+      font-family: inherit;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 4px 12px rgba(10, 9, 137, 0.25);
+    }
+    .retry-btn:active { transform: scale(0.96); }
   </style>
 </head>
 <body>
+
+  <!-- Offline Error Screen -->
+  <div class="offline-overlay" id="offline-screen">
+    <div class="offline-card">
+      <div class="offline-icon-wrap">
+        <i class="fa-solid fa-wifi"></i>
+      </div>
+      <div class="offline-title">इंटरनेट कनेक्शन नाही</div>
+      <div class="offline-desc">ताज्या बातम्या आणि LIVE TV पाहण्यासाठी कृपया तुमचे मोबाईल डेटा किंवा Wi-Fi सुरू करा.</div>
+      <button class="retry-btn" onclick="retryConnection()">
+        <i class="fa-solid fa-rotate-right"></i> पुन्हा प्रयत्न करा
+      </button>
+    </div>
+  </div>
 
   <!-- App Header -->
   <header class="app-header">
@@ -531,6 +623,14 @@
       </button>
     </div>
     <div class="drawer-list" id="drawer-list"></div>
+    <div class="drawer-footer">
+      <button class="drawer-action-btn btn-share" onclick="shareApp()">
+        <i class="fa-solid fa-share-nodes"></i> Share App
+      </button>
+      <button class="drawer-action-btn btn-rate" onclick="rateApp()">
+        <i class="fa-solid fa-star"></i> Rate This App
+      </button>
+    </div>
   </aside>
 
   <!-- Sticky Category Tabs -->
@@ -614,6 +714,9 @@
   </div>
 
   <script>
+    // Play Store लिंक (App पब्लिश झाल्यावर YOUR_PACKAGE_NAME बदला)
+    const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME';
+
     // PWA Service Worker नोंदणी
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
@@ -629,6 +732,26 @@
       }
     });
 
+    // Offline / Online Detection
+    const offlineScreen = document.getElementById('offline-screen');
+    function updateOnlineStatus() {
+      if (!navigator.onLine) {
+        offlineScreen.classList.add('show');
+      } else {
+        offlineScreen.classList.remove('show');
+        if (allCategories.length === 0) loadNews();
+      }
+    }
+    window.addEventListener('offline', updateOnlineStatus);
+    window.addEventListener('online', updateOnlineStatus);
+
+    function retryConnection() {
+      if (navigator.onLine) {
+        offlineScreen.classList.remove('show');
+        loadNews();
+      }
+    }
+
     // Hamburger Drawer Control
     function openDrawer() {
       document.getElementById('drawer-overlay').classList.add('open');
@@ -637,6 +760,27 @@
     function closeDrawer() {
       document.getElementById('drawer-overlay').classList.remove('open');
       document.getElementById('side-drawer').classList.remove('open');
+    }
+
+    // Share App & Rate App
+    function shareApp() {
+      closeDrawer();
+      const shareData = {
+        title: 'Kokansad Live app',
+        text: 'कोकणातील ताज्या बातम्या, LIVE TV आणि दैनिक कोकणसाद ई-पेपरसाठी Kokansad Live App पहा:',
+        url: window.location.href
+      };
+      if (navigator.share) {
+        navigator.share(shareData).catch(() => {});
+      } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(window.location.href);
+        alert('App लिंक कॉपी झाली आहे!');
+      }
+    }
+
+    function rateApp() {
+      closeDrawer();
+      window.open(PLAY_STORE_URL, '_blank', 'noopener,noreferrer');
     }
 
     // Fullscreen & Back Button Handling
@@ -677,15 +821,27 @@
       else enterFullscreen();
     }
 
-    window.addEventListener('popstate', () => { if (isFull) exitFullscreen(true); });
-    document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement && isFull) exitFullscreen(); });
+    // मोबाईल Back Button: आधी Fullscreen बंद करा, अन्यथा इतर कॅटेगरीवरून 'ठळक बातम्या' वर या
+    window.addEventListener('popstate', () => {
+      if (isFull) {
+        exitFullscreen(true);
+        return;
+      }
+      if (activeCatIndex !== 0) {
+        selectCategory(0, true);
+      }
+    });
+
+    document.addEventListener('fullscreenchange', () => {
+      if (!document.fullscreenElement && isFull) exitFullscreen();
+    });
 
     // State
     let allCategories = [];
     let youtubeVideos = [];
     let activeCatIndex = 0;
     const NEWS_PER_PAGE = 10;
-    const YT_PER_PAGE = 5;
+    const YT_PER_PAGE = 6; // ६ YouTube व्हिडिओज प्रति पेज
 
     function showSkeletons(count = 4) {
       document.getElementById('news-list').innerHTML = Array(count).fill(`
@@ -701,17 +857,23 @@
     }
 
     async function loadNews() {
+      if (!navigator.onLine) {
+        offlineScreen.classList.add('show');
+        return;
+      }
       showSkeletons(4);
       try {
         const res = await fetch('news.json?t=' + new Date().getTime());
+        if (!res.ok) throw new Error('Network error');
         const data = await res.json();
         allCategories = data.categories || [];
         youtubeVideos = data.youtube || [];
+        offlineScreen.classList.remove('show');
         renderNavigation();
         if (allCategories.length > 0) renderNews(0, 1);
         renderYouTube(1);
       } catch (err) {
-        document.getElementById('news-list').innerHTML = '<div style="text-align:center;padding:30px;color:#666;">बातम्या लोड करण्यात अडचण आली.</div>';
+        offlineScreen.classList.add('show');
       }
     }
 
@@ -733,11 +895,23 @@
       `).join('');
     }
 
-    function selectCategory(index) {
+    function selectCategory(index, fromPopstate = false) {
+      const prevIndex = activeCatIndex;
+
+      // ठळक बातम्या (0) वर परत आल्यास history state स्वच्छ करा
+      if (index === 0 && !fromPopstate && history.state && history.state.catPage) {
+        history.back();
+        return;
+      }
+
+      // ठळक बातम्यांवरून दुसऱ्या कॅटेगरीत जाताना Back Button साठी history state जोडा
+      if (prevIndex === 0 && index !== 0 && !fromPopstate) {
+        history.pushState({ catPage: true }, '');
+      }
+
       activeCatIndex = index;
       closeDrawer();
 
-      // Tabs आणि Drawer दोन्हीकडे Active Highlight अपडेट करा
       document.querySelectorAll('.tab-btn').forEach(b => {
         b.classList.toggle('active', Number(b.dataset.idx) === index);
         if (Number(b.dataset.idx) === index) {
