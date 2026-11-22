@@ -1,9 +1,15 @@
 {
-  "updated_at": "22 Nov 2026, 08:15 AM",
+  "updated_at": "22 Nov 2026, 08:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News :  दिविजा वृद्धाश्रमात ‘श्रीधर रमा सभागृह’चे लोकार्पण",
+          "link": "https://kokansadlive.com/kokan/inauguration-of-shridhar-rama-hall-at-divija-old-age-home/36149",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36149_pic_20261122.1354.webp",
+          "date": "November 22, 2026"
+        },
         {
           "title": "मातोंड केंद्रशाळेत हर्षद डेरेंच्या पुढाकारातून वायफाय सुविधा",
           "link": "https://kokansadlive.com/kokan/the-path-to-digital-education-for-students-has-been-made-easier/36148",
@@ -176,12 +182,6 @@
           "title": "Nilesh Rane : आकारीपड जमिनीचा प्रश्न 'मी' सोडवणारच : निलेश राणे",
           "link": "https://kokansadlive.com/kokan/nilesh-rane-mangaon-valley-akaripadt-land-issue-1444-farmers/36106",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36106_pic_20261120.2015.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Sindhudurg Civil Defence Mock Drill : जिल्ह्यात २५ नोव्हेंबर रोजी नागरी संरक्षण मॉकड्रिल व ब्लॅकआउट सराव",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-civil-defence-mock-drill-blackout-exercise-2026/36104",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36104_pic_20261120.1946.webp",
           "date": "November 20, 2026"
         }
       ]
