@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Nov 2026, 01:30 PM",
+  "updated_at": "22 Nov 2026, 01:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "विद्यार्थ्यांसोबत रमले पालकमंत्री",
+      "link": "https://www.youtube.com/watch?v=QEnUyqxU-K0",
+      "image": "https://i.ytimg.com/vi/QEnUyqxU-K0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "कणकवली शहरात दररोज हवी 'खाऊ गल्ली' !",
+      "link": "https://www.youtube.com/watch?v=E-TL47UGS5I",
+      "image": "https://i.ytimg.com/vi/E-TL47UGS5I/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "पंचायत समितीच्या इमारतीसाठी योगदान देणाऱ्यांचा उल्लेख",
       "link": "https://www.youtube.com/watch?v=I8LOkaORw8o",
       "image": "https://i.ytimg.com/vi/I8LOkaORw8o/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "विठ्ठल मंदिरात धार्मिक कार्यक्रम",
       "link": "https://www.youtube.com/watch?v=Q8Y0at_eb4g",
       "image": "https://i.ytimg.com/vi/Q8Y0at_eb4g/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शासनाने तातडीने निर्णय घ्यावा : दत्ता सामंत",
-      "link": "https://www.youtube.com/watch?v=qFpRwRqv2CA",
-      "image": "https://i.ytimg.com/vi/qFpRwRqv2CA/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सिंधुदुर्गचा समावेश ट्रिगर १ मध्ये होणे चिंतेचे : मंत्री नितेश राणे",
-      "link": "https://www.youtube.com/watch?v=ISIWydmpOXI",
-      "image": "https://i.ytimg.com/vi/ISIWydmpOXI/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
