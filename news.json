@@ -1,190 +1,9 @@
 {
-  "updated_at": "22 Nov 2026, 01:45 PM",
+  "updated_at": "22 Nov 2026, 02:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
-      "items": [
-        {
-          "title": "Kankavli News : पत्रकार विजय गांवकर यांना मातृशोक",
-          "link": "https://kokansadlive.com/kokan/sunita-gavkar-passes-away/36160",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36160_pic_20261122.1810.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Stray Dogs Solution Maharashtra : भटक्या कुत्र्यांच्या समस्येवर कायमस्वरूपी उपाययोजना करा",
-          "link": "https://kokansadlive.com/kokan/stray-dogs-solution-maharashtra-permanent-measures-for-stray-dog-problem/36159",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36159_pic_20261122.1738.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Kudal News : तळकोकणातील जत्रोत्सवांना मोठ्या उत्साहात प्रारंभ",
-          "link": "https://kokansadlive.com/kokan/temple-festivals-in-the-southern-konkan-region-begin-with-great-enthusiasm/36158",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36158_pic_20261122.1652.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Dodamarg News : दोडामार्गात जिजाऊ संघटनेतर्फे मोफत वह्यांचे वाटप",
-          "link": "https://kokansadlive.com/kokan/free-notebooks-distributed-by-jijau-sanghatana-in-dodamarg/36157",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36157_pic_20261122.1646.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Dodamarg News : शासकीय धान्य गोदामातील निकृष्ट गव्हाची चौकशी करा",
-          "link": "https://kokansadlive.com/kokan/dodamarg-news-inquiry-into-substandard-wheat-in-government-grain-warehouse/36156",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36156_pic_20261122.1607.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Vengurla News : वायंगणीतील शेतकऱ्यांना वैरण बियाण्यांचे वाटप",
-          "link": "https://kokansadlive.com/kokan/distribution-of-fodder-seeds-to-farmers-in-vayangani/36155",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36155_pic_20261122.1553.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "शशिकांत आपटे यांचे निधन",
-          "link": "https://kokansadlive.com/kokan/shashikant-apte-passes-away/36154",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36154_pic_20261122.1544.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Sawantwadi news :  दत्तराज पै याचे चार्टर्ड अकाऊंटंट परीक्षेत यश",
-          "link": "https://kokansadlive.com/kokan/dattaraj-pai-succeeds-in-chartered-accountant-examination/36152",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36152_pic_20261122.1422.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Nitesh Rane Sawantwadi : विद्यार्थ्यांसोबत रमले पालकमंत्री",
-          "link": "https://kokansadlive.com/kokan/nitesh-rane-sawantwadi-guardian-minister-enjoyed-with-students/36150",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36150_pic_20261122.1403.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Devgad News :  दिविजा वृद्धाश्रमात ‘श्रीधर रमा सभागृह’चे लोकार्पण",
-          "link": "https://kokansadlive.com/kokan/inauguration-of-shridhar-rama-hall-at-divija-old-age-home/36149",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36149_pic_20261122.1354.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "मातोंड केंद्रशाळेत हर्षद डेरेंच्या पुढाकारातून वायफाय सुविधा",
-          "link": "https://kokansadlive.com/kokan/the-path-to-digital-education-for-students-has-been-made-easier/36148",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36148_pic_20261122.1201.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Vengurla News : स्वयंचलित हवामान केंद्राची सुजाता पडवळ यांच्याकडून पाहणी",
-          "link": "https://kokansadlive.com/kokan/inspection-of-the-automatic-weather-station-by-sujata-padwal/36147",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36147_pic_20261122.1140.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "पेंडूर येथे सार्वजनिक शौचालयाचे लोकार्पण",
-          "link": "https://kokansadlive.com/kokan/inauguration-of-a-public-toilet-at-pendur/36146",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36146_pic_20261122.1134.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Vengurla News : तुळस येथे  वक्तृत्व , स्तोत्र पाठांतर , मनाचे श्लोक पठण स्पर्धा",
-          "link": "https://kokansadlive.com/kokan/competitions-in-oratory-recitation-of-hymns-stotras-and-chanting-of-manache-shlok-at-tulas/36145",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36145_pic_20261122.1129.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "वेंगुर्ला पंचायत समितीच्या वतीने अणसूर ग्रामपंचायतचा सत्कार",
-          "link": "https://kokansadlive.com/kokan/vengurla-panchayat-samiti-honors-ansur-grampanchayat/36144",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36144_pic_20261122.1109.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "तिथवलीत सोमवारी ठाकरे शिवसेनेच्या शाखेचे उद्घाटन",
-          "link": "https://kokansadlive.com/kokan/thackeray-shivsena-branch-inauguration-in-tithwali-on-monday/36143",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36143_pic_20261122.1102.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Omkar Elephant : सावंतवाडी, वेंगुर्ल्यात धुमाकूळ घातल्यानंतर ओंकार हत्ती पुन्हा दोडामार्गात",
-          "link": "https://kokansadlive.com/kokan/omkar-elephant-returns-dodamarg-adali-village-sindhudurg/36140",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36140_pic_20261121.2126.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "कोकणातून अधिकारी घडवणे हेच ध्येय असून शेवटच्या श्वासापर्यंत कोकणासाठी काम करणार",
-          "link": "https://kokansadlive.com/kokan/jijau-organization-free-notebooks-distribution-dodamarg-nilesh-sambare/36139",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36139_pic_20261121.2059.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Konkan Railway Delay : कोकण रेल्वेचे वेळापत्रक कोलमडले",
-          "link": "https://kokansadlive.com/kokan/konkan-railway-delay-ltt-madgaon-konkan-kanya-jan-shatabdi/36138",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36138_pic_20261121.2036.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "यंदा कणकवली पर्यटन महोत्सव मोठ्या उत्साहात होणार",
-          "link": "https://kokansadlive.com/kokan/kankavli-tourism-festival-to-be-held-with-great-enthusiasm-this-year/36136",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36136_pic_20261121.2042.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Dodamarg News : रात्री बसस्थानकात पार्क केलेली एसटी सकाळी महामार्गावर",
-          "link": "https://kokansadlive.com/kokan/dodamarg-st-bus-highway-incident-45-litres-diesel-missing/36133",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36133_pic_20261121.1944.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "कै. डॉ. शरयू आसोलकर यांच्या नावे कविता पुरस्कार",
-          "link": "https://kokansadlive.com/kokan/poetry-award-in-the-name-of-the-late-dr-sharayu-asolkar/36131",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36131_pic_20261121.1911.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "MPSC Guidance Workshop : सिंधुदुर्गातील युवक आता प्रशासकीय सेवेत चमकणार",
-          "link": "https://kokansadlive.com/kokan/free-mpsc-guidance-workshop-kudal-170-students-nilesh-rane/36129",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36129_pic_20261121.1848.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Nitesh Rane : पंचायत समिती नूतन इमारतीचे पालकमंत्र्यांच्या हस्ते भूमिपूजन",
-          "link": "https://kokansadlive.com/kokan/sawantwadi-panchayat-samiti-building-14-65-crore-fund/36128",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36128_pic_20261121.1828.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "... जेव्हा पालकमंत्री आपला ताफा थांबवायला सांगता",
-          "link": "https://kokansadlive.com/kokan/nitesh-rane-visits-advait-bake-house-sawantwadi-advait-nevgi/36127",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36127_pic_20261121.1822.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "सेवानिवृत्त शिक्षक उदय दिनदयाळ यांचे निधन",
-          "link": "https://kokansadlive.com/kokan/retired-teacher-uday-dindayal-passes-away/36125",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36125_pic_20261121.1736.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Kurli Devi Tripurari Pournima Festival 2026 : कुर्ली गावचा त्रिपुरारी पौर्णिमा उत्सव २४ नोव्हेंबरला",
-          "link": "https://kokansadlive.com/kokan/kurli-devi-tripurari-pournima-festival-2026-kurli-village-tripurari-pournima-festival-on-november-24/36123",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36123_pic_20261121.1618.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
-          "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "'क्लास १' अधिकारी घडण्यासाठी नगरसेवक मंदार शिरसाट यांचे सकारात्मक पाऊल",
-          "link": "https://kokansadlive.com/kokan/kudal-mumbai-university-competitive-exam-guidance-centre-demand/36120",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36120_pic_20261121.1357.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Chiplun Water Supply : चिपळुणात आता दिवसातून एकदाच पाणीपुरवठा",
-          "link": "https://kokansadlive.com/kokan/chiplun-water-supply-timings-changed-november-23/36119",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36119_pic_20261121.1350.webp",
-          "date": "November 21, 2026"
-        }
-      ]
+      "items": []
     },
     {
       "name": "लक्ष्यवेधी",
@@ -644,6 +463,12 @@
   ],
   "youtube": [
     {
+      "title": "दोडामार्गात विद्यार्थ्यांना मोफत वह्यांचे वाटप",
+      "link": "https://www.youtube.com/watch?v=BTLOW-KX0cI",
+      "image": "https://i.ytimg.com/vi/BTLOW-KX0cI/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "विद्यार्थ्यांसोबत रमले पालकमंत्री",
       "link": "https://www.youtube.com/watch?v=QEnUyqxU-K0",
       "image": "https://i.ytimg.com/vi/QEnUyqxU-K0/hqdefault.jpg",
@@ -725,12 +550,6 @@
       "title": "हिरव्या सापांचा कार्यक्रम करण्यासाठी सज्ज",
       "link": "https://www.youtube.com/watch?v=6UZzzDXq9tE",
       "image": "https://i.ytimg.com/vi/6UZzzDXq9tE/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "विठ्ठल मंदिरात धार्मिक कार्यक्रम",
-      "link": "https://www.youtube.com/watch?v=Q8Y0at_eb4g",
-      "image": "https://i.ytimg.com/vi/Q8Y0at_eb4g/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
