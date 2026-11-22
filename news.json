@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Nov 2026, 02:30 PM",
+  "updated_at": "22 Nov 2026, 02:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "भर समुद्रातली  'म्हातारीची चूळ'",
+      "link": "https://www.youtube.com/watch?v=BCM33GGWSHw",
+      "image": "https://i.ytimg.com/vi/BCM33GGWSHw/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "दिवंगत डॉ. शरयू आसोलकर यांच्या नावे कविता पुरस्कार",
+      "link": "https://www.youtube.com/watch?v=0O3zniRJHSY",
+      "image": "https://i.ytimg.com/vi/0O3zniRJHSY/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "दोडामार्गात विद्यार्थ्यांना मोफत वह्यांचे वाटप",
       "link": "https://www.youtube.com/watch?v=BTLOW-KX0cI",
       "image": "https://i.ytimg.com/vi/BTLOW-KX0cI/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "कोकण रेल्वेचे वेळापत्रक कोलमडले",
       "link": "https://www.youtube.com/watch?v=PGpQOjrAglU",
       "image": "https://i.ytimg.com/vi/PGpQOjrAglU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "अन् पालकमंत्र्यांचा ताफा थांबला !",
-      "link": "https://www.youtube.com/watch?v=yWonYFe0Iyw",
-      "image": "https://i.ytimg.com/vi/yWonYFe0Iyw/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "हिरव्या सापांचा कार्यक्रम करण्यासाठी सज्ज",
-      "link": "https://www.youtube.com/watch?v=6UZzzDXq9tE",
-      "image": "https://i.ytimg.com/vi/6UZzzDXq9tE/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
