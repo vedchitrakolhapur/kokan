@@ -246,6 +246,41 @@
       border-radius: 0;
       z-index: 9999;
     }
+	/* Mini-Player (इतर टॅबवर असताना तळाशी उजवीकडे) */
+    .tv-box.is-minimized {
+      position: fixed;
+      bottom: 14px;
+      right: 14px;
+      width: 190px;
+      aspect-ratio: 16 / 9;
+      z-index: 250;
+      border-radius: 10px;
+      border: 2px solid #ffffff;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.38);
+    }
+    .tv-box.is-minimized #fs-btn { display: none; }
+    .mini-controls {
+      display: none;
+      position: absolute;
+      top: 4px;
+      right: 4px;
+      gap: 4px;
+      z-index: 12;
+    }
+    .tv-box.is-minimized .mini-controls { display: flex; }
+    .mini-btn {
+      background: rgba(0, 0, 0, 0.78);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.35);
+      border-radius: 5px;
+      width: 24px;
+      height: 24px;
+      font-size: 12px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
     /* E-Paper Attractive Banner */
     .epaper-banner {
@@ -607,7 +642,7 @@
 
   <!-- App Header -->
   <header class="app-header">
-    <div class="app-title">Kokansad Live app</div>
+    <div class="app-title">Kokansad Live App</div>
     <button class="menu-btn" onclick="openDrawer()" aria-label="Menu">
       <i class="fa-solid fa-bars"></i>
     </button>
@@ -638,22 +673,27 @@
 
   <div class="container-wrap">
     <!-- Live TV + E-Paper (फक्त ठळक बातम्या टॅबवर) -->
-    <div id="home-extras">
-      <div class="tv-wrapper">
-        <div class="tv-box" id="tv-box">
-          <div class="tv-controls">
-            <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
-          </div>
-          <iframe
-            id="live-tv-frame"
-            src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
-            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-            allowfullscreen>
-          </iframe>
+    <!-- Live TV (नेहमी उपलब्ध, इतर टॅबवर Minimize होईल) -->
+    <div class="tv-wrapper" id="tv-wrapper">
+      <div class="tv-box" id="tv-box">
+        <div class="tv-controls">
+          <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
         </div>
+        <div class="mini-controls">
+          <button class="mini-btn" onclick="selectCategory(0)" title="Home वर जा">⤢</button>
+          <button class="mini-btn" onclick="closeMiniTv()" title="TV बंद करा">✕</button>
+        </div>
+        <iframe
+          id="live-tv-frame"
+          src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
+          allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+          allowfullscreen>
+        </iframe>
       </div>
+    </div>
 
-      <!-- E-Paper Banner -->
+    <!-- E-Paper Banner (फक्त ठळक बातम्या टॅबवर) -->
+    <div id="home-extras">
       <a href="http://epaper.thegoan.net/t/37473/latest/KONKANSAAD"
          target="_blank" rel="noopener noreferrer" class="epaper-banner">
         <div class="epaper-left">
@@ -714,8 +754,8 @@
   </div>
 
   <script>
-    // Play Store लिंक (App पब्लिश झाल्यावर YOUR_PACKAGE_NAME बदला)
-    const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME';
+    // Play Store लिंक 
+    const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.kokansadlive.app';
 
     // PWA Service Worker नोंदणी
     if ('serviceWorker' in navigator) {
@@ -767,7 +807,7 @@
       closeDrawer();
       const shareData = {
         title: 'Kokansad Live app',
-        text: 'कोकणातील ताज्या बातम्या, LIVE TV आणि दैनिक कोकणसाद ई-पेपरसाठी Kokansad Live App पहा:',
+        text: 'कोकणातील ताज्या बातम्या, LIVE TV आणि दैनिक कोकणसाद ई-पेपरसाठी Kokansad Live App आजच install करून घ्या ..',
         url: window.location.href
       };
       if (navigator.share) {
@@ -787,6 +827,16 @@
     const tvBox = document.getElementById('tv-box');
     const fsBtn = document.getElementById('fs-btn');
     let isFull = false;
+	
+	const LIVE_TV_URL = 'https://cdn.rixcast.com/rcast/players/sindhudurglive.html';
+    const tvFrame = document.getElementById('live-tv-frame');
+    let isTvClosed = false;
+
+    function closeMiniTv() {
+      isTvClosed = true;
+      tvFrame.src = 'about:blank'; // आवाज पूर्णपणे बंद करण्यासाठी
+      tvBox.style.display = 'none';
+    }
 
     async function enterFullscreen() {
       if (isFull) return;
@@ -925,6 +975,20 @@
       const isHome = (index === 0);
       document.getElementById('home-extras').style.display = isHome ? 'block' : 'none';
       document.getElementById('yt-section').style.display = (isHome && youtubeVideos.length > 0) ? 'block' : 'none';
+
+      // Live TV Minimize / Restore लॉजिक
+      if (isHome) {
+        tvBox.classList.remove('is-minimized');
+        tvBox.style.display = 'block';
+        if (isTvClosed) {
+          tvFrame.src = LIVE_TV_URL;
+          isTvClosed = false;
+        }
+      } else {
+        if (!isTvClosed) {
+          tvBox.classList.add('is-minimized');
+        }
+      }
 
       renderNews(index, 1);
       window.scrollTo({ top: 0, behavior: 'smooth' });
