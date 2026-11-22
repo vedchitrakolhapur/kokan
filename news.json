@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Nov 2026, 11:30 AM",
+  "updated_at": "22 Nov 2026, 11:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "पंचायत समितीच्या इमारतीसाठी योगदान देणाऱ्यांचा उल्लेख",
+      "link": "https://www.youtube.com/watch?v=I8LOkaORw8o",
+      "image": "https://i.ytimg.com/vi/I8LOkaORw8o/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "पित्याकडून मुलीवर अत्याचार ? | संतापजनक घटना",
       "link": "https://www.youtube.com/watch?v=y-E2bHjKdtU",
       "image": "https://i.ytimg.com/vi/y-E2bHjKdtU/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "सिंधुदुर्गचा समावेश ट्रिगर १ मध्ये होणे चिंतेचे : मंत्री नितेश राणे",
       "link": "https://www.youtube.com/watch?v=ISIWydmpOXI",
       "image": "https://i.ytimg.com/vi/ISIWydmpOXI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "'कँडेला पी-१२' हायड्रोफॉइलची महाराष्ट्रात यशस्वी चाचणी",
-      "link": "https://www.youtube.com/watch?v=1B6Tv2rj3zo",
-      "image": "https://i.ytimg.com/vi/1B6Tv2rj3zo/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
