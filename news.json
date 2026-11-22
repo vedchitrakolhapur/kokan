@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Nov 2026, 05:15 AM",
+  "updated_at": "22 Nov 2026, 05:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Vaibhavwadi news : चार वर्षीय चिमुरडीवरील अत्याचारप्रकरणी शिक्षक पिता अटकेत",
+          "link": "https://kokansadlive.com/crime/vaibhavwadi-news-father-of-four-year-old-girl-arrested-in-molestation-case/36142",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36142_pic_20261122.1055.webp",
+          "date": "10:46"
+        },
+        {
           "title": "Kankavli POCSO Case : अल्पवयीन मुलीवर अत्याचार प्रकरणी आरोपीला जामीन",
           "link": "https://kokansadlive.com/crime/kankavli-pocso-case-accused-gets-conditional-bail-25000-bond/36135",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36135_pic_20261121.2013.webp",
@@ -436,12 +442,6 @@
           "title": "सातार्डा येथे मटका जुगारावर पोलिसांची कारवाई",
           "link": "https://kokansadlive.com/crime/police-action-against-matka-gambling-in-satarda-sawantwadi/36074",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36074_pic_20261119.2010.webp",
-          "date": "Nov 19"
-        },
-        {
-          "title": "आंबेलीच्या वळणावर एसटी बस-दुचाकीची भीषण धडक",
-          "link": "https://kokansadlive.com/crime/collision-between-an-st-bus-and-a-two-wheeler-at-ambeli-bend-dodamarg/36068",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36068_pic_20261119.1943.webp",
           "date": "Nov 19"
         }
       ]
