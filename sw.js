@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kokansad-pwa-v1';
+const CACHE_NAME = 'kokansad-pwa-v2';
 const ASSETS = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', event => {
@@ -18,8 +18,14 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-  // news.json नेहमी नेटवर्कवरून ताजे आणा, ऑफलाईन असल्यासच कॅशेमधून द्या
-  if (event.request.url.includes('news.json')) {
+  const url = event.request.url;
+
+  // HTML पेजेस आणि news.json नेहमी नेटवर्कवरून ताजे आणा; ऑफलाईन असल्यासच कॅशेमधून द्या
+  if (
+    event.request.mode === 'navigate' ||
+    url.includes('index.html') ||
+    url.includes('news.json')
+  ) {
     event.respondWith(
       fetch(event.request)
         .then(res => {
