@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Nov 2026, 03:00 PM",
+  "updated_at": "22 Nov 2026, 03:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "कोकणातल्या पहिल्या जत्रेत भाविकांची गर्दी",
+      "link": "https://www.youtube.com/watch?v=Whmo5r8JKy0",
+      "image": "https://i.ytimg.com/vi/Whmo5r8JKy0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "भर समुद्रातली  'म्हातारीची चूळ'",
       "link": "https://www.youtube.com/watch?v=BCM33GGWSHw",
       "image": "https://i.ytimg.com/vi/BCM33GGWSHw/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "खाद्यतेलाच्या दरवाढीचा फटका वडापाव, समोसा विक्रेत्यांना",
       "link": "https://www.youtube.com/watch?v=4qv1gwg8do8",
       "image": "https://i.ytimg.com/vi/4qv1gwg8do8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकण रेल्वेचे वेळापत्रक कोलमडले",
-      "link": "https://www.youtube.com/watch?v=PGpQOjrAglU",
-      "image": "https://i.ytimg.com/vi/PGpQOjrAglU/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
