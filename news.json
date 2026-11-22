@@ -1,9 +1,21 @@
 {
-  "updated_at": "22 Nov 2026, 11:15 AM",
+  "updated_at": "22 Nov 2026, 11:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kudal News : तळकोकणातील जत्रोत्सवांना मोठ्या उत्साहात प्रारंभ",
+          "link": "https://kokansadlive.com/kokan/temple-festivals-in-the-southern-konkan-region-begin-with-great-enthusiasm/36158",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36158_pic_20261122.1652.webp",
+          "date": "November 22, 2026"
+        },
+        {
+          "title": "Dodamarg News : दोडामार्गात जिजाऊ संघटनेतर्फे मोफत वह्यांचे वाटप",
+          "link": "https://kokansadlive.com/kokan/free-notebooks-distributed-by-jijau-sanghatana-in-dodamarg/36157",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36157_pic_20261122.1646.webp",
+          "date": "November 22, 2026"
+        },
         {
           "title": "Dodamarg News : शासकीय धान्य गोदामातील निकृष्ट गव्हाची चौकशी करा",
           "link": "https://kokansadlive.com/kokan/dodamarg-news-inquiry-into-substandard-wheat-in-government-grain-warehouse/36156",
@@ -170,18 +182,6 @@
           "title": "कुडाळमध्ये लायन्स फेस्टिव्हलचे आयोजन",
           "link": "https://kokansadlive.com/kokan/kudal-lions-festival-auto-expo-industrial-food-festival-2026/36116",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36116_pic_20261121.1328.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "आनंदी जीवनासाठी सत्संग आणि साधनेत सातत्य आवश्यक",
-          "link": "https://kokansadlive.com/kokan/importance-of-consistent-satsang-and-spiritual-practice-for-a-happy-life/36115",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36115_pic_20261121.1315.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "दलित वस्ती सुधार योजनेचे निकष बदला",
-          "link": "https://kokansadlive.com/kokan/devgad-dalit-vasti-development-scheme-fund-allocation-demand/36114",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36114_pic_20261121.1304.webp",
           "date": "November 21, 2026"
         }
       ]
