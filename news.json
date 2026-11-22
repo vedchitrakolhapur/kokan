@@ -1,9 +1,15 @@
 {
-  "updated_at": "22 Nov 2026, 08:30 AM",
+  "updated_at": "22 Nov 2026, 08:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Nitesh Rane Sawantwadi : विद्यार्थ्यांसोबत रमले पालकमंत्री",
+          "link": "https://kokansadlive.com/kokan/nitesh-rane-sawantwadi-guardian-minister-enjoyed-with-students/36150",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36150_pic_20261122.1403.webp",
+          "date": "November 22, 2026"
+        },
         {
           "title": "Devgad News :  दिविजा वृद्धाश्रमात ‘श्रीधर रमा सभागृह’चे लोकार्पण",
           "link": "https://kokansadlive.com/kokan/inauguration-of-shridhar-rama-hall-at-divija-old-age-home/36149",
@@ -176,12 +182,6 @@
           "title": "Waghbaras Festival 2026 : 'वाघ आला रे...वाघ!' रानात घुमणार आरोळ्या",
           "link": "https://kokansadlive.com/kokan/waghbaras-festival-chiplun-ratnagiri-november-22-2026/36108",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36108_pic_20261120.2100.webp",
-          "date": "November 20, 2026"
-        },
-        {
-          "title": "Nilesh Rane : आकारीपड जमिनीचा प्रश्न 'मी' सोडवणारच : निलेश राणे",
-          "link": "https://kokansadlive.com/kokan/nilesh-rane-mangaon-valley-akaripadt-land-issue-1444-farmers/36106",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36106_pic_20261120.2015.webp",
           "date": "November 20, 2026"
         }
       ]
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "Sawantwadi News : राष्ट्रीय बुद्धिबळ स्पर्धेत बाळकृष्ण पेडणेकरचे यश",
+          "link": "https://kokansadlive.com/sports/balkrishna-pednekar-s-success-at-the-national-chess-championship/36151",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36151_pic_20261122.1412.webp",
+          "date": "14:06"
+        },
+        {
           "title": "नीरजा पवारची बॅडमिंटन राज्य अजिंक्यपद स्पर्धेत सुवर्ण झेप",
           "link": "https://kokansadlive.com/sports/neeraja-pawar-s-badminton-state-championship-gold-leap/36118",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36118_pic_20261121.1338.webp",
@@ -566,12 +572,6 @@
           "title": "Sawantwadi News : विधी मिशाळची महाराष्ट्राच्या रोलबॉल संघात निवड",
           "link": "https://kokansadlive.com/sports/sawantwadi-news-vidhi-mishal-selected-for-maharashtras-rollball-team/35934",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35934_pic_20261116.1348.webp",
-          "date": "Nov 16"
-        },
-        {
-          "title": "Jay Shah ICC Chairman : जय शहा यांची आयसीसी अध्यक्षपदी पुन्हा बिनविरोध निवड",
-          "link": "https://kokansadlive.com/sports/jay-shah-re-elected-icc-chairman-second-term/35933",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35933_pic_20261116.1341.webp",
           "date": "Nov 16"
         }
       ]
