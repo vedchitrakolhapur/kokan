@@ -1,9 +1,15 @@
 {
-  "updated_at": "22 Nov 2026, 10:30 AM",
+  "updated_at": "22 Nov 2026, 10:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Dodamarg News : शासकीय धान्य गोदामातील निकृष्ट गव्हाची चौकशी करा",
+          "link": "https://kokansadlive.com/kokan/dodamarg-news-inquiry-into-substandard-wheat-in-government-grain-warehouse/36156",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36156_pic_20261122.1607.webp",
+          "date": "November 22, 2026"
+        },
         {
           "title": "Vengurla News : वायंगणीतील शेतकऱ्यांना वैरण बियाण्यांचे वाटप",
           "link": "https://kokansadlive.com/kokan/distribution-of-fodder-seeds-to-farmers-in-vayangani/36155",
@@ -176,12 +182,6 @@
           "title": "दलित वस्ती सुधार योजनेचे निकष बदला",
           "link": "https://kokansadlive.com/kokan/devgad-dalit-vasti-development-scheme-fund-allocation-demand/36114",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36114_pic_20261121.1304.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "देवगड महाविद्यालयात २७ नोव्हेंबरला ‘गांधी विचार संस्कार परीक्षा २०२६’",
-          "link": "https://kokansadlive.com/kokan/gandhi-thought-and-values-examination-2026-held-devgad-college-november-27/36112",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36112_pic_20261121.1134.webp",
           "date": "November 21, 2026"
         }
       ]
