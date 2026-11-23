@@ -1,9 +1,15 @@
 {
-  "updated_at": "23 Nov 2026, 05:00 AM",
+  "updated_at": "23 Nov 2026, 05:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News :  देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर जप्त",
+          "link": "https://kokansadlive.com/kokan/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36162_pic_20261123.1044.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "जामसंडेत बंद घरांना चोरट्यांचे लक्ष्य",
           "link": "https://kokansadlive.com/kokan/thieves-target-locked-houses-in-jamsandeh/36161",
@@ -176,12 +182,6 @@
           "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
           "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "'क्लास १' अधिकारी घडण्यासाठी नगरसेवक मंदार शिरसाट यांचे सकारात्मक पाऊल",
-          "link": "https://kokansadlive.com/kokan/kudal-mumbai-university-competitive-exam-guidance-centre-demand/36120",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36120_pic_20261121.1357.webp",
           "date": "November 21, 2026"
         }
       ]
