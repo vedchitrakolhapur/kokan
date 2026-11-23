@@ -1,9 +1,27 @@
 {
-  "updated_at": "23 Nov 2026, 02:45 PM",
+  "updated_at": "23 Nov 2026, 03:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg Jail : कारागृहातील ४० बंदीवानांना पेंटिंग प्रशिक्षणाचे प्रमाणपत्र",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-jail-40-prisoners-painting-skill-training-certificates/36210",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36210_pic_20261123.2029.webp",
+          "date": "November 23, 2026"
+        },
+        {
+          "title": "बांदा शाखा कालव्याच्या साफसफाईला नेतर्डे येथून सुरुवात",
+          "link": "https://kokansadlive.com/kokan/tilari-banda-branch-canal-cleaning-work-starts-netarde-sawantwadi/36209",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36209_pic_20261123.2024.webp",
+          "date": "November 23, 2026"
+        },
+        {
+          "title": "तिलारी आंतरराज्य प्रकल्पामध्ये सुरक्षा रक्षक नियुक्तीच्या मागणीसाठी बेमुदत उपोषण",
+          "link": "https://kokansadlive.com/kokan/tilari-project-dam-affected-backward-class-youth-security-guard-jobs-protest/36208",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36208_pic_20261123.2017.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "२२ तलाव, धरणांच्या गाळ उपशासाठी २.२० कोटींचा ठेका",
           "link": "https://kokansadlive.com/kokan/sindhudurg-2-20-crore-lake-desilting-project-22-lakes-work-delay/36207",
@@ -164,24 +182,6 @@
           "title": "कोकण रेल्वे प्रवाशांसाठी महत्त्वाची बातमी! दिवा-पनवेल मार्गावर पॉवर ब्लॉक; अनेक एक्सप्रेस गाड्यांच्या वेळापत्रकात बदल",
           "link": "https://kokansadlive.com/kokan/konkan-railway-train-update-diva-panvel-power-block-november/36173",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36173_pic_20261123.1554.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Sawantwadi News : कास ग्रामविकास संस्थेचा दुसरा स्नेहमेळावा उत्साहात",
-          "link": "https://kokansadlive.com/kokan/second-get-together-of-kas-gram-vikas-sanstha-held-with-great-enthusiasm/36170",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36170_pic_20261123.1535.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Omkar Elephant Sindhudurg : ओंकारच्या मनोमिलनाची चाहूल !",
-          "link": "https://kokansadlive.com/kokan/omkar-elephant-sindhudurg-omkar-s-union-sensed/36169",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36169_pic_20261123.1520.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Kudal Malvan News : कुडाळ-मालवण मतदारसंघ विकासासाठी आमदार निलेश राणेंचा लेखाजोखा",
-          "link": "https://kokansadlive.com/kokan/kudal-malvan-constituency-mla-nilesh-rane-progress-report/36168",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36168_pic_20261123.1503.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "गावच्या शिवसैनिकांच्या मदतीसाठी सदैव तयार | मुंबई नगरसेवक किरण तावडे यांनी दिला विश्वास",
+      "link": "https://www.youtube.com/watch?v=NnF3G2PvKBw",
+      "image": "https://i.ytimg.com/vi/NnF3G2PvKBw/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "शिवसेनेने तिथवलीसाठी बरंच काही दिलं : माजी नगरसेवक वसंत नकाशे",
       "link": "https://www.youtube.com/watch?v=FYy6vLhNWK8",
       "image": "https://i.ytimg.com/vi/FYy6vLhNWK8/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "भर समुद्रातली  'म्हातारीची चूळ'",
       "link": "https://www.youtube.com/watch?v=BCM33GGWSHw",
       "image": "https://i.ytimg.com/vi/BCM33GGWSHw/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "दिवंगत डॉ. शरयू आसोलकर यांच्या नावे कविता पुरस्कार",
-      "link": "https://www.youtube.com/watch?v=0O3zniRJHSY",
-      "image": "https://i.ytimg.com/vi/0O3zniRJHSY/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
