@@ -1,9 +1,15 @@
 {
-  "updated_at": "23 Nov 2026, 05:15 AM",
+  "updated_at": "23 Nov 2026, 05:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
+          "link": "https://kokansadlive.com/kokan/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36163_pic_20261123.1055.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "Devgad News :  देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर जप्त",
           "link": "https://kokansadlive.com/kokan/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
@@ -176,12 +182,6 @@
           "title": "Kurli Devi Tripurari Pournima Festival 2026 : कुर्ली गावचा त्रिपुरारी पौर्णिमा उत्सव २४ नोव्हेंबरला",
           "link": "https://kokansadlive.com/kokan/kurli-devi-tripurari-pournima-festival-2026-kurli-village-tripurari-pournima-festival-on-november-24/36123",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36123_pic_20261121.1618.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
-          "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
           "date": "November 21, 2026"
         }
       ]
