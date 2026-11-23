@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 04:15 PM",
+  "updated_at": "23 Nov 2026, 04:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "कोकणसाद Live Prime Time Bulletin | 23-11-26 | Kokansad News",
+      "link": "https://www.youtube.com/watch?v=PcZRtrF3Ufs",
+      "image": "https://i.ytimg.com/vi/PcZRtrF3Ufs/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "बांधकाम कामगारांसाठी दिलासादायक बातमी | योजनांचा लाभ जलद मिळण्यासाठी मोठा निर्णय",
       "link": "https://www.youtube.com/watch?v=jIQifn_tzx0",
       "image": "https://i.ytimg.com/vi/jIQifn_tzx0/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "राणेंच्या जुन्या कार्यकर्त्याची सिंधुदुर्ग शिवसेना सचिवपदी निवड | Shivsena",
       "link": "https://www.youtube.com/watch?v=kfP6qKZsP_s",
       "image": "https://i.ytimg.com/vi/kfP6qKZsP_s/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कणकवलीत सौरऊर्जा पथदीपांचे लोकार्पण | विद्युत रोषणाईने रस्ते प्रकाशमय Solar-powered streetlights",
-      "link": "https://www.youtube.com/watch?v=ujjM2RRH42k",
-      "image": "https://i.ytimg.com/vi/ujjM2RRH42k/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
