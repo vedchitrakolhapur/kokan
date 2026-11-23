@@ -1,15 +1,9 @@
 {
-  "updated_at": "23 Nov 2026, 06:45 AM",
+  "updated_at": "23 Nov 2026, 07:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
-        {
-          "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
-          "link": "https://kokansadlive.com/kokan/malvan-news-revtale-goa-made-liquor-action/36165",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36165_pic_20261123.1211.webp",
-          "date": "November 23, 2026"
-        },
         {
           "title": "Kankavli News : कणकवलीत सौरऊर्जा पथदिपांचे लोकार्पण",
           "link": "https://kokansadlive.com/kokan/inauguration-of-solar-powered-streetlights-in-kankavli/36164",
@@ -182,6 +176,12 @@
           "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
           "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "'क्लास १' अधिकारी घडण्यासाठी नगरसेवक मंदार शिरसाट यांचे सकारात्मक पाऊल",
+          "link": "https://kokansadlive.com/kokan/kudal-mumbai-university-competitive-exam-guidance-centre-demand/36120",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36120_pic_20261121.1357.webp",
           "date": "November 21, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
+          "link": "https://kokansadlive.com/crime/malvan-news-revtale-goa-made-liquor-action/36165",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36165_pic_20261123.1211.webp",
+          "date": "12:07"
+        },
+        {
           "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
           "link": "https://kokansadlive.com/crime/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36163_pic_20261123.1055.webp",
@@ -436,12 +442,6 @@
           "title": "Sawantwadi Crime News : सावंतवाडी पोलीस ठाण्यात दारूच्या नशेत पोलिसांशी हुज्जत",
           "link": "https://kokansadlive.com/crime/sawantwadi-police-station-three-booked-for-threatening-police/36107",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36107_pic_20261120.2035.webp",
-          "date": "Nov 20"
-        },
-        {
-          "title": "अवैध गोवा बनावटीची दारू जप्त",
-          "link": "https://kokansadlive.com/crime/illegal-goa-made-liquor-seized-in-kankavli/36105",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36105_pic_20261120.1950.webp",
           "date": "Nov 20"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "सिंधुदुर्गात थंडीची चाहूल | रात्री शेकोट्यांचा आधार | Cold",
+      "link": "https://www.youtube.com/watch?v=GQTAxg9z6dU",
+      "image": "https://i.ytimg.com/vi/GQTAxg9z6dU/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "देवगडच्या समुद्रात कर्नाटकच्या हायस्पीड ट्रॉलरचा थरारक पाठलाग | High speed Trawler",
+      "link": "https://www.youtube.com/watch?v=axEPWPF9Cu4",
+      "image": "https://i.ytimg.com/vi/axEPWPF9Cu4/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 22-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=7htWFyHaZtg",
       "image": "https://i.ytimg.com/vi/7htWFyHaZtg/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "सिंधुदुर्गातील तरुण - तरुणींसाठी एमपीएससी मार्गदर्शन कार्यशाळा",
       "link": "https://www.youtube.com/watch?v=YO01C7GPpj0",
       "image": "https://i.ytimg.com/vi/YO01C7GPpj0/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "पंचायत समिती नूतन इमारतीचे पालकमंत्र्यांच्या हस्ते भूमिपूजन",
-      "link": "https://www.youtube.com/watch?v=bve5zzVX1CE",
-      "image": "https://i.ytimg.com/vi/bve5zzVX1CE/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "पालकमंत्री नितेश राणेंची सावंतवाडीत एसपींसह बैठक",
-      "link": "https://www.youtube.com/watch?v=Zh0LlI2wFc4",
-      "image": "https://i.ytimg.com/vi/Zh0LlI2wFc4/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
