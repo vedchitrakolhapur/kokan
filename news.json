@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 08:30 AM",
+  "updated_at": "23 Nov 2026, 08:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "कणकवलीत सौरऊर्जा पथदीपांचे लोकार्पण | विद्युत रोषणाईने रस्ते प्रकाशमय Solar-powered streetlights",
+      "link": "https://www.youtube.com/watch?v=ujjM2RRH42k",
+      "image": "https://i.ytimg.com/vi/ujjM2RRH42k/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "सावंत - भोसलेंच्या निवासस्थानी तुळशी विवाह | Tulsi Vivah",
       "link": "https://www.youtube.com/watch?v=PZ8q-nw1EF8",
       "image": "https://i.ytimg.com/vi/PZ8q-nw1EF8/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "मालवणी बातमे | Malavani Bulletin | Kokansad LIVE | 22. 11. 2026 | Kokansad Live",
       "link": "https://www.youtube.com/watch?v=WCTlMFUno7w",
       "image": "https://i.ytimg.com/vi/WCTlMFUno7w/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 21-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=A2rim-cAtW8",
-      "image": "https://i.ytimg.com/vi/A2rim-cAtW8/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
