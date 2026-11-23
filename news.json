@@ -1,12 +1,12 @@
 {
-  "updated_at": "23 Nov 2026, 12:30 PM",
+  "updated_at": "23 Nov 2026, 12:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
         {
           "title": "Kankavli News : सिंधुकन्‍येचा शोधनिबंधपर लेख आंतरराष्‍ट्रीय नियतकालिकात प्रकाशित",
-          "link": "https://kokansadlive.com/kokan/research-based-article-by-sindukanya-published-in-an-international-journal/36192",
+          "link": "https://kokansadlive.com/kokan/prof-dr-aparna-ashok-ghadi-is-a-daughter-of-harkul-khurd-village/36192",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36192_pic_20261123.1759.webp",
           "date": "November 23, 2026"
         },
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Redi Murder Case Sindhudurg : वडिलांच्या छळाला कंटाळून दोन्ही मुलांनीच केला खून",
+          "link": "https://kokansadlive.com/crime/redi-murder-case-sindhudurg-police-two-sons-accused-father-killing/36193",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36193_pic_20261123.1804.webp",
+          "date": "17:53"
+        },
+        {
           "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
           "link": "https://kokansadlive.com/crime/malvan-news-revtale-goa-made-liquor-action/36165",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36165_pic_20261123.1211.webp",
@@ -437,12 +443,6 @@
           "link": "https://kokansadlive.com/crime/nitesh-rane-sindhudurg-police-illegal-business-action-plan/36126",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36126_pic_20261121.1753.webp",
           "date": "Nov 21"
-        },
-        {
-          "title": "Sawantwadi Crime News : सावंतवाडी पोलीस ठाण्यात दारूच्या नशेत पोलिसांशी हुज्जत",
-          "link": "https://kokansadlive.com/crime/sawantwadi-police-station-three-booked-for-threatening-police/36107",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36107_pic_20261120.2035.webp",
-          "date": "Nov 20"
         }
       ]
     },
