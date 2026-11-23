@@ -1,9 +1,15 @@
 {
-  "updated_at": "23 Nov 2026, 05:30 AM",
+  "updated_at": "23 Nov 2026, 05:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kankavli News : कणकवलीत सौरऊर्जा पथदिपांचे लोकार्पण",
+          "link": "https://kokansadlive.com/kokan/inauguration-of-solar-powered-streetlights-in-kankavli/36164",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36164_pic_20261123.1106.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
           "link": "https://kokansadlive.com/kokan/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
@@ -176,12 +182,6 @@
           "title": "सेवानिवृत्त शिक्षक उदय दिनदयाळ यांचे निधन",
           "link": "https://kokansadlive.com/kokan/retired-teacher-uday-dindayal-passes-away/36125",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36125_pic_20261121.1736.webp",
-          "date": "November 21, 2026"
-        },
-        {
-          "title": "Kurli Devi Tripurari Pournima Festival 2026 : कुर्ली गावचा त्रिपुरारी पौर्णिमा उत्सव २४ नोव्हेंबरला",
-          "link": "https://kokansadlive.com/kokan/kurli-devi-tripurari-pournima-festival-2026-kurli-village-tripurari-pournima-festival-on-november-24/36123",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36123_pic_20261121.1618.webp",
           "date": "November 21, 2026"
         }
       ]
