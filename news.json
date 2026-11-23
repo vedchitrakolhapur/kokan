@@ -1,32 +1,20 @@
 {
-  "updated_at": "23 Nov 2026, 06:30 AM",
+  "updated_at": "23 Nov 2026, 06:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
         {
+          "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
+          "link": "https://kokansadlive.com/kokan/malvan-news-revtale-goa-made-liquor-action/36165",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36165_pic_20261123.1211.webp",
+          "date": "November 23, 2026"
+        },
+        {
           "title": "Kankavli News : कणकवलीत सौरऊर्जा पथदिपांचे लोकार्पण",
           "link": "https://kokansadlive.com/kokan/inauguration-of-solar-powered-streetlights-in-kankavli/36164",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36164_pic_20261123.1106.webp",
           "date": "November 23, 2026"
-        },
-        {
-          "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
-          "link": "https://kokansadlive.com/kokan/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36163_pic_20261123.1055.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Devgad News :  देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर जप्त",
-          "link": "https://kokansadlive.com/kokan/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36162_pic_20261123.1044.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "जामसंडेत बंद घरांना चोरट्यांचे लक्ष्य",
-          "link": "https://kokansadlive.com/kokan/thieves-target-locked-houses-in-jamsandeh/36161",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36161_pic_20261122.1932.webp",
-          "date": "November 22, 2026"
         },
         {
           "title": "Kankavli News : पत्रकार विजय गांवकर यांना मातृशोक",
@@ -182,6 +170,18 @@
           "title": "सेवानिवृत्त शिक्षक उदय दिनदयाळ यांचे निधन",
           "link": "https://kokansadlive.com/kokan/retired-teacher-uday-dindayal-passes-away/36125",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36125_pic_20261121.1736.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Kurli Devi Tripurari Pournima Festival 2026 : कुर्ली गावचा त्रिपुरारी पौर्णिमा उत्सव २४ नोव्हेंबरला",
+          "link": "https://kokansadlive.com/kokan/kurli-devi-tripurari-pournima-festival-2026-kurli-village-tripurari-pournima-festival-on-november-24/36123",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36123_pic_20261121.1618.webp",
+          "date": "November 21, 2026"
+        },
+        {
+          "title": "Chiplun News : बिल्डरच्या ताब्यात जाणारी खेंडची जिल्हा परिषद शाळा पुन्हा सुरू",
+          "link": "https://kokansadlive.com/kokan/chiplun-khend-zilla-parishad-school-reopens-23-students/36121",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36121_pic_20261121.1411.webp",
           "date": "November 21, 2026"
         }
       ]
@@ -385,6 +385,24 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
+          "link": "https://kokansadlive.com/crime/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36163_pic_20261123.1055.webp",
+          "date": "10:47"
+        },
+        {
+          "title": "Devgad News :  देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर जप्त",
+          "link": "https://kokansadlive.com/crime/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36162_pic_20261123.1044.webp",
+          "date": "10:33"
+        },
+        {
+          "title": "जामसंडेत बंद घरांना चोरट्यांचे लक्ष्य",
+          "link": "https://kokansadlive.com/crime/thieves-target-locked-houses-in-jamsandeh/36161",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36161_pic_20261122.1932.webp",
+          "date": "Nov 22"
+        },
+        {
           "title": "Vaibhavwadi news : चार वर्षीय चिमुरडीवरील अत्याचारप्रकरणी शिक्षक पिता अटकेत",
           "link": "https://kokansadlive.com/crime/vaibhavwadi-news-father-of-four-year-old-girl-arrested-in-molestation-case/36142",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36142_pic_20261122.1055.webp",
@@ -425,24 +443,6 @@
           "link": "https://kokansadlive.com/crime/illegal-goa-made-liquor-seized-in-kankavli/36105",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36105_pic_20261120.1950.webp",
           "date": "Nov 20"
-        },
-        {
-          "title": "Vaibhavwadi News : वैभववाडीत चाललंय तरी काय? ठेकेदार पुन्हा भिडले!",
-          "link": "https://kokansadlive.com/crime/vaibhavwadi-contractors-clash-hotmix-work-cctv/36085",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36085_pic_20261120.1350.webp",
-          "date": "Nov 20"
-        },
-        {
-          "title": "Cyber Fraud : फोनपे यूपीआयच्या माध्यमातून व्यापाऱ्याची आर्थिक फसवणूक",
-          "link": "https://kokansadlive.com/crime/achara-cyber-fraud-merchant-loses-92000-phonepe-upi/36079",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36079_pic_20261119.2059.webp",
-          "date": "Nov 19"
-        },
-        {
-          "title": "सातार्डा येथे मटका जुगारावर पोलिसांची कारवाई",
-          "link": "https://kokansadlive.com/crime/police-action-against-matka-gambling-in-satarda-sawantwadi/36074",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36074_pic_20261119.2010.webp",
-          "date": "Nov 19"
         }
       ]
     },
