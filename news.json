@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 11:00 AM",
+  "updated_at": "23 Nov 2026, 11:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -580,6 +580,12 @@
       "name": "आरोग्य",
       "items": [
         {
+          "title": "Success story : पाठीच्या कण्यातील गंभीर ट्युमरवर यशस्वी शस्त्रक्रिया",
+          "link": "https://kokansadlive.com/health/spine-tumour-surgery-chiplun-patient-walks-again-four-days/36179",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36179_pic_20261123.1634.webp",
+          "date": "16:20"
+        },
+        {
           "title": "Sawantwadi Sub District Hospital  :  डॉ. रुपेश कुमार झा जनरल सर्जन सावंतवाडीत दाखल",
           "link": "https://kokansadlive.com/health/sawantwadi-sub-district-hospital-dr-rupesh-kumar-jha-general-surgeon-joins-sawantwadi/36167",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36167_pic_20261123.1453.webp",
@@ -631,12 +637,6 @@
           "title": "Sawantwadi Maha Arogya Shibir : सावंतवाडीत १५ नोव्हेंबरला महाआरोग्य शिबिर",
           "link": "https://kokansadlive.com/health/maha-arogya-camp-on-november-15-in-sawantwadi/35778",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35778_pic_20261109.1928.webp",
-          "date": "Nov 9"
-        },
-        {
-          "title": "Arihant Hospital : हृदय उपचारात 'अरिहंत'ची ऐतिहासिक कामगिरी",
-          "link": "https://kokansadlive.com/health/historic-achievement-by-arihant-in-cardiac-treatment/35774",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35774_pic_20261109.1839.webp",
           "date": "Nov 9"
         }
       ]
