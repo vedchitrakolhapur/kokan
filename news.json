@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 10:30 AM",
+  "updated_at": "23 Nov 2026, 10:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "Sawantwadi Kankavli Long Run : सावंतवाडी ते कणकवली 50 किमी लॉन्ग रन",
+          "link": "https://kokansadlive.com/sports/50-km-long-run-from-sawantwadi-to-kankavali/36175",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36175_pic_20261123.1604.webp",
+          "date": "16:00"
+        },
+        {
           "title": "Sawantwadi News : राष्ट्रीय बुद्धिबळ स्पर्धेत बाळकृष्ण पेडणेकरचे यश",
           "link": "https://kokansadlive.com/sports/balkrishna-pednekar-s-success-at-the-national-chess-championship/36151",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36151_pic_20261122.1412.webp",
@@ -566,12 +572,6 @@
           "title": "LA Olympics 2028 Cricket : १२८ वर्षांनंतर ऑलिम्पिकमध्ये क्रिकेटचे पुनरागमन",
           "link": "https://kokansadlive.com/sports/la-olympics-2028-cricket-qualifiers-schedule-announced/35944",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35944_pic_20261116.1737.webp",
-          "date": "Nov 16"
-        },
-        {
-          "title": "Sawantwadi News : विधी मिशाळची महाराष्ट्राच्या रोलबॉल संघात निवड",
-          "link": "https://kokansadlive.com/sports/sawantwadi-news-vidhi-mishal-selected-for-maharashtras-rollball-team/35934",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35934_pic_20261116.1348.webp",
           "date": "Nov 16"
         }
       ]
