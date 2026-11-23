@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 07:00 AM",
+  "updated_at": "23 Nov 2026, 07:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "सावंत - भोसलेंच्या निवासस्थानी तुळशी विवाह | Tulsi Vivah",
+      "link": "https://www.youtube.com/watch?v=PZ8q-nw1EF8",
+      "image": "https://i.ytimg.com/vi/PZ8q-nw1EF8/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "सिंधुदुर्गात थंडीची चाहूल | रात्री शेकोट्यांचा आधार | Cold",
       "link": "https://www.youtube.com/watch?v=GQTAxg9z6dU",
       "image": "https://i.ytimg.com/vi/GQTAxg9z6dU/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "कोकणसाद Live Prime Time Bulletin | 21-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=A2rim-cAtW8",
       "image": "https://i.ytimg.com/vi/A2rim-cAtW8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सिंधुदुर्गातील तरुण - तरुणींसाठी एमपीएससी मार्गदर्शन कार्यशाळा",
-      "link": "https://www.youtube.com/watch?v=YO01C7GPpj0",
-      "image": "https://i.ytimg.com/vi/YO01C7GPpj0/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
