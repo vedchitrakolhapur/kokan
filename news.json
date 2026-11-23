@@ -1,9 +1,15 @@
 {
-  "updated_at": "23 Nov 2026, 01:30 PM",
+  "updated_at": "23 Nov 2026, 02:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News :  देवगडात ३ डिसेंबरला पहिली आंबा परिषद",
+          "link": "https://kokansadlive.com/kokan/first-mango-conference-in-devgad-on-december-3/36200",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36200_pic_20261123.1902.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "Devgad News : देवगड हायस्कूलात सीसीटीव्ही यंत्रणा कार्यान्वित",
           "link": "https://kokansadlive.com/kokan/cctv-system-becomes-operational-at-devgad-high-school/36197",
@@ -176,12 +182,6 @@
           "title": "Dodamarg News : दोडामार्गात जिजाऊ संघटनेतर्फे मोफत वह्यांचे वाटप",
           "link": "https://kokansadlive.com/kokan/free-notebooks-distributed-by-jijau-sanghatana-in-dodamarg/36157",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36157_pic_20261122.1646.webp",
-          "date": "November 22, 2026"
-        },
-        {
-          "title": "Dodamarg News : शासकीय धान्य गोदामातील निकृष्ट गव्हाची चौकशी करा",
-          "link": "https://kokansadlive.com/kokan/dodamarg-news-inquiry-into-substandard-wheat-in-government-grain-warehouse/36156",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36156_pic_20261122.1607.webp",
           "date": "November 22, 2026"
         }
       ]
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "Sawantwadi News : सावंतवाडीत  २७ डिसेंबरला सिंधू यंग चॅम्पियन्स रन",
+          "link": "https://kokansadlive.com/sports/sawantwadi-news-sindhu-young-champions-run-december-27/36201",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36201_pic_20261123.1910.webp",
+          "date": "19:06"
+        },
+        {
           "title": "सावंतवाडीत २७ डिसेंबरला तिसरी ‘सिंधू यंग चॅम्पियन्स रन’",
           "link": "https://kokansadlive.com/sports/third-sindhu-young-champions-run-to-be-held-in-sawantwadi-on-december-27/36199",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36199_pic_20261123.1855.webp",
@@ -566,12 +572,6 @@
           "title": "Sindhudurg Ocean Swimathon 2026 : मालवणात १९ व २० डिसेंबरला 'सिंधुदुर्ग ओशन स्विमथॉन' स्पर्धेचे आयोजन",
           "link": "https://kokansadlive.com/sports/sindhudurg-ocean-swimathon-2026-malvan-chivla-beach-december-19-20/35991",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35991_pic_20261117.1743.webp",
-          "date": "Nov 17"
-        },
-        {
-          "title": "MS Dhoni IPL Retirement : 'थाला'चा आयपीएलला अलविदा! २०२७ पासून महेंद्रसिंग धोनीवर चेन्नई सुपर किंग्सची 'ही' नवी जबाबदारी",
-          "link": "https://kokansadlive.com/sports/ms-dhoni-ipl-retirement-csk-mentor-from-2027/35982",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35982_pic_20261117.1558.webp",
           "date": "Nov 17"
         }
       ]
