@@ -1,9 +1,21 @@
 {
-  "updated_at": "23 Nov 2026, 03:15 PM",
+  "updated_at": "23 Nov 2026, 03:30 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg News : सभागृहाच्या ठरावाला केराची टोपली? आठ शिक्षकांच्या कार्यमुक्तीवर स्थायी समितीत संताप",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-zilla-parishad-8-teachers-relieved-cho-transfer-row/36213",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36213_pic_20261123.2057.webp",
+          "date": "November 23, 2026"
+        },
+        {
+          "title": "Sindhudurg District Youth Festival 2026 : जिल्हास्तरीय युवा महोत्सवात सिंधुदुर्गच्या युवा कलागुणांचा अविष्कार",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-district-youth-festival-2026-winners-results-folk-art/36212",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36212_pic_20261123.2050.webp",
+          "date": "November 23, 2026"
+        },
         {
           "title": "Sindhudurg Jail : कारागृहातील ४० बंदीवानांना पेंटिंग प्रशिक्षणाचे प्रमाणपत्र",
           "link": "https://kokansadlive.com/kokan/sindhudurg-jail-40-prisoners-painting-skill-training-certificates/36210",
@@ -170,18 +182,6 @@
           "title": "Sawantwadi Road Repair : रस्त्याच्या कामाचा दर्जा राखा",
           "link": "https://kokansadlive.com/kokan/instructions-from-municipal-president-shraddharaje-bhosale-to-the-officials/36174",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36174_pic_20261123.1556.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Sawantwadi News : जयेंद्र परुळेकरांना शेतकऱ्यांच्या वेदना काय कळणार ?",
-          "link": "https://kokansadlive.com/kokan/what-would-jayendra-parulekar-know-about-the-pain-of-farmers/36172",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36172_pic_20261123.1549.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "कोकण रेल्वे प्रवाशांसाठी महत्त्वाची बातमी! दिवा-पनवेल मार्गावर पॉवर ब्लॉक; अनेक एक्सप्रेस गाड्यांच्या वेळापत्रकात बदल",
-          "link": "https://kokansadlive.com/kokan/konkan-railway-train-update-diva-panvel-power-block-november/36173",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36173_pic_20261123.1554.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -644,6 +644,42 @@
   ],
   "youtube": [
     {
+      "title": "बांधकाम कामगारांसाठी दिलासादायक बातमी | योजनांचा लाभ जलद मिळण्यासाठी मोठा निर्णय",
+      "link": "https://www.youtube.com/watch?v=jIQifn_tzx0",
+      "image": "https://i.ytimg.com/vi/jIQifn_tzx0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "मोदी सरकारने केलं सर्वसामान्यांचं जगणं मुश्कील : विनायक राऊत | Vinayak Raut",
+      "link": "https://www.youtube.com/watch?v=yeEcODDon50",
+      "image": "https://i.ytimg.com/vi/yeEcODDon50/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "सत्ताधारी केवळ इव्हेंट पुरतेच | वैभव नाईकांची पुन्हा टीका | Vaibhav Naik",
+      "link": "https://www.youtube.com/watch?v=GJv8NX6WUww",
+      "image": "https://i.ytimg.com/vi/GJv8NX6WUww/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "बाळासाहेबांचे विचार तळागाळापर्यंत पोहचू दे : सुशांत नाईक | Sushant Naik",
+      "link": "https://www.youtube.com/watch?v=DcA71TSArN4",
+      "image": "https://i.ytimg.com/vi/DcA71TSArN4/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "शिवसेनेला पुन्हा ते दिवस येतील | नंदू शिंदे यांना विश्वास | Thackeray Shiv Sena",
+      "link": "https://www.youtube.com/watch?v=v8bE-exe6Rs",
+      "image": "https://i.ytimg.com/vi/v8bE-exe6Rs/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "रेडीच्या जंगलातील अनोळखी मृतदेहाचं गूढ उकललं | पोटच्या मुलांनीच केला वडिलांचा खून | Crime",
+      "link": "https://www.youtube.com/watch?v=2P68zQszFkI",
+      "image": "https://i.ytimg.com/vi/2P68zQszFkI/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "गावच्या शिवसैनिकांच्या मदतीसाठी सदैव तयार | मुंबई नगरसेवक किरण तावडे यांनी दिला विश्वास",
       "link": "https://www.youtube.com/watch?v=NnF3G2PvKBw",
       "image": "https://i.ytimg.com/vi/NnF3G2PvKBw/hqdefault.jpg",
@@ -695,42 +731,6 @@
       "title": "कणकवलीत सौरऊर्जा पथदीपांचे लोकार्पण | विद्युत रोषणाईने रस्ते प्रकाशमय Solar-powered streetlights",
       "link": "https://www.youtube.com/watch?v=ujjM2RRH42k",
       "image": "https://i.ytimg.com/vi/ujjM2RRH42k/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सावंत - भोसलेंच्या निवासस्थानी तुळशी विवाह | Tulsi Vivah",
-      "link": "https://www.youtube.com/watch?v=PZ8q-nw1EF8",
-      "image": "https://i.ytimg.com/vi/PZ8q-nw1EF8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सिंधुदुर्गात थंडीची चाहूल | रात्री शेकोट्यांचा आधार | Cold",
-      "link": "https://www.youtube.com/watch?v=GQTAxg9z6dU",
-      "image": "https://i.ytimg.com/vi/GQTAxg9z6dU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "देवगडच्या समुद्रात कर्नाटकच्या हायस्पीड ट्रॉलरचा थरारक पाठलाग | High speed Trawler",
-      "link": "https://www.youtube.com/watch?v=axEPWPF9Cu4",
-      "image": "https://i.ytimg.com/vi/axEPWPF9Cu4/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 22-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=7htWFyHaZtg",
-      "image": "https://i.ytimg.com/vi/7htWFyHaZtg/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणातल्या पहिल्या जत्रेत भाविकांची गर्दी",
-      "link": "https://www.youtube.com/watch?v=Whmo5r8JKy0",
-      "image": "https://i.ytimg.com/vi/Whmo5r8JKy0/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "भर समुद्रातली  'म्हातारीची चूळ'",
-      "link": "https://www.youtube.com/watch?v=BCM33GGWSHw",
-      "image": "https://i.ytimg.com/vi/BCM33GGWSHw/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
