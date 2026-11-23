@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Nov 2026, 09:15 AM",
+  "updated_at": "23 Nov 2026, 09:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -580,6 +580,12 @@
       "name": "आरोग्य",
       "items": [
         {
+          "title": "Sawantwadi Sub District Hospital  :  डॉ. रुपेश कुमार झा जनरल सर्जन सावंतवाडीत दाखल",
+          "link": "https://kokansadlive.com/health/sawantwadi-sub-district-hospital-dr-rupesh-kumar-jha-general-surgeon-joins-sawantwadi/36167",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36167_pic_20261123.1453.webp",
+          "date": "14:43"
+        },
+        {
           "title": "'माझे गाव, आरोग्य संपन्न गाव' अभियान केवळ घोषणांपुरतेच?",
           "link": "https://kokansadlive.com/health/blood-testing-services-primary-health-centres-sawantwadi-taluka-closed/36132",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36132_pic_20261121.1927.webp",
@@ -632,12 +638,6 @@
           "link": "https://kokansadlive.com/health/historic-achievement-by-arihant-in-cardiac-treatment/35774",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35774_pic_20261109.1839.webp",
           "date": "Nov 9"
-        },
-        {
-          "title": "Vaibhavwadi Dialysis Centre : वैभववाडी ग्रामीण रुग्णालयातील डायलिसिस सेंटर बंद",
-          "link": "https://kokansadlive.com/health/vaibhavwadi-rural-hospital-dialysis-centre-closed-funding-issue/35727",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35727_pic_20261107.1643.webp",
-          "date": "Nov 7"
         }
       ]
     }
