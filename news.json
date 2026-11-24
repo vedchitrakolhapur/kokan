@@ -1,9 +1,21 @@
 {
-  "updated_at": "24 Nov 2026, 12:00 PM",
+  "updated_at": "24 Nov 2026, 12:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "दीक्षित फाउंडेशनच्या उपक्रमांचा विद्यार्थ्यांनी लाभ घ्यावा",
+          "link": "https://kokansadlive.com/kokan/dikshit-foundation-initiatives-students-should-benefit/36239",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36239_pic_20261124.1745.webp",
+          "date": "November 24, 2026"
+        },
+        {
+          "title": "Leopard Attack Dodamarg : घरात घुसून बिबट्याकडून 8 पिल्लांचा फडशा",
+          "link": "https://kokansadlive.com/kokan/leopard-attack-dodamarg-leopard-enters-house-eats-8-cubs/36238",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36238_pic_20261124.1736.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "Vengurla News :  जि. प .अध्यक्ष प्रमोद कामतांनी घेतले मातोंड देवी सातेरीचे दर्शन",
           "link": "https://kokansadlive.com/kokan/zilla-parishad-president-pramod-kamat-visited-the-sateri-devi-temple-in-matond/36236",
@@ -170,18 +182,6 @@
           "title": "Devgad News : देवगड हायस्कूलात सीसीटीव्ही यंत्रणा कार्यान्वित",
           "link": "https://kokansadlive.com/kokan/cctv-system-becomes-operational-at-devgad-high-school/36197",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36197_pic_20261123.1839.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "पालकमंत्री नितेश राणेंना आमदार म्हणून १२ वर्षे पूर्ण",
-          "link": "https://kokansadlive.com/kokan/nitish-rane-completes-12-years-as-mla/36196",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36196_pic_20261123.1831.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "डॉ. जयेंद्र परुळेकरांनी वैद्यकीय पेशा सोडून शेती करावी",
-          "link": "https://kokansadlive.com/kokan/dr-jayendra-parulekar-should-leave-medical-profession-and-farm/36194",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36194_pic_20261123.1818.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "वैभव सूर्यवंशीचा विश्वविक्रमी पराक्रम! अवघ्या ५२ चेंडूंमध्ये ठोकले द्विशतक; २८ चेंडूंत शतक झळकावत रचला इतिहास",
+          "link": "https://kokansadlive.com/sports/vaibhav-suryavanshi-28-ball-century-rising-stars-asia-cup-record/36237",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36237_pic_20261124.1730.webp",
+          "date": "17:27"
+        },
+        {
           "title": "चिपळूण नगरपरिषदेतर्फे २९ नोव्हेंबरला भव्य जलतरण स्पर्धा",
           "link": "https://kokansadlive.com/sports/chiplun-municipal-council-swimming-competition-2026/36226",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36226_pic_20261124.1519.webp",
@@ -567,12 +573,6 @@
           "link": "https://kokansadlive.com/sports/jasprit-bumrah-surpasses-javagal-srinath-test-wickets-record/36044",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36044_pic_20261119.1306.webp",
           "date": "Nov 19"
-        },
-        {
-          "title": "विभागीय शालेय कराटे स्पर्धेत कासार्डे विद्यालयाची चमकदार कामगिरी",
-          "link": "https://kokansadlive.com/sports/outstanding-performance-kasarde-school-at-divisional-school-karate-competition/35998",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35998_pic_20261117.1903.webp",
-          "date": "Nov 17"
         }
       ]
     },
@@ -643,6 +643,18 @@
     }
   ],
   "youtube": [
+    {
+      "title": "संगीत नाटकांची हॅट्रिक | एकाच दिवशी तीन अजरामर प्रयोग",
+      "link": "https://www.youtube.com/watch?v=kbIsWft_OYU",
+      "image": "https://i.ytimg.com/vi/kbIsWft_OYU/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "शिंदेंच्या बैठकीत ठाकरे गटाचे नगराध्यक्ष..?",
+      "link": "https://www.youtube.com/watch?v=ZAm_aBb9ljI",
+      "image": "https://i.ytimg.com/vi/ZAm_aBb9ljI/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
     {
       "title": "माडखोल धरणाच्या कालव्याची साफसफाई न करता टेस्टिंगसाठी पाणी सोडले..?",
       "link": "https://www.youtube.com/watch?v=z_O-lUpuBMY",
@@ -719,18 +731,6 @@
       "title": "शिवसेनेला पुन्हा ते दिवस येतील | नंदू शिंदे यांना विश्वास | Thackeray Shiv Sena",
       "link": "https://www.youtube.com/watch?v=v8bE-exe6Rs",
       "image": "https://i.ytimg.com/vi/v8bE-exe6Rs/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "रेडीच्या जंगलातील अनोळखी मृतदेहाचं गूढ उकललं | पोटच्या मुलांनीच केला वडिलांचा खून | Crime",
-      "link": "https://www.youtube.com/watch?v=2P68zQszFkI",
-      "image": "https://i.ytimg.com/vi/2P68zQszFkI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "गावच्या शिवसैनिकांच्या मदतीसाठी सदैव तयार | मुंबई नगरसेवक किरण तावडे यांनी दिला विश्वास",
-      "link": "https://www.youtube.com/watch?v=NnF3G2PvKBw",
-      "image": "https://i.ytimg.com/vi/NnF3G2PvKBw/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
