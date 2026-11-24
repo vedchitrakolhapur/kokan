@@ -1,9 +1,15 @@
 {
-  "updated_at": "24 Nov 2026, 01:45 PM",
+  "updated_at": "24 Nov 2026, 02:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "त्रिपुरारी पौर्णिमेनिमित्त ‘हे चांदणे फुलांनी’ संगीत मैफल",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-tripuri-pournima-he-chandane-phulani-music-concert/36246",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36246_pic_20261124.1921.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "किशोरवयीन मुलांच्या क्षमता बांधणीसाठी सिंधुदुर्गात कार्यशाळा",
           "link": "https://kokansadlive.com/kokan/workshop-in-sindhudurg-for-capacity-building-of-adolescents/36242",
@@ -176,12 +182,6 @@
           "title": "देवगडमध्ये ज्येष्ठ नागरिकांसाठी प्रथमच सुंदर हस्ताक्षर स्पर्धा",
           "link": "https://kokansadlive.com/kokan/devgad-senior-citizens-first-beautiful-handwriting-competition/36204",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36204_pic_20261123.1942.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Sawantwadi Multispeciality Hospital : नगराध्यक्षा म्हणून श्रद्धाराजे सक्षम",
-          "link": "https://kokansadlive.com/kokan/sawantwadi-multispeciality-hospital-land-issue-resolved-lakhamraje-bhosale/36203",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36203_pic_20261123.1939.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Dodamarg Illegal Tree Cutting : तळेखोलमध्ये अवैध वृक्षतोडीवर वनविभागाची कारवाई",
+          "link": "https://kokansadlive.com/crime/dodamarg-illegal-tree-cutting-forest-department-timber-seized/36247",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36247_pic_20261124.1927.webp",
+          "date": "19:22"
+        },
+        {
           "title": "साखरप्यात स्त्रीभ्रृण हत्येचा संतापजनक प्रकार उघडकीस",
           "link": "https://kokansadlive.com/crime/sakharpa-female-foeticide-case-doctor-husband-arrested/36244",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36244_pic_20261124.1818.webp",
@@ -436,12 +442,6 @@
           "title": "Kankavli POCSO Case : अल्पवयीन मुलीवर अत्याचार प्रकरणी आरोपीला जामीन",
           "link": "https://kokansadlive.com/crime/kankavli-pocso-case-accused-gets-conditional-bail-25000-bond/36135",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36135_pic_20261121.2013.webp",
-          "date": "Nov 21"
-        },
-        {
-          "title": "Tilari Ghat Bike Accident : तिलारी घाटात दुचाकीच्या भीषण अपघातात तरुणाचा मृत्यू",
-          "link": "https://kokansadlive.com/crime/tilari-ghat-bike-accident-akhil-jos-death-nursing-students-help/36134",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36134_pic_20261121.2001.webp",
           "date": "Nov 21"
         }
       ]
