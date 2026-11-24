@@ -1,5 +1,5 @@
 {
-  "updated_at": "24 Nov 2026, 03:00 PM",
+  "updated_at": "24 Nov 2026, 03:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,12 +644,6 @@
   ],
   "youtube": [
     {
-      "title": "‘सवित्र बाल पुरस्कार सोहळा' | बालदिनानिमित्त माध्यमिक विद्यालय नाटळचं आयोजन",
-      "link": "https://www.youtube.com/watch?v=zDb4krvVv1U",
-      "image": "https://i.ytimg.com/vi/zDb4krvVv1U/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
       "title": "'ती' बैठक मंत्रालयात व्हायला हवी होती : वैभव नाईक",
       "link": "https://www.youtube.com/watch?v=l76kBKNP_hA",
       "image": "https://i.ytimg.com/vi/l76kBKNP_hA/hqdefault.jpg",
@@ -731,6 +725,12 @@
       "title": "मासळीच्या पाण्यामुळे देवगडच्या रस्त्यांवर अपघातांचा धोका | Road Accidents",
       "link": "https://www.youtube.com/watch?v=wJdaFnFZ10g",
       "image": "https://i.ytimg.com/vi/wJdaFnFZ10g/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "कोकणसाद Live Prime Time Bulletin | 23-11-26 | Kokansad News",
+      "link": "https://www.youtube.com/watch?v=PcZRtrF3Ufs",
+      "image": "https://i.ytimg.com/vi/PcZRtrF3Ufs/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
