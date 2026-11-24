@@ -808,13 +808,13 @@
       const shareData = {
         title: 'Kokansad Live app',
         text: 'कोकणातील ताज्या बातम्या, LIVE TV आणि दैनिक कोकणसाद ई-पेपरसाठी Kokansad Live App आजच install करून घ्या ..',
-        url: window.location.href
+        url: PLAY_STORE_URL
       };
       if (navigator.share) {
         navigator.share(shareData).catch(() => {});
       } else if (navigator.clipboard) {
-        navigator.clipboard.writeText(window.location.href);
-        alert('App लिंक कॉपी झाली आहे!');
+        navigator.clipboard.writeText(PLAY_STORE_URL);
+        alert('Play Store लिंक कॉपी झाली आहे!');
       }
     }
 
