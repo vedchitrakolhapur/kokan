@@ -1,9 +1,21 @@
 {
-  "updated_at": "24 Nov 2026, 06:15 AM",
+  "updated_at": "24 Nov 2026, 06:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kankavli News : शिंपी समाज ऐक्यवर्धक संघाच्या अध्यक्षपदी अभिजीत मिरजकर",
+          "link": "https://kokansadlive.com/kokan/abhijit-mirajkar-appointed-as-president-of-the-shimpi-samaj-aikyavardhak-sangh/36219",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36219_pic_20261124.1157.webp",
+          "date": "November 24, 2026"
+        },
+        {
+          "title": "Dodamarg News :  तिलारी सुरक्षा रक्षक भरती अन्याया विरोधातील उपोषण स्थगित",
+          "link": "https://kokansadlive.com/kokan/tilari-rakshak-bharti-anyay-virodhatil-uposhan-sthit/36218",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36218_pic_20261124.1150.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "Chiplun News : उड्डाणपूल ते वाशिष्ठी पुलापर्यंत डांबरीकरणाचे काम अंतिम टप्प्यात",
           "link": "https://kokansadlive.com/kokan/asphalting-work-from-the-flyover-to-the-vashishti-bridge-is-in-its-final-stage/36217",
@@ -170,18 +182,6 @@
           "title": "माडखोल धरणाच्या कालव्याची साफसफाई न करता टेस्टिंगसाठी पाणी सोडले..?",
           "link": "https://kokansadlive.com/kokan/madkhol-dam/36184",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36184_pic_20261123.1713.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Adali MIDC Sindhudurg : आडाळीतील भूखंडधारक उद्योजकांसाठी कार्यशाळेची मागणी",
-          "link": "https://kokansadlive.com/kokan/adali-midc-sindhudurg-demand-for-workshop-for-plot-holders-entrepreneurs/36181",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36181_pic_20261123.1651.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "\"बकुळीची फुले\" काव्यसंग्रहाला 'श्रि. दा. ग्रंथ पुरस्कार' जाहीर",
-          "link": "https://kokansadlive.com/kokan/bakulichi-phule-poetry-collection-shri-da-granth-award-announced/36178",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36178_pic_20261123.1624.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "मासळीच्या पाण्यामुळे देवगडच्या रस्त्यांवर अपघातांचा धोका | Road Accidents",
+      "link": "https://www.youtube.com/watch?v=wJdaFnFZ10g",
+      "image": "https://i.ytimg.com/vi/wJdaFnFZ10g/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 23-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=PcZRtrF3Ufs",
       "image": "https://i.ytimg.com/vi/PcZRtrF3Ufs/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "निलेश राणेंच्या कामाचा मांडला लेखाजोखा | आमदारकीला दोन वर्षे पूर्ण झाल्याचं निमित्त | Nilesh Rane",
       "link": "https://www.youtube.com/watch?v=jDfSAKU8pVU",
       "image": "https://i.ytimg.com/vi/jDfSAKU8pVU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "राणेंच्या जुन्या कार्यकर्त्याची सिंधुदुर्ग शिवसेना सचिवपदी निवड | Shivsena",
-      "link": "https://www.youtube.com/watch?v=kfP6qKZsP_s",
-      "image": "https://i.ytimg.com/vi/kfP6qKZsP_s/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
