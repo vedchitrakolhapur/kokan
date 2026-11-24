@@ -31,7 +31,7 @@
       top: 0;
       z-index: 200;
       height: 54px;
-      background: linear-gradient(135deg, #070661 0%, #0A0989 60%, #1d4ed8 100%);
+      background: #0A0989;
       color: #ffffff;
       display: flex;
       align-items: center;
@@ -85,7 +85,7 @@
     }
     .side-drawer.open { right: 0; }
     .drawer-header {
-      background: linear-gradient(135deg, #070661 0%, #0A0989 100%);
+      background: #0A0989;
       color: #ffffff;
       padding: 16px;
       display: flex;
@@ -349,9 +349,16 @@
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      background: linear-gradient(90deg, #e8eaed 25%, #f3f4f6 50%, #e8eaed 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.4s infinite;
+      display: block;
+      /* इमेज लोड होईपर्यंत मधोमध App Icon दिसेल */
+      background: #eef2ff url('icon-192.png') center / 56px no-repeat;
+    }
+
+    /* इमेज नसेल किंवा लोड झाली नाही तर आकर्षक Default Thumbnail */
+    .news-img.is-fallback {
+      object-fit: contain;
+      padding: 20px;
+      background: linear-gradient(135deg, #eef2ff 0%, #dbeafe 100%);
     }
     .news-content { padding: 10px 12px 12px; }
     .news-title {
@@ -473,7 +480,13 @@
       position: relative;
       width: 100%;
       aspect-ratio: 16 / 9;
-      background: #111;
+      /* व्हिडिओ थंबनेल लोड होईपर्यंत App Icon दिसेल */
+      background: #1e1e24 url('icon-192.png') center / 56px no-repeat;
+    }
+    .yt-thumb-wrap img.is-fallback {
+      object-fit: contain;
+      padding: 20px;
+      background: linear-gradient(135deg, #1e1e24 0%, #2d2d35 100%);
     }
     .yt-thumb-wrap img {
       width: 100%;
@@ -993,6 +1006,13 @@
       renderNews(index, 1);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
+	
+	// Broken किंवा Missing इमेजसाठी Default Thumbnail हँडलर
+    function handleImgError(img) {
+      img.onerror = null;
+      img.src = 'icon-192.png';
+      img.classList.add('is-fallback');
+    }
 
     function renderNews(catIdx, page) {
       const listEl = document.getElementById('news-list');
@@ -1011,7 +1031,7 @@
 
       listEl.innerHTML = pageItems.map(item => `
         <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-card">
-          <img src="${item.image}" alt="" class="news-img" loading="lazy">
+          <img src="${item.image || 'icon-192.png'}" alt="" class="news-img ${!item.image ? 'is-fallback' : ''}" loading="lazy" onerror="handleImgError(this)">
           <div class="news-content">
             <div class="news-title">${item.title}</div>
             <div class="news-date">${item.date}</div>
@@ -1054,7 +1074,7 @@
       listEl.innerHTML = pageItems.map(v => `
         <a href="${v.link}" target="_blank" rel="noopener noreferrer" class="yt-card">
           <div class="yt-thumb-wrap">
-            <img src="${v.image}" alt="" loading="lazy">
+            <img src="${v.image || 'icon-192.png'}" alt="" class="${!v.image ? 'is-fallback' : ''}" loading="lazy" onerror="handleImgError(this)">
             <div class="yt-play-badge"><i class="fa-solid fa-play"></i></div>
           </div>
           <div class="yt-info">
