@@ -1,9 +1,15 @@
 {
-  "updated_at": "24 Nov 2026, 10:30 AM",
+  "updated_at": "24 Nov 2026, 10:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sawantwadi News : दक्षिण कोकणचे पंढरपूर जत्रोत्सवासाठी सज्ज",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-news-dakshin-kokan-pandharpur-jatrotsav-ready/36232",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36232_pic_20261124.1600.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "डिचोलीत २९ नोव्हेंबरला भव्य सत्कार सोहळा",
           "link": "https://kokansadlive.com/kokan/grand-felicitation-ceremony-in-bicholim-on-november-29/36230",
@@ -176,12 +182,6 @@
           "title": "नांदगाव येथे २६ व २७ नोव्हेंबरला ५४ वे तालुकास्तरीय विज्ञान प्रदर्शन",
           "link": "https://kokansadlive.com/kokan/54th-taluka-level-science-exhibition-held-in-nandgaon-on-november-26-and-27/36189",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36189_pic_20261123.1736.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "ओरोस येथे उद्या गिरणी कामगारांची सभा",
-          "link": "https://kokansadlive.com/kokan/mill-workers-meeting-held-in-oros-on-wednesday-november-25/36188",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36188_pic_20261123.1731.webp",
           "date": "November 23, 2026"
         }
       ]
