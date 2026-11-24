@@ -1,9 +1,15 @@
 {
-  "updated_at": "24 Nov 2026, 10:00 AM",
+  "updated_at": "24 Nov 2026, 10:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sawantwadi News : नाथ पै. सभागृहाच्या देखभाल, दुरुस्तीकडे प्रशासनानं गांभीर्याने लक्ष द्यावं",
+          "link": "https://kokansadlive.com/kokan/the-administration-should-pay-serious-attention-to-the-maintenance-and-repair-of-nath-pai-hall/36229",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36229_pic_20261124.1534.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "Kankavli News :  गड नदीपात्रातील केटी बंधाऱ्यावर प्लेट बसवल्याने पाणीसाठ्यात वाढ",
           "link": "https://kokansadlive.com/kokan/water-storage-increased-by-installing-a-plate-on-the-kt-dam-in-the-gad-riverbed/36228",
@@ -176,12 +182,6 @@
           "title": "मासळीच्या पाण्यामुळे देवगडच्या रस्त्यांवर अपघातांचा धोका",
           "link": "https://kokansadlive.com/kokan/risk-of-accidents-on-devgad-roads-due-to-fish-related-water/36187",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36187_pic_20261123.1729.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "किशोरवयीन मुला-मुलींच्या सर्वांगीण विकासासाठी सिंधुदुर्गात जिल्हास्तरीय कार्यशाळा",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-adolescent-health-workshop-unicef-rksk-programme/36186",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36186_pic_20261123.1725.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "माडखोल धरणाच्या कालव्याची साफसफाई न करता टेस्टिंगसाठी पाणी सोडले..?",
+      "link": "https://www.youtube.com/watch?v=z_O-lUpuBMY",
+      "image": "https://i.ytimg.com/vi/z_O-lUpuBMY/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "मालवण सीआरझेड वादावरून निलेश राणेंचा विरोधकांवर हल्लाबोल",
+      "link": "https://www.youtube.com/watch?v=5woslaXdFpg",
+      "image": "https://i.ytimg.com/vi/5woslaXdFpg/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "सिंधुकन्‍येचा शोधनिबंधपर लेख आंतरराष्‍ट्रीय नियतकालिकात प्रकाशीत",
       "link": "https://www.youtube.com/watch?v=fP3s8VGX4kU",
       "image": "https://i.ytimg.com/vi/fP3s8VGX4kU/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "गावच्या शिवसैनिकांच्या मदतीसाठी सदैव तयार | मुंबई नगरसेवक किरण तावडे यांनी दिला विश्वास",
       "link": "https://www.youtube.com/watch?v=NnF3G2PvKBw",
       "image": "https://i.ytimg.com/vi/NnF3G2PvKBw/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शिवसेनेने तिथवलीसाठी बरंच काही दिलं : माजी नगरसेवक वसंत नकाशे",
-      "link": "https://www.youtube.com/watch?v=FYy6vLhNWK8",
-      "image": "https://i.ytimg.com/vi/FYy6vLhNWK8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "संघटना मजबूत करुया | प्रदीप बोरकर यांचं आवाहन | Thackeray Shiv Sena",
-      "link": "https://www.youtube.com/watch?v=JFCV7QiPYds",
-      "image": "https://i.ytimg.com/vi/JFCV7QiPYds/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
