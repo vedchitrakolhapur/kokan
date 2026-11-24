@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kokansad.live.news",
+        "sha256_cert_fingerprints": ["D0:31:C2:60:46:C6:13:51:14:EE:5F:8E:83:91:93:D8:B3:87:33:61:BE:9D:C3:C8:CA:0D:0A:FE:7F:67:EC:0C"]
+      }
+    }]
