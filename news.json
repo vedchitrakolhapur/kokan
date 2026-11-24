@@ -1,9 +1,21 @@
 {
-  "updated_at": "24 Nov 2026, 09:45 AM",
+  "updated_at": "24 Nov 2026, 10:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kankavli News :  गड नदीपात्रातील केटी बंधाऱ्यावर प्लेट बसवल्याने पाणीसाठ्यात वाढ",
+          "link": "https://kokansadlive.com/kokan/water-storage-increased-by-installing-a-plate-on-the-kt-dam-in-the-gad-riverbed/36228",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36228_pic_20261124.1527.webp",
+          "date": "November 24, 2026"
+        },
+        {
+          "title": "Sawantwadi News : संगीत नाटकांची हॅट्रिक",
+          "link": "https://kokansadlive.com/kokan/a-hat-trick-of-musicals/36227",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36227_pic_20261124.1520.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "Ratnagiri News : अनिकेत पटवर्धन यांच्या मदतीने २३ वर्षीय मितालीला मिळाली पुन्हा दृष्टी",
           "link": "https://kokansadlive.com/kokan/ratnagiri-girl-successful-cataract-surgery-aniket-patwardhan/36225",
@@ -170,18 +182,6 @@
           "title": "किशोरवयीन मुला-मुलींच्या सर्वांगीण विकासासाठी सिंधुदुर्गात जिल्हास्तरीय कार्यशाळा",
           "link": "https://kokansadlive.com/kokan/sindhudurg-adolescent-health-workshop-unicef-rksk-programme/36186",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36186_pic_20261123.1725.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "जिल्हा राज्य सरकारी कर्मचारी पतसंस्थेच्या संचालकपदी अंजली खताते बिनविरोध",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-district-state-government-employees-credit-society-director-anjali-khatate/36185",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36185_pic_20261123.1716.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Free Biogas Project in Sindhudurg : महिलांना चुलीच्या धुरापासून मिळणार सुटका",
-          "link": "https://kokansadlive.com/kokan/free-biogas-project-90-farmers-sindhudurg-kudal/36183",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36183_pic_20261123.1706.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "चिपळूण नगरपरिषदेतर्फे २९ नोव्हेंबरला भव्य जलतरण स्पर्धा",
+          "link": "https://kokansadlive.com/sports/chiplun-municipal-council-swimming-competition-2026/36226",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36226_pic_20261124.1519.webp",
+          "date": "15:13"
+        },
+        {
           "title": "Sawantwadi News : सावंतवाडीत  २७ डिसेंबरला सिंधू यंग चॅम्पियन्स रन",
           "link": "https://kokansadlive.com/sports/sawantwadi-news-sindhu-young-champions-run-december-27/36201",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36201_pic_20261123.1910.webp",
@@ -566,12 +572,6 @@
           "title": "विभागीय शालेय कराटे स्पर्धेत कासार्डे विद्यालयाची चमकदार कामगिरी",
           "link": "https://kokansadlive.com/sports/outstanding-performance-kasarde-school-at-divisional-school-karate-competition/35998",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35998_pic_20261117.1903.webp",
-          "date": "Nov 17"
-        },
-        {
-          "title": "Sindhudurg Ocean Swimathon 2026 : मालवणात १९ व २० डिसेंबरला 'सिंधुदुर्ग ओशन स्विमथॉन' स्पर्धेचे आयोजन",
-          "link": "https://kokansadlive.com/sports/sindhudurg-ocean-swimathon-2026-malvan-chivla-beach-december-19-20/35991",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35991_pic_20261117.1743.webp",
           "date": "Nov 17"
         }
       ]
