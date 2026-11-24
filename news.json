@@ -1,5 +1,5 @@
 {
-  "updated_at": "24 Nov 2026, 08:00 AM",
+  "updated_at": "24 Nov 2026, 08:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -255,6 +255,12 @@
       "name": "देश-विदेश",
       "items": [
         {
+          "title": "Sheikh Hasina return to Bangladesh : शेख हसीना यांचे बांगलादेशात पुनरागमन ?",
+          "link": "https://kokansadlive.com/national-international/sheikh-hasina-return-to-bangladesh/36222",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36222_pic_20261124.1332.webp",
+          "date": "13:28"
+        },
+        {
           "title": "पश्चिम बंगालचे नाव बदलणार? मुख्यमंत्री सुवेंदू अधिकारींची मोठी घोषणा, प्रस्ताव ९ डिसेंबरला मांडणार विधानसभेत",
           "link": "https://kokansadlive.com/national-international/west-bengal-name-change-paschim-banga-assembly-proposal-december-9/36198",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36198_pic_20261123.1844.webp",
@@ -307,12 +313,6 @@
           "link": "https://kokansadlive.com/national-international/goa-assembly-one-day-session-december-16-2026-opposition/36027",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36027_pic_20261118.1712.webp",
           "date": "Nov 18"
-        },
-        {
-          "title": "Vande Bharat Train : ब्रेक निकामी असतानाही ४६३ किमी धावली वंदे भारत; रेल्वेच्या सुरक्षेवर प्रश्नचिन्ह",
-          "link": "https://kokansadlive.com/national-international/vande-bharat-train-runs-463-km-without-functional-brakes/35949",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35949_pic_20261116.1812.webp",
-          "date": "Nov 16"
         }
       ]
     },
