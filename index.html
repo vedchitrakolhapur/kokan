@@ -204,16 +204,53 @@
       padding: 0 12px;
     }
 
-    /* Live TV Wrapper */
-    .tv-wrapper { margin-top: 12px; }
+    /* Live TV Wrapper & Retro TV Frame */
+    .tv-wrapper {
+      margin-top: 14px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    /* TV च्या वरचे अँटेना */
+    .tv-antennas {
+      position: relative;
+      width: 60px;
+      height: 16px;
+    }
+    .tv-antennas::before,
+    .tv-antennas::after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      width: 5px;
+      height: 22px;
+      background: #1a2a47;
+      border-radius: 4px;
+    }
+    .tv-antennas::before {
+      left: 16px;
+      transform: rotate(-38deg);
+    }
+    .tv-antennas::after {
+      right: 16px;
+      transform: rotate(38deg);
+    }
+
+    /* TV ची मुख्य फ्रेम */
+    .tv-frame {
+      width: 100%;
+      background: #1a2a47;
+      padding: 8px 8px 10px;
+      border-radius: 16px;
+      box-shadow: 0 6px 18px rgba(10, 9, 137, 0.22);
+    }
     .tv-box {
       position: relative;
       width: 100%;
       aspect-ratio: 16 / 9;
-      background: #000;
-      border-radius: 12px;
+      background: #000000;
+      border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
     .tv-box iframe {
       width: 100%;
@@ -221,32 +258,98 @@
       border: none;
       display: block;
     }
-    .tv-controls {
-      position: absolute;
-      top: 8px;
-      right: 8px;
-      z-index: 10;
+
+    /* TV च्या खालील User-Friendly कंट्रोल बार */
+    .tv-bottom-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 8px;
+      padding: 0 4px;
+      gap: 8px;
     }
-    .tv-btn {
-      background: rgba(0, 0, 0, 0.7);
-      color: #fff;
-      border: 1px solid rgba(255,255,255,0.35);
-      border-radius: 6px;
-      padding: 4px 10px;
+    .tv-live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #ffffff;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .live-dot {
+      width: 9px;
+      height: 9px;
+      background: #ef4444;
+      border-radius: 50%;
+      animation: blink 1.2s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.25; }
+    }
+    .tv-action-btns {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .tv-ctrl-btn {
+      background: rgba(255, 255, 255, 0.14);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      border-radius: 8px;
+      padding: 5px 11px;
+      font-family: inherit;
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
     }
+    .tv-ctrl-btn:active { background: rgba(255, 255, 255, 0.28); }
+    .tv-ctrl-btn.fs-primary {
+      background: #2563eb;
+      border-color: #3b82f6;
+    }
+
+    /* Full Screen मधोमध, 16:9 अचूक मापात, Scroll न होता आणि Black Background */
     .tv-box.is-fullscreen {
       position: fixed;
       inset: 0;
       width: 100vw;
       height: 100vh;
       aspect-ratio: auto;
+      background: #000000;
       border-radius: 0;
       z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
     }
-	/* Mini-Player (इतर टॅबवर असताना तळाशी उजवीकडे) */
+    .tv-box.is-fullscreen iframe {
+      width: min(100vw, calc(100vh * 16 / 9));
+      height: min(100vh, calc(100vw * 9 / 16));
+    }
+    .fs-exit-btn {
+      display: none;
+      position: fixed;
+      top: 12px;
+      right: 12px;
+      z-index: 10000;
+      background: rgba(0, 0, 0, 0.75);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      border-radius: 8px;
+      padding: 6px 14px;
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .tv-box.is-fullscreen .fs-exit-btn { display: block; }
+
+    /* Mini-Player (इतर टॅबवर असताना तळाशी उजवीकडे) */
     .tv-box.is-minimized {
       position: fixed;
       bottom: 14px;
@@ -258,7 +361,6 @@
       border: 2px solid #ffffff;
       box-shadow: 0 6px 20px rgba(0, 0, 0, 0.38);
     }
-    .tv-box.is-minimized #fs-btn { display: none; }
     .mini-controls {
       display: none;
       position: absolute;
@@ -686,22 +788,37 @@
 
   <div class="container-wrap">
     <!-- Live TV + E-Paper (फक्त ठळक बातम्या टॅबवर) -->
-    <!-- Live TV (नेहमी उपलब्ध, इतर टॅबवर Minimize होईल) -->
+    <!-- Live TV Retro Frame (इतर टॅबवर Minimize होईल) -->
     <div class="tv-wrapper" id="tv-wrapper">
-      <div class="tv-box" id="tv-box">
-        <div class="tv-controls">
-          <button class="tv-btn" id="fs-btn" onclick="toggleFullscreen()">⛶ Full Screen</button>
+      <div class="tv-antennas" id="tv-antennas"></div>
+      <div class="tv-frame" id="tv-frame">
+        <div class="tv-box" id="tv-box">
+          <button class="fs-exit-btn" onclick="exitFullscreen()">✕ बाहेर पडा</button>
+          <div class="mini-controls">
+            <button class="mini-btn" onclick="selectCategory(0)" title="Home वर जा">⤢</button>
+            <button class="mini-btn" onclick="closeMiniTv()" title="TV बंद करा">✕</button>
+          </div>
+          <iframe
+            id="live-tv-frame"
+            src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
+            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+            allowfullscreen>
+          </iframe>
         </div>
-        <div class="mini-controls">
-          <button class="mini-btn" onclick="selectCategory(0)" title="Home वर जा">⤢</button>
-          <button class="mini-btn" onclick="closeMiniTv()" title="TV बंद करा">✕</button>
+        <div class="tv-bottom-bar" id="tv-bottom-bar">
+          <div class="tv-live-badge">
+            <span class="live-dot"></span>
+            <span>कोकणसाद LIVE TV</span>
+          </div>
+          <div class="tv-action-btns">
+            <button class="tv-ctrl-btn" onclick="reloadTv()" title="पुन्हा सुरू करा">
+              <i class="fa-solid fa-rotate-right"></i> Play
+            </button>
+            <button class="tv-ctrl-btn fs-primary" id="fs-btn" onclick="toggleFullscreen()">
+              <i class="fa-solid fa-expand"></i> Full Screen
+            </button>
+          </div>
         </div>
-        <iframe
-          id="live-tv-frame"
-          src="https://cdn.rixcast.com/rcast/players/sindhudurglive.html"
-          allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-          allowfullscreen>
-        </iframe>
       </div>
     </div>
 
@@ -850,6 +967,12 @@
       tvFrame.src = 'about:blank'; // आवाज पूर्णपणे बंद करण्यासाठी
       tvBox.style.display = 'none';
     }
+	
+	function reloadTv() {
+      isTvClosed = false;
+      tvBox.style.display = 'block';
+      tvFrame.src = LIVE_TV_URL;
+    }
 
     async function enterFullscreen() {
       if (isFull) return;
@@ -870,7 +993,7 @@
       if (!isFull) return;
       isFull = false;
       tvBox.classList.remove('is-fullscreen');
-      fsBtn.textContent = '⛶ Full Screen';
+      fsBtn.innerHTML = '<i class="fa-solid fa-expand"></i> Full Screen';
       try {
         if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock();
         if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
@@ -990,7 +1113,15 @@
       document.getElementById('yt-section').style.display = (isHome && youtubeVideos.length > 0) ? 'block' : 'none';
 
       // Live TV Minimize / Restore लॉजिक
+      const tvAntennas = document.getElementById('tv-antennas');
+      const tvFrameBox = document.getElementById('tv-frame');
+      const tvBottomBar = document.getElementById('tv-bottom-bar');
+
       if (isHome) {
+        tvAntennas.style.display = 'block';
+        tvBottomBar.style.display = 'flex';
+        tvFrameBox.style.background = '#1a2a47';
+        tvFrameBox.style.padding = '8px 8px 10px';
         tvBox.classList.remove('is-minimized');
         tvBox.style.display = 'block';
         if (isTvClosed) {
@@ -998,6 +1129,10 @@
           isTvClosed = false;
         }
       } else {
+        tvAntennas.style.display = 'none';
+        tvBottomBar.style.display = 'none';
+        tvFrameBox.style.background = 'transparent';
+        tvFrameBox.style.padding = '0';
         if (!isTvClosed) {
           tvBox.classList.add('is-minimized');
         }
