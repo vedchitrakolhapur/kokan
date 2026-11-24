@@ -1,5 +1,5 @@
 {
-  "updated_at": "24 Nov 2026, 12:30 PM",
+  "updated_at": "24 Nov 2026, 12:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "नाथ पै. सभागृहाच्या देखभाल, दुरुस्तीकडे प्रशासनानं गांभीर्याने लक्ष द्यावं : बाळ पुराणिक",
+      "link": "https://www.youtube.com/watch?v=-LeU7J-MySQ",
+      "image": "https://i.ytimg.com/vi/-LeU7J-MySQ/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "संगीत नाटकांची हॅट्रिक | एकाच दिवशी तीन अजरामर प्रयोग",
       "link": "https://www.youtube.com/watch?v=kbIsWft_OYU",
       "image": "https://i.ytimg.com/vi/kbIsWft_OYU/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "बाळासाहेबांचे विचार तळागाळापर्यंत पोहचू दे : सुशांत नाईक | Sushant Naik",
       "link": "https://www.youtube.com/watch?v=DcA71TSArN4",
       "image": "https://i.ytimg.com/vi/DcA71TSArN4/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शिवसेनेला पुन्हा ते दिवस येतील | नंदू शिंदे यांना विश्वास | Thackeray Shiv Sena",
-      "link": "https://www.youtube.com/watch?v=v8bE-exe6Rs",
-      "image": "https://i.ytimg.com/vi/v8bE-exe6Rs/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
