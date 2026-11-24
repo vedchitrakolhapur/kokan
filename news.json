@@ -1,9 +1,21 @@
 {
-  "updated_at": "24 Nov 2026, 12:15 PM",
+  "updated_at": "24 Nov 2026, 12:30 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "किशोरवयीन मुलांच्या क्षमता बांधणीसाठी सिंधुदुर्गात कार्यशाळा",
+          "link": "https://kokansadlive.com/kokan/workshop-in-sindhudurg-for-capacity-building-of-adolescents/36242",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36242_pic_20261124.1756.webp",
+          "date": "November 24, 2026"
+        },
+        {
+          "title": "Kudal News : एकाच छताखाली सहा फूड आउटलेट्स अन् २७ आलिशान खोल्या",
+          "link": "https://kokansadlive.com/kokan/hotel-neelam-nakshatra-is-becoming-a-center-of-attraction-thanks-to-its-high-quality-hospitality/36240",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36240_pic_20261124.1751.webp",
+          "date": "November 24, 2026"
+        },
         {
           "title": "दीक्षित फाउंडेशनच्या उपक्रमांचा विद्यार्थ्यांनी लाभ घ्यावा",
           "link": "https://kokansadlive.com/kokan/dikshit-foundation-initiatives-students-should-benefit/36239",
@@ -170,18 +182,6 @@
           "title": "Sawantwadi Multispeciality Hospital : नगराध्यक्षा म्हणून श्रद्धाराजे सक्षम",
           "link": "https://kokansadlive.com/kokan/sawantwadi-multispeciality-hospital-land-issue-resolved-lakhamraje-bhosale/36203",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36203_pic_20261123.1939.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Devgad News :  देवगडात ३ डिसेंबरला पहिली आंबा परिषद",
-          "link": "https://kokansadlive.com/kokan/first-mango-conference-in-devgad-on-december-3/36200",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36200_pic_20261123.1902.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Devgad News : देवगड हायस्कूलात सीसीटीव्ही यंत्रणा कार्यान्वित",
-          "link": "https://kokansadlive.com/kokan/cctv-system-becomes-operational-at-devgad-high-school/36197",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36197_pic_20261123.1839.webp",
           "date": "November 23, 2026"
         }
       ]
@@ -515,6 +515,18 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "Sindhudurg News : बॉक्सिंग स्पर्धेत आर्य आवटीला कांस्य",
+          "link": "https://kokansadlive.com/sports/sindhudurg-news-ary-avati-wins-bronze-in-boxing-competition/36243",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36243_pic_20261124.1759.webp",
+          "date": "17:58"
+        },
+        {
+          "title": "यूएईवर इंडियाचा दणदणीत विजय! ७ विकेट्सनी मात करत 'इंडिया ए'ची 'रायझिंग स्टार्स आशिया कप'च्या उपांत्य फेरीत धडक",
+          "link": "https://kokansadlive.com/sports/india-a-beats-uae-7-wickets-rising-stars-asia-cup-semi-final/36241",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36241_pic_20261124.1754.webp",
+          "date": "17:44"
+        },
+        {
           "title": "वैभव सूर्यवंशीचा विश्वविक्रमी पराक्रम! अवघ्या ५२ चेंडूंमध्ये ठोकले द्विशतक; २८ चेंडूंत शतक झळकावत रचला इतिहास",
           "link": "https://kokansadlive.com/sports/vaibhav-suryavanshi-28-ball-century-rising-stars-asia-cup-record/36237",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36237_pic_20261124.1730.webp",
@@ -561,18 +573,6 @@
           "link": "https://kokansadlive.com/sports/shubman-gill-98-india-vs-new-zealand-1st-test-day-3/36113",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36113_pic_20261121.1225.webp",
           "date": "Nov 21"
-        },
-        {
-          "title": "भारताची सुरुवात दमदार, पण निकोल्स-फिलिप्सची शतकी भागीदारी! पहिल्या दिवसअखेर न्यूझीलंडची २४३ धावांपर्यंत मजल",
-          "link": "https://kokansadlive.com/sports/india-vs-new-zealand-1st-test-day-1-henry-nicholls-century/36045",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36045_pic_20261119.1338.webp",
-          "date": "Nov 19"
-        },
-        {
-          "title": "Jasprit Bumrah Test Wickets : कसोटीतील टॉप १० गोलंदाजांच्या यादीत जसप्रीत बुमराहचा प्रवेश",
-          "link": "https://kokansadlive.com/sports/jasprit-bumrah-surpasses-javagal-srinath-test-wickets-record/36044",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36044_pic_20261119.1306.webp",
-          "date": "Nov 19"
         }
       ]
     },
