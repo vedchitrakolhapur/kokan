@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 08:45 AM",
+  "updated_at": "25 Nov 2026, 09:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "व्यसनमुक्त तरुणाईचा संकल्प",
+          "link": "https://kokansadlive.com/kokan/a-pledge-for-an-addiction-free-youth/36266",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36266_pic_20261125.1419.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Sawantwadi News : सोनुर्लीच्या दरबारी जपली सावंतवाडीची संस्कृती",
           "link": "https://kokansadlive.com/kokan/the-culture-of-sawantwadi-has-been-preserved-at-the-court-of-sonurli/36265",
@@ -176,12 +182,6 @@
           "title": "Kankavli News :  गड नदीपात्रातील केटी बंधाऱ्यावर प्लेट बसवल्याने पाणीसाठ्यात वाढ",
           "link": "https://kokansadlive.com/kokan/water-storage-increased-by-installing-a-plate-on-the-kt-dam-in-the-gad-riverbed/36228",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36228_pic_20261124.1527.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Sawantwadi News : संगीत नाटकांची हॅट्रिक",
-          "link": "https://kokansadlive.com/kokan/a-hat-trick-of-musicals/36227",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36227_pic_20261124.1520.webp",
           "date": "November 24, 2026"
         }
       ]
