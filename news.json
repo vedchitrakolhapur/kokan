@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 10:15 AM",
+  "updated_at": "25 Nov 2026, 10:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "हिवाळी अधिवेशनात गिरणी कामगारांच्या मोर्चा गर्मी वाढवणार",
+          "link": "https://kokansadlive.com/kokan/winter-session-mill-workers-protest-to-heat-up/36271",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36271_pic_20261125.1552.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Sindhudurg News : ठाकरे शिवसेनेचे भजन आंदोलन",
           "link": "https://kokansadlive.com/kokan/thackeray-shiv-sena-s-bhajan-movement/36268",
@@ -176,12 +182,6 @@
           "title": "Sawantwadi News : दक्षिण कोकणचे पंढरपूर जत्रोत्सवासाठी सज्ज",
           "link": "https://kokansadlive.com/kokan/sawantwadi-news-dakshin-kokan-pandharpur-jatrotsav-ready/36232",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36232_pic_20261124.1600.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "डिचोलीत २९ नोव्हेंबरला भव्य सत्कार सोहळा",
-          "link": "https://kokansadlive.com/kokan/grand-felicitation-ceremony-in-bicholim-on-november-29/36230",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36230_pic_20261124.1550.webp",
           "date": "November 24, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Pune Court Firing Incident : पुणे जिल्हा न्यायालयाबाहेर गोळीबार आणि कोयत्याने हल्ला; एक व्यक्ती गंभीर जखमी, दोन बंदुका जप्त",
+          "link": "https://kokansadlive.com/crime/pune-court-firing-mandar-kiwale-attack-shivajinagar/36270",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36270_pic_20261125.1545.webp",
+          "date": "15:42"
+        },
+        {
           "title": "वृद्ध महिलेच्या गळ्यातील सोन्याचा हार हिसकावला",
           "link": "https://kokansadlive.com/crime/chiplun-pedhambe-elderly-woman-gold-chain-robbery/36269",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36269_pic_20261125.1518.webp",
@@ -436,12 +442,6 @@
           "title": "जामसंडेत बंद घरांना चोरट्यांचे लक्ष्य",
           "link": "https://kokansadlive.com/crime/thieves-target-locked-houses-in-jamsandeh/36161",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36161_pic_20261122.1932.webp",
-          "date": "Nov 22"
-        },
-        {
-          "title": "Vaibhavwadi news : चार वर्षीय चिमुरडीवरील अत्याचारप्रकरणी शिक्षक पिता अटकेत",
-          "link": "https://kokansadlive.com/crime/vaibhavwadi-news-father-of-four-year-old-girl-arrested-in-molestation-case/36142",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36142_pic_20261122.1055.webp",
           "date": "Nov 22"
         }
       ]
