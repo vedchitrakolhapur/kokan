@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 02:00 PM",
+  "updated_at": "25 Nov 2026, 02:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "‘नशामुक्त युवा फॉर विकसित भारत २०४७’ संकल्पनेतून संविधान दिन साजरा",
+          "link": "https://kokansadlive.com/kokan/constitution-day-celebrated-with-drug-free-youth-for-a-developed-india-2047/36292",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36292_pic_20261125.1944.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "कुडाळ तालुक्यातील वेताळ बांबर्डे परिसरात पावसाच्या हलक्या सरी",
           "link": "https://kokansadlive.com/kokan/light-rain-showers-in-vetal-bambarde-area-of-kudal/36289",
@@ -176,12 +182,6 @@
           "title": "Devgad News : पालकमंत्री नितेश राणेंनी घेतले दीर्बादेवी-रामेश्वराचे दर्शन",
           "link": "https://kokansadlive.com/kokan/guardian-minister-nitesh-rane-offered-prayers-at-the-dirbadevi-rameshwar-temple/36253",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36253_pic_20261125.1054.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Kankavli News :त्रिपुरारी पौर्णिमेनिमित्त पालकमंत्री नितेश राणेंनी घेतले स्वयंभूचे दर्शन",
-          "link": "https://kokansadlive.com/kokan/kankavli-news-tripurari-purnima-guardian-minister-nitesh-rane-visits-swayambhu/36252",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36252_pic_20261125.1048.webp",
           "date": "November 25, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "देवगड किल्ला परिसरात गोवा बनावटीच्या दारूवर पोलिसांचा छापा",
+          "link": "https://kokansadlive.com/crime/devgad-goa-liquor-seized-94-bottles-one-arrested/36291",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36291_pic_20261125.1934.webp",
+          "date": "19:29"
+        },
+        {
           "title": "Kankavli Land Dispute Assault Case : जमिनीच्या वादातून दोन कुटुंबांत हाणामारी",
           "link": "https://kokansadlive.com/crime/kankavli-land-dispute-assault-two-families-cross-complaints/36290",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36290_pic_20261125.1926.webp",
@@ -436,12 +442,6 @@
           "title": "Redi Murder Case Sindhudurg : वडिलांच्या छळाला कंटाळून दोन्ही मुलांनीच केला खून",
           "link": "https://kokansadlive.com/crime/redi-murder-case-sindhudurg-police-two-sons-accused-father-killing/36193",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36193_pic_20261123.1804.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
-          "link": "https://kokansadlive.com/crime/malvan-news-revtale-goa-made-liquor-action/36165",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36165_pic_20261123.1211.webp",
           "date": "Nov 23"
         }
       ]
