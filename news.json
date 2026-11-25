@@ -1,9 +1,21 @@
 {
-  "updated_at": "25 Nov 2026, 01:45 PM",
+  "updated_at": "25 Nov 2026, 02:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "कुडाळ तालुक्यातील वेताळ बांबर्डे परिसरात पावसाच्या हलक्या सरी",
+          "link": "https://kokansadlive.com/kokan/light-rain-showers-in-vetal-bambarde-area-of-kudal/36289",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36289_pic_20261125.1921.webp",
+          "date": "November 25, 2026"
+        },
+        {
+          "title": "दोडामार्ग नगरपंचायतीच्या वाढीव कामावर तिसऱ्यांदा नगरसेवकांचा हातोडा",
+          "link": "https://kokansadlive.com/kokan/dodamarg-nagarpanchayat-extra-work-contractor-stop-work-order-councillors-protest/36288",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36288_pic_20261125.1917.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "दहा दिवसांत दोडामार्ग-विजघर रस्त्याचे काम सुरू करा",
           "link": "https://kokansadlive.com/kokan/vijghar-tilari-road-work-delay-sandesh-vark-protest-warning/36287",
@@ -171,18 +183,6 @@
           "link": "https://kokansadlive.com/kokan/kankavli-news-tripurari-purnima-guardian-minister-nitesh-rane-visits-swayambhu/36252",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36252_pic_20261125.1048.webp",
           "date": "November 25, 2026"
-        },
-        {
-          "title": "Kankavli News : कणकवली रेल्वे स्टेशन गोठण देव येथे दीपोत्सव",
-          "link": "https://kokansadlive.com/kokan/deepotsav-at-kankavli-railway-station-gothan-dev/36251",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36251_pic_20261125.1038.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "विधानसभा अध्यक्ष ॲड. राहुल नार्वेकर यांची विशाल परब यांनी घेतली सदिच्छा भेट",
-          "link": "https://kokansadlive.com/kokan/rahul-narwekar-vishal-parab-meeting-sawantwadi-tripuri-pournima/36249",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36249_pic_20261124.1947.webp",
-          "date": "November 24, 2026"
         }
       ]
     },
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Kankavli Land Dispute Assault Case : जमिनीच्या वादातून दोन कुटुंबांत हाणामारी",
+          "link": "https://kokansadlive.com/crime/kankavli-land-dispute-assault-two-families-cross-complaints/36290",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36290_pic_20261125.1926.webp",
+          "date": "19:21"
+        },
+        {
           "title": "Patradevi Illegal Liquor Seizure : पत्रादेवी तपासणी नाक्यावर ५७.४० लाखांच्या अवैध दारुसह ट्रक जप्त",
           "link": "https://kokansadlive.com/crime/patradevi-illegal-liquor-seizure-57-40-lakh-truck-seized/36281",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36281_pic_20261125.1740.webp",
@@ -436,12 +442,6 @@
           "title": "Malvan News : रेवतळेत गोवा बनावटीच्या दारूवर कारवाई",
           "link": "https://kokansadlive.com/crime/malvan-news-revtale-goa-made-liquor-action/36165",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36165_pic_20261123.1211.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
-          "link": "https://kokansadlive.com/crime/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36163_pic_20261123.1055.webp",
           "date": "Nov 23"
         }
       ]
