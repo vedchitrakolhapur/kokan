@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 07:00 AM",
+  "updated_at": "25 Nov 2026, 07:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kudal News : जिल्हा परिषदेत लोकांच्या प्रश्नांवर एकमत नाही",
+          "link": "https://kokansadlive.com/kokan/there-is-no-consensus-on-people-s-issues-within-the-zilla-parishad/36258",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36258_pic_20261125.1238.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Devgad News : देवगडमध्ये संजय गांधी योजनेचे ४१ प्रस्ताव मंजूर",
           "link": "https://kokansadlive.com/kokan/devgad-sanjay-gandhi-yojana-41-proposals-approved/36257",
@@ -176,12 +182,6 @@
           "title": "Mumbai Goa Highway : मुंबई-गोवा महामार्गाला डॉ. बाबासाहेब आंबेडकरांचे नाव द्या",
           "link": "https://kokansadlive.com/kokan/mumbai-goa-highway-name-dr-babasaheb-ambedkar/36216",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36216_pic_20261124.1123.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Malvan News : ‘गिरे तो भी टांग उपर’ !",
-          "link": "https://kokansadlive.com/kokan/malvan-news-even-if-i-fall-my-legs-are-up/36215",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36215_pic_20261124.1102.webp",
           "date": "November 24, 2026"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "त्रिपुरी पौर्णिमेनिमित्त पालकमंत्री नितेश राणेंनी घेतले श्री स्वयंभूचे दर्शन | Minister Nitesh Rane",
+      "link": "https://www.youtube.com/watch?v=J88hn9dqxxA",
+      "image": "https://i.ytimg.com/vi/J88hn9dqxxA/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "बळीराजा दुष्काळाच्या संकटातून बाहेर पडो| विधानसभा अध्यक्ष अ‍ॅड. राहुल नार्वेकरांचे सातेरी चरणी साकडे",
+      "link": "https://www.youtube.com/watch?v=MumoqsHltQA",
+      "image": "https://i.ytimg.com/vi/MumoqsHltQA/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 24-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=ekgAz-JaoS8",
       "image": "https://i.ytimg.com/vi/ekgAz-JaoS8/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "कारभारात माझा कोणताही हस्तक्षेप नाही : लखमराजे भोंसले",
       "link": "https://www.youtube.com/watch?v=vRg2VMt_JUk",
       "image": "https://i.ytimg.com/vi/vRg2VMt_JUk/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "देशव्यापी डिजिटल जीवन प्रमाणपत्र अभियान ५ | जिल्हा कोषागार कार्यालय,सिंधुदुर्ग",
-      "link": "https://www.youtube.com/watch?v=jJKMvGCD5co",
-      "image": "https://i.ytimg.com/vi/jJKMvGCD5co/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "मासळीच्या पाण्यामुळे देवगडच्या रस्त्यांवर अपघातांचा धोका | Road Accidents",
-      "link": "https://www.youtube.com/watch?v=wJdaFnFZ10g",
-      "image": "https://i.ytimg.com/vi/wJdaFnFZ10g/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
