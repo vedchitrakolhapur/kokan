@@ -1,9 +1,21 @@
 {
-  "updated_at": "25 Nov 2026, 08:00 AM",
+  "updated_at": "25 Nov 2026, 08:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Gold - Silver Price Drop : सोनं-चांदीच्या दरात मोठी घसरण",
+          "link": "https://kokansadlive.com/kokan/significant-drop-in-gold-and-silver-prices/36261",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36261_pic_20261125.1337.webp",
+          "date": "November 25, 2026"
+        },
+        {
+          "title": "सावंतवाडीत ५७ कोटींची नळपाणी योजना रखडली",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-water-supply-project-sanju-parab-protest-warning/36260",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36260_pic_20261125.1330.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Malvan News : पत्रकार सुयोग पंडित यांचा २८ नोव्हेंबरला विशेष सत्कार",
           "link": "https://kokansadlive.com/kokan/journalist-suyog-pandit-to-be-specially-felicitated-on-november-28/36259",
@@ -170,18 +182,6 @@
           "title": "Kankavli News : शिंपी समाज ऐक्यवर्धक संघाच्या अध्यक्षपदी अभिजीत मिरजकर",
           "link": "https://kokansadlive.com/kokan/abhijit-mirajkar-appointed-as-president-of-the-shimpi-samaj-aikyavardhak-sangh/36219",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36219_pic_20261124.1157.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Dodamarg News :  तिलारी सुरक्षा रक्षक भरती अन्याया विरोधातील उपोषण स्थगित",
-          "link": "https://kokansadlive.com/kokan/tilari-rakshak-bharti-anyay-virodhatil-uposhan-sthit/36218",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36218_pic_20261124.1150.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Chiplun News : उड्डाणपूल ते वाशिष्ठी पुलापर्यंत डांबरीकरणाचे काम अंतिम टप्प्यात",
-          "link": "https://kokansadlive.com/kokan/asphalting-work-from-the-flyover-to-the-vashishti-bridge-is-in-its-final-stage/36217",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36217_pic_20261124.1133.webp",
           "date": "November 24, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "मनिष दळवी देवी सातेरी चरणी नतमस्तक | संकटांशी लढताना शेतकऱ्यांना बळ देण्याचं साकडं",
+      "link": "https://www.youtube.com/watch?v=gkB4ia5jPD8",
+      "image": "https://i.ytimg.com/vi/gkB4ia5jPD8/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "संजू परब पुढील वेळी दर्शनाला येताना आमदार म्हणून यावेत | मातोंडच्या सातेरीला साकडं | Sanju Parab",
       "link": "https://www.youtube.com/watch?v=nPvADjzBrTQ",
       "image": "https://i.ytimg.com/vi/nPvADjzBrTQ/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "माडखोल धरणाच्या कालव्याची साफसफाई न करता टेस्टिंगसाठी पाणी सोडले..?",
       "link": "https://www.youtube.com/watch?v=z_O-lUpuBMY",
       "image": "https://i.ytimg.com/vi/z_O-lUpuBMY/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "मालवण सीआरझेड वादावरून निलेश राणेंचा विरोधकांवर हल्लाबोल",
-      "link": "https://www.youtube.com/watch?v=5woslaXdFpg",
-      "image": "https://i.ytimg.com/vi/5woslaXdFpg/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
