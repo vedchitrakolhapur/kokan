@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 05:00 AM",
+  "updated_at": "25 Nov 2026, 05:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kankavli News : कणकवली रेल्वे स्टेशन गोठण देव येथे दीपोत्सव",
+          "link": "https://kokansadlive.com/kokan/deepotsav-at-kankavli-railway-station-gothan-dev/36251",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36251_pic_20261125.1038.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "विधानसभा अध्यक्ष ॲड. राहुल नार्वेकर यांची विशाल परब यांनी घेतली सदिच्छा भेट",
           "link": "https://kokansadlive.com/kokan/rahul-narwekar-vishal-parab-meeting-sawantwadi-tripuri-pournima/36249",
@@ -176,12 +182,6 @@
           "title": "२२ तलाव, धरणांच्या गाळ उपशासाठी २.२० कोटींचा ठेका",
           "link": "https://kokansadlive.com/kokan/sindhudurg-2-20-crore-lake-desilting-project-22-lakes-work-delay/36207",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36207_pic_20261123.2008.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Sindhudurg News : जिल्हा परिषद स्थायी समितीत प्रशासनावर सदस्यांचा संताप",
-          "link": "https://kokansadlive.com/kokan/zilla-parishad-sindhudurg-standing-committee-meeting-rainwater-harvesting-bhajan-material-issues/36206",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36206_pic_20261123.1959.webp",
           "date": "November 23, 2026"
         }
       ]
