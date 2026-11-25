@@ -1,5 +1,5 @@
 {
-  "updated_at": "25 Nov 2026, 12:00 PM",
+  "updated_at": "25 Nov 2026, 12:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Patradevi Illegal Liquor Seizure : पत्रादेवी तपासणी नाक्यावर ५७.४० लाखांच्या अवैध दारुसह ट्रक जप्त",
+          "link": "https://kokansadlive.com/crime/patradevi-illegal-liquor-seizure-57-40-lakh-truck-seized/36281",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36281_pic_20261125.1740.webp",
+          "date": "17:31"
+        },
+        {
           "title": "Parshuram Ghat Accident : परशुराम घाटात कंटेनरची दुचाकीला जोरदार धडक",
           "link": "https://kokansadlive.com/crime/parshuram-ghat-accident-biker-killed-container-truck-chiplun/36278",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36278_pic_20261125.1714.webp",
@@ -436,12 +442,6 @@
           "title": "Kankavli News : रस्ता कामासाठीच्या मशीनचे ६५ लाखांचे पार्ट चोरीस",
           "link": "https://kokansadlive.com/crime/kankavli-news-65-lakh-parts-for-road-work-machine-stolen/36163",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36163_pic_20261123.1055.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "Devgad News :  देवगड समुद्रात कर्नाटकची हायस्पीड ट्रॉलर जप्त",
-          "link": "https://kokansadlive.com/crime/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36162_pic_20261123.1044.webp",
           "date": "Nov 23"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "मातोंडचं स्वयंभू - जागृत देवस्थान | श्री देवी सातेरीच्या जत्रोत्सवाला हजारो भाविकांची गर्दी | Matond",
+      "link": "https://www.youtube.com/watch?v=HNWCS_JZDQ8",
+      "image": "https://i.ytimg.com/vi/HNWCS_JZDQ8/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "हक्काच्या घरांसाठी गिरणी कामगारांचा एल्गार | Mill worker",
       "link": "https://www.youtube.com/watch?v=gp3Y7h1YQq0",
       "image": "https://i.ytimg.com/vi/gp3Y7h1YQq0/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "नाथ पै. सभागृहाच्या देखभाल, दुरुस्तीकडे प्रशासनानं गांभीर्याने लक्ष द्यावं : बाळ पुराणिक",
       "link": "https://www.youtube.com/watch?v=-LeU7J-MySQ",
       "image": "https://i.ytimg.com/vi/-LeU7J-MySQ/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "संगीत नाटकांची हॅट्रिक | एकाच दिवशी तीन अजरामर प्रयोग",
-      "link": "https://www.youtube.com/watch?v=kbIsWft_OYU",
-      "image": "https://i.ytimg.com/vi/kbIsWft_OYU/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
