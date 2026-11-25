@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 11:45 AM",
+  "updated_at": "25 Nov 2026, 12:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News : व्यवसाय तुमचा, पण आमचा जीव धोक्यात का ?",
+          "link": "https://kokansadlive.com/kokan/devgad-jetty-fish-transport-vehicles-11-accidents-slippery-roads/36279",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36279_pic_20261125.1724.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Sindhudurg Fort : किल्ले सिंधुदुर्गच्या पायाभरणीचा ३६२ वा वर्धापन दिन साजरा",
           "link": "https://kokansadlive.com/kokan/sindhudurg-fort-362nd-foundation-day-morayacha-dhonda-malvan/36277",
@@ -176,12 +182,6 @@
           "title": "Kudal News : एकाच छताखाली सहा फूड आउटलेट्स अन् २७ आलिशान खोल्या",
           "link": "https://kokansadlive.com/kokan/hotel-neelam-nakshatra-is-becoming-a-center-of-attraction-thanks-to-its-high-quality-hospitality/36240",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36240_pic_20261124.1751.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "दीक्षित फाउंडेशनच्या उपक्रमांचा विद्यार्थ्यांनी लाभ घ्यावा",
-          "link": "https://kokansadlive.com/kokan/dikshit-foundation-initiatives-students-should-benefit/36239",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36239_pic_20261124.1745.webp",
           "date": "November 24, 2026"
         }
       ]
@@ -580,6 +580,12 @@
       "name": "आरोग्य",
       "items": [
         {
+          "title": "सावंतवाडी उपजिल्हा रुग्णालयात नूतन शवपेटी",
+          "link": "https://kokansadlive.com/health/new-coffin-at-sawantwadi-sub-district-hospital/36280",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36280_pic_20261125.1728.webp",
+          "date": "17:26"
+        },
+        {
           "title": "Success story : पाठीच्या कण्यातील गंभीर ट्युमरवर यशस्वी शस्त्रक्रिया",
           "link": "https://kokansadlive.com/health/spine-tumour-surgery-chiplun-patient-walks-again-four-days/36179",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36179_pic_20261123.1634.webp",
@@ -632,17 +638,17 @@
           "link": "https://kokansadlive.com/health/cancer-medicines-price-cut-india-137-drugs-cheaper/35810",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35810_pic_20261111.1958.webp",
           "date": "Nov 11"
-        },
-        {
-          "title": "Sawantwadi Maha Arogya Shibir : सावंतवाडीत १५ नोव्हेंबरला महाआरोग्य शिबिर",
-          "link": "https://kokansadlive.com/health/maha-arogya-camp-on-november-15-in-sawantwadi/35778",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35778_pic_20261109.1928.webp",
-          "date": "Nov 9"
         }
       ]
     }
   ],
   "youtube": [
+    {
+      "title": "हक्काच्या घरांसाठी गिरणी कामगारांचा एल्गार | Mill worker",
+      "link": "https://www.youtube.com/watch?v=gp3Y7h1YQq0",
+      "image": "https://i.ytimg.com/vi/gp3Y7h1YQq0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
     {
       "title": "दुष्काळातही काठोकाठ भरलेली तळी | कोकणातील या ठिकाणाचं रहस्य काय ?",
       "link": "https://www.youtube.com/watch?v=SVP_ngozw84",
@@ -725,12 +731,6 @@
       "title": "संगीत नाटकांची हॅट्रिक | एकाच दिवशी तीन अजरामर प्रयोग",
       "link": "https://www.youtube.com/watch?v=kbIsWft_OYU",
       "image": "https://i.ytimg.com/vi/kbIsWft_OYU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "शिंदेंच्या बैठकीत ठाकरे गटाचे नगराध्यक्ष..?",
-      "link": "https://www.youtube.com/watch?v=ZAm_aBb9ljI",
-      "image": "https://i.ytimg.com/vi/ZAm_aBb9ljI/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
