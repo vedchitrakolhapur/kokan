@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 11:30 AM",
+  "updated_at": "25 Nov 2026, 11:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg Fort : किल्ले सिंधुदुर्गच्या पायाभरणीचा ३६२ वा वर्धापन दिन साजरा",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-fort-362nd-foundation-day-morayacha-dhonda-malvan/36277",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36277_pic_20261125.1708.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Sawantwadi Moti Lake : महाविद्यालयीन विद्यार्थ्यांच्या धाडसाचे कौतुक",
           "link": "https://kokansadlive.com/kokan/sawantwadi-rpd-college-students-rescue-man-moti-lake/36276",
@@ -176,12 +182,6 @@
           "title": "दीक्षित फाउंडेशनच्या उपक्रमांचा विद्यार्थ्यांनी लाभ घ्यावा",
           "link": "https://kokansadlive.com/kokan/dikshit-foundation-initiatives-students-should-benefit/36239",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36239_pic_20261124.1745.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Leopard Attack Dodamarg : घरात घुसून बिबट्याकडून 8 पिल्लांचा फडशा",
-          "link": "https://kokansadlive.com/kokan/leopard-attack-dodamarg-leopard-enters-house-eats-8-cubs/36238",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36238_pic_20261124.1736.webp",
           "date": "November 24, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Parshuram Ghat Accident : परशुराम घाटात कंटेनरची दुचाकीला जोरदार धडक",
+          "link": "https://kokansadlive.com/crime/parshuram-ghat-accident-biker-killed-container-truck-chiplun/36278",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36278_pic_20261125.1714.webp",
+          "date": "17:11"
+        },
+        {
           "title": "Pune Court Firing Incident : पुणे जिल्हा न्यायालयाबाहेर गोळीबार आणि कोयत्याने हल्ला; एक व्यक्ती गंभीर जखमी, दोन बंदुका जप्त",
           "link": "https://kokansadlive.com/crime/pune-court-firing-mandar-kiwale-attack-shivajinagar/36270",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36270_pic_20261125.1545.webp",
@@ -437,12 +443,6 @@
           "link": "https://kokansadlive.com/crime/high-speed-trawler-from-karnataka-seized-in-devgad-waters/36162",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36162_pic_20261123.1044.webp",
           "date": "Nov 23"
-        },
-        {
-          "title": "जामसंडेत बंद घरांना चोरट्यांचे लक्ष्य",
-          "link": "https://kokansadlive.com/crime/thieves-target-locked-houses-in-jamsandeh/36161",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36161_pic_20261122.1932.webp",
-          "date": "Nov 22"
         }
       ]
     },
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "दुष्काळातही काठोकाठ भरलेली तळी | कोकणातील या ठिकाणाचं रहस्य काय ?",
+      "link": "https://www.youtube.com/watch?v=SVP_ngozw84",
+      "image": "https://i.ytimg.com/vi/SVP_ngozw84/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "मनिष दळवी देवी सातेरी चरणी नतमस्तक | संकटांशी लढताना शेतकऱ्यांना बळ देण्याचं साकडं",
       "link": "https://www.youtube.com/watch?v=gkB4ia5jPD8",
       "image": "https://i.ytimg.com/vi/gkB4ia5jPD8/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "शिंदेंच्या बैठकीत ठाकरे गटाचे नगराध्यक्ष..?",
       "link": "https://www.youtube.com/watch?v=ZAm_aBb9ljI",
       "image": "https://i.ytimg.com/vi/ZAm_aBb9ljI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "माडखोल धरणाच्या कालव्याची साफसफाई न करता टेस्टिंगसाठी पाणी सोडले..?",
-      "link": "https://www.youtube.com/watch?v=z_O-lUpuBMY",
-      "image": "https://i.ytimg.com/vi/z_O-lUpuBMY/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
