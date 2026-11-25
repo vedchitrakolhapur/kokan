@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 05:45 AM",
+  "updated_at": "25 Nov 2026, 06:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "संविधान दिनानिमित्त किंजवडेत विशेष व्याख्यान",
+          "link": "https://kokansadlive.com/kokan/constitution-day-special-lecture-in-kinjawade/36256",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36256_pic_20261125.1116.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Devgad News : आरेफाटा परिसरात आगीत आंबा बागायतीचे लाखोंचे नुकसान",
           "link": "https://kokansadlive.com/kokan/mango-orchards-worth-lakhs-destroyed-in-a-fire-in-the-arefata-area/36255",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : सभागृहाच्या ठरावाला केराची टोपली? आठ शिक्षकांच्या कार्यमुक्तीवर स्थायी समितीत संताप",
           "link": "https://kokansadlive.com/kokan/sindhudurg-zilla-parishad-8-teachers-relieved-cho-transfer-row/36213",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36213_pic_20261123.2057.webp",
-          "date": "November 23, 2026"
-        },
-        {
-          "title": "Sindhudurg District Youth Festival 2026 : जिल्हास्तरीय युवा महोत्सवात सिंधुदुर्गच्या युवा कलागुणांचा अविष्कार",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-district-youth-festival-2026-winners-results-folk-art/36212",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36212_pic_20261123.2050.webp",
           "date": "November 23, 2026"
         }
       ]
