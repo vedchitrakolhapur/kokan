@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 12:15 PM",
+  "updated_at": "25 Nov 2026, 12:30 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sawantwadi News : ‘हे चांदणे फुलांनी’ संगीत मैफील उत्साहात",
+          "link": "https://kokansadlive.com/kokan/sawantwadi-tripuri-pournima-he-chandane-phulani-musical-night-2026/36282",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36282_pic_20261125.1750.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "Devgad News : व्यवसाय तुमचा, पण आमचा जीव धोक्यात का ?",
           "link": "https://kokansadlive.com/kokan/devgad-jetty-fish-transport-vehicles-11-accidents-slippery-roads/36279",
@@ -176,12 +182,6 @@
           "title": "किशोरवयीन मुलांच्या क्षमता बांधणीसाठी सिंधुदुर्गात कार्यशाळा",
           "link": "https://kokansadlive.com/kokan/workshop-in-sindhudurg-for-capacity-building-of-adolescents/36242",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36242_pic_20261124.1756.webp",
-          "date": "November 24, 2026"
-        },
-        {
-          "title": "Kudal News : एकाच छताखाली सहा फूड आउटलेट्स अन् २७ आलिशान खोल्या",
-          "link": "https://kokansadlive.com/kokan/hotel-neelam-nakshatra-is-becoming-a-center-of-attraction-thanks-to-its-high-quality-hospitality/36240",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36240_pic_20261124.1751.webp",
           "date": "November 24, 2026"
         }
       ]
