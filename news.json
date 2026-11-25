@@ -1,5 +1,5 @@
 {
-  "updated_at": "25 Nov 2026, 12:45 PM",
+  "updated_at": "25 Nov 2026, 01:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "नाटळात ‘सवित्र बाल पुरस्कार सोहळा उत्साहात | पाच गुणवंत बालकांचा गौरव",
+      "link": "https://www.youtube.com/watch?v=0vymNNz38vE",
+      "image": "https://i.ytimg.com/vi/0vymNNz38vE/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "मातोंडचं स्वयंभू - जागृत देवस्थान | श्री देवी सातेरीच्या जत्रोत्सवाला हजारो भाविकांची गर्दी | Matond",
       "link": "https://www.youtube.com/watch?v=HNWCS_JZDQ8",
       "image": "https://i.ytimg.com/vi/HNWCS_JZDQ8/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "कणकवलीच्या विकासासाठी शिंदेंच्या बैठकीला हजेरी : संदेश पारकर",
       "link": "https://www.youtube.com/watch?v=FVA9IL_dcdc",
       "image": "https://i.ytimg.com/vi/FVA9IL_dcdc/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "नाथ पै. सभागृहाच्या देखभाल, दुरुस्तीकडे प्रशासनानं गांभीर्याने लक्ष द्यावं : बाळ पुराणिक",
-      "link": "https://www.youtube.com/watch?v=-LeU7J-MySQ",
-      "image": "https://i.ytimg.com/vi/-LeU7J-MySQ/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
