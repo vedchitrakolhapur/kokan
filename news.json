@@ -1,9 +1,15 @@
 {
-  "updated_at": "25 Nov 2026, 02:30 PM",
+  "updated_at": "25 Nov 2026, 02:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "नेरूर देसाईवाडीत विहिरीत पडून महिलेचा मृत्यू",
+          "link": "https://kokansadlive.com/kokan/nerur-desaiwadi-woman-dies-after-falling-into-well/36294",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36294_pic_20261125.2014.webp",
+          "date": "November 25, 2026"
+        },
         {
           "title": "‘नशामुक्त युवा फॉर विकसित भारत २०४७’ संकल्पनेतून संविधान दिन साजरा",
           "link": "https://kokansadlive.com/kokan/constitution-day-celebrated-with-drug-free-youth-for-a-developed-india-2047/36292",
@@ -177,12 +183,6 @@
           "link": "https://kokansadlive.com/kokan/vengurla-news-tripurari-pournima-celebration-in-mhapan/36254",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36254_pic_20261125.1102.webp",
           "date": "November 25, 2026"
-        },
-        {
-          "title": "Devgad News : पालकमंत्री नितेश राणेंनी घेतले दीर्बादेवी-रामेश्वराचे दर्शन",
-          "link": "https://kokansadlive.com/kokan/guardian-minister-nitesh-rane-offered-prayers-at-the-dirbadevi-rameshwar-temple/36253",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36253_pic_20261125.1054.webp",
-          "date": "November 25, 2026"
         }
       ]
     },
@@ -255,6 +255,12 @@
       "name": "देश-विदेश",
       "items": [
         {
+          "title": "Smartphone Security Tips : फोन हॅक कसा होतो ?",
+          "link": "https://kokansadlive.com/national-international/smartphone-hacking-cyber-security-tips-protect-personal-data/36293",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36293_pic_20261125.2004.webp",
+          "date": "19:50"
+        },
+        {
           "title": "जिओचा धमाका! फक्त १५ रुपयांत २४ तास अनलिमिटेड 5G डेटा; २५ आणि ५० रुपयांचेही नवे प्लॅन लॉन्च",
           "link": "https://kokansadlive.com/national-international/jio-15-rupees-data-addon-plan-unlimited-5g-data/36245",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36245_pic_20261124.1901.webp",
@@ -306,12 +312,6 @@
           "title": "Lutru Mahadev Temple : देवाला चक्क दारू आणि सिगारेटचा नैवेद्य?",
           "link": "https://kokansadlive.com/national-international/lutru-mahadev-temple-cigarette-offering-lord-shiva-unique-temple-ritual/36141",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36141_pic_20261121.2123.webp",
-          "date": "Nov 21"
-        },
-        {
-          "title": "Indian Railways Rule : रेल्वे प्रवाशांनो सावधान! रेल्वेमध्ये मोठ्या आवाजात फोनवर बोलल्यास दंड अन् शिक्षेची तरतूद",
-          "link": "https://kokansadlive.com/national-international/indian-railways-loud-phone-calls-music-fine-rule/36124",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36124_pic_20261121.1714.webp",
           "date": "Nov 21"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "दक्षिण कोकणचे प्रति पंढरपुर | सोनुर्लीच्या जत्रोत्सवाला उसळला जनसागर | Sonurli",
+      "link": "https://www.youtube.com/watch?v=VSiw9FXtU5c",
+      "image": "https://i.ytimg.com/vi/VSiw9FXtU5c/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "नाटळात ‘सवित्र बाल पुरस्कार सोहळा उत्साहात | पाच गुणवंत बालकांचा गौरव",
       "link": "https://www.youtube.com/watch?v=0vymNNz38vE",
       "image": "https://i.ytimg.com/vi/0vymNNz38vE/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "डिचोलीत शिवसंस्कार व स्वराज्य संस्थेतर्फे भव्य सत्कार सोहळा",
       "link": "https://www.youtube.com/watch?v=zg3eK3Uch44",
       "image": "https://i.ytimg.com/vi/zg3eK3Uch44/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कणकवलीच्या विकासासाठी शिंदेंच्या बैठकीला हजेरी : संदेश पारकर",
-      "link": "https://www.youtube.com/watch?v=FVA9IL_dcdc",
-      "image": "https://i.ytimg.com/vi/FVA9IL_dcdc/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
