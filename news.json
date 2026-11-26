@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 02:15 PM",
+  "updated_at": "26 Nov 2026, 02:30 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "देवगडमध्ये २ डिसेंबरला ‘क्षेत्रीय किसान गोष्टी’ कार्यक्रम",
+          "link": "https://kokansadlive.com/kokan/regional-farmers-discussion-event-held-in-devgad-on-december-2/36350",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36350_pic_20261126.1957.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Chindar Village Gawpalani 2026 : तीन दिवसांसाठी संपूर्ण गाव होतं रिकामं; चिंदरच्या गावपळणीची अशी आहे अनोखी परंपरा",
           "link": "https://kokansadlive.com/kokan/chindar-village-gawpalani-tradition-december-2026/36349",
@@ -176,12 +182,6 @@
           "title": "Vengurla News : वेंगुर्ल्यात शिवसेनेचे संघटनात्मक शक्तिप्रदर्शन",
           "link": "https://kokansadlive.com/kokan/shivsena-vengurla-village-tour-sanju-parab-december-5-rally/36318",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36318_pic_20261126.1547.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "पाट हायस्कूलच्या कला अकादमीला साऊंड सिस्टिमची भेट",
-          "link": "https://kokansadlive.com/kokan/sound-system-gifted-to-art-academy-of-pat-high-school/36317",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36317_pic_20261126.1535.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "कणकवलीतील 'जलजीवन मिशन'च्या कामांना वेग कधी येणार ? | 51 कामे निधीअभावी अर्धवट | 62 कामे पूर्ण",
+      "link": "https://www.youtube.com/watch?v=bDep8cWghh0",
+      "image": "https://i.ytimg.com/vi/bDep8cWghh0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "माणगाव खोऱ्यात दत्ता सामंतांचा झंझावती दौरा | निळेली पशुधन संशोधन केंद्राला 'सप्राईज व्हिजिट'",
       "link": "https://www.youtube.com/watch?v=F-F40L5pCcI",
       "image": "https://i.ytimg.com/vi/F-F40L5pCcI/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "मनिष दळवी देवी सातेरी चरणी नतमस्तक | संकटांशी लढताना शेतकऱ्यांना बळ देण्याचं साकडं",
       "link": "https://www.youtube.com/watch?v=gkB4ia5jPD8",
       "image": "https://i.ytimg.com/vi/gkB4ia5jPD8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "संजू परब पुढील वेळी दर्शनाला येताना आमदार म्हणून यावेत | मातोंडच्या सातेरीला साकडं | Sanju Parab",
-      "link": "https://www.youtube.com/watch?v=nPvADjzBrTQ",
-      "image": "https://i.ytimg.com/vi/nPvADjzBrTQ/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
