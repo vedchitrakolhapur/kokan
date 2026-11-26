@@ -1,9 +1,21 @@
 {
-  "updated_at": "26 Nov 2026, 05:15 AM",
+  "updated_at": "26 Nov 2026, 05:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Kudal News : माणगाव हायस्कूलची संविधान जनजागृती रॅली",
+          "link": "https://kokansadlive.com/kokan/mangaon-high-school-s-constitution-awareness-rally/36298",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36298_pic_20261126.1057.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Sindhudurg News : माणगाव खोऱ्यात दत्ता सामंत यांचा झंजावती दौरा",
+          "link": "https://kokansadlive.com/kokan/datta-samant-s-whirlwind-tour-of-the-mangaon-valley/36297",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36297_pic_20261126.1047.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Devgad News : माजी शिक्षिका स्वाती ढोके यांचे निधन",
           "link": "https://kokansadlive.com/kokan/devgad-news-former-teacher-swati-dhoke-passes-away/36296",
@@ -170,18 +182,6 @@
           "title": "Devgad News : देवगडमध्ये संजय गांधी योजनेचे ४१ प्रस्ताव मंजूर",
           "link": "https://kokansadlive.com/kokan/devgad-sanjay-gandhi-yojana-41-proposals-approved/36257",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36257_pic_20261125.1209.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "संविधान दिनानिमित्त किंजवडेत विशेष व्याख्यान",
-          "link": "https://kokansadlive.com/kokan/constitution-day-special-lecture-in-kinjawade/36256",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36256_pic_20261125.1116.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Devgad News : आरेफाटा परिसरात आगीत आंबा बागायतीचे लाखोंचे नुकसान",
-          "link": "https://kokansadlive.com/kokan/mango-orchards-worth-lakhs-destroyed-in-a-fire-in-the-arefata-area/36255",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36255_pic_20261125.1112.webp",
           "date": "November 25, 2026"
         }
       ]
