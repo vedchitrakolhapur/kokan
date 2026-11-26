@@ -1,5 +1,5 @@
 {
-  "updated_at": "26 Nov 2026, 03:00 PM",
+  "updated_at": "26 Nov 2026, 03:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Devgad Crime News : घरगुती वादातून नाद धनगरवाडीत तिघांना मारहाण",
+          "link": "https://kokansadlive.com/crime/devgad-crime-news-domestic-dispute-leads-to-assault-on-three-in-nad-dhangarwadi/36353",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36353_pic_20261126.2035.webp",
+          "date": "20:22"
+        },
+        {
           "title": "गोवा बनावटीची दारू बाळगल्याप्रकरणी महिलेवर गुन्हा दाखल",
           "link": "https://kokansadlive.com/crime/kankavli-goa-made-liquor-seized-woman-booked-kalamath/36351",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36351_pic_20261126.2006.webp",
@@ -437,12 +443,6 @@
           "link": "https://kokansadlive.com/crime/chiplun-pedhambe-elderly-woman-gold-chain-robbery/36269",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36269_pic_20261125.1518.webp",
           "date": "Nov 25"
-        },
-        {
-          "title": "Dodamarg Illegal Tree Cutting : तळेखोलमध्ये अवैध वृक्षतोडीवर वनविभागाची कारवाई",
-          "link": "https://kokansadlive.com/crime/dodamarg-illegal-tree-cutting-forest-department-timber-seized/36247",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36247_pic_20261124.1927.webp",
-          "date": "Nov 24"
         }
       ]
     },
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "आवळेगाव-कुपवडे रस्त्यासाठी साडेचार कोटी | भूमिपूजनात निलेश राणेंचा अधिकाऱ्यांना दम",
+      "link": "https://www.youtube.com/watch?v=qC2UJM1oi5I",
+      "image": "https://i.ytimg.com/vi/qC2UJM1oi5I/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "11 अपघात, दुर्गंधीचा त्रास अन् प्रशासनाचे दुर्लक्ष | देवगडकरांचा आता आरपारचा इशारा",
+      "link": "https://www.youtube.com/watch?v=pNAKr1yYqbM",
+      "image": "https://i.ytimg.com/vi/pNAKr1yYqbM/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "आंबा बागायतीला भीषण आग | शेकडो कलमे जळून खाक | FIRE",
       "link": "https://www.youtube.com/watch?v=YikwcroKVco",
       "image": "https://i.ytimg.com/vi/YikwcroKVco/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "कोकणसाद Live Prime Time Bulletin | 25-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=0w5zgIx-P1Y",
       "image": "https://i.ytimg.com/vi/0w5zgIx-P1Y/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "दक्षिण कोकणचे प्रति पंढरपुर | सोनुर्लीच्या जत्रोत्सवाला उसळला जनसागर | Sonurli",
-      "link": "https://www.youtube.com/watch?v=VSiw9FXtU5c",
-      "image": "https://i.ytimg.com/vi/VSiw9FXtU5c/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "नाटळात ‘सवित्र बाल पुरस्कार सोहळा उत्साहात | पाच गुणवंत बालकांचा गौरव",
-      "link": "https://www.youtube.com/watch?v=0vymNNz38vE",
-      "image": "https://i.ytimg.com/vi/0vymNNz38vE/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
