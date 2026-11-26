@@ -1,5 +1,5 @@
 {
-  "updated_at": "26 Nov 2026, 04:45 AM",
+  "updated_at": "26 Nov 2026, 05:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Sawantwadi News : सख्ख्या भावांच्या वादाचे पर्यवसन रक्तरंजित हाणामारीत",
+          "link": "https://kokansadlive.com/crime/complaints-filed-against-each-other-at-the-sawantwadi-police-station/36295",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36295_pic_20261126.1027.webp",
+          "date": "10:21"
+        },
+        {
           "title": "देवगड किल्ला परिसरात गोवा बनावटीच्या दारूवर पोलिसांचा छापा",
           "link": "https://kokansadlive.com/crime/devgad-goa-liquor-seized-94-bottles-one-arrested/36291",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36291_pic_20261125.1934.webp",
@@ -436,12 +442,6 @@
           "title": "अवैध गोवा दारु विक्री प्रकरणी कणकवलीत एकावर कारवाई",
           "link": "https://kokansadlive.com/crime/illegal-goa-liquor-sale-case-one-action-in-kankavli/36211",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36211_pic_20261123.2038.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "Redi Murder Case Sindhudurg : वडिलांच्या छळाला कंटाळून दोन्ही मुलांनीच केला खून",
-          "link": "https://kokansadlive.com/crime/redi-murder-case-sindhudurg-police-two-sons-accused-father-killing/36193",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36193_pic_20261123.1804.webp",
           "date": "Nov 23"
         }
       ]
