@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 11:15 AM",
+  "updated_at": "26 Nov 2026, 11:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Vengurla News : वेंगुर्ल्यात शिवसेनेचे संघटनात्मक शक्तिप्रदर्शन",
+          "link": "https://kokansadlive.com/kokan/vengurla-news-shiv-sena-organizational-power-show/36329",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36329_pic_20261126.1654.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "आंजणारी परिसरात १८ नवीन गतिरोधक",
           "link": "https://kokansadlive.com/kokan/18-new-speed-breakers-in-the-anjanari-area/36328",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : माणगाव खोऱ्यात दत्ता सामंत यांचा झंजावती दौरा",
           "link": "https://kokansadlive.com/kokan/datta-samant-s-whirlwind-tour-of-the-mangaon-valley/36297",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36297_pic_20261126.1047.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Devgad News : माजी शिक्षिका स्वाती ढोके यांचे निधन",
-          "link": "https://kokansadlive.com/kokan/devgad-news-former-teacher-swati-dhoke-passes-away/36296",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36296_pic_20261126.1040.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "विशाल परब यांनी घेतले देवीच दर्शन | Vishal Parab",
+      "link": "https://www.youtube.com/watch?v=nP0QOWDl6Qc",
+      "image": "https://i.ytimg.com/vi/nP0QOWDl6Qc/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 25-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=0w5zgIx-P1Y",
       "image": "https://i.ytimg.com/vi/0w5zgIx-P1Y/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "'ती' बैठक मंत्रालयात व्हायला हवी होती : वैभव नाईक",
       "link": "https://www.youtube.com/watch?v=l76kBKNP_hA",
       "image": "https://i.ytimg.com/vi/l76kBKNP_hA/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "पारकरांनी स्वतःहून राजीनामा दिलेला : वैभव नाईक",
-      "link": "https://www.youtube.com/watch?v=HIgeTFem6TY",
-      "image": "https://i.ytimg.com/vi/HIgeTFem6TY/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
