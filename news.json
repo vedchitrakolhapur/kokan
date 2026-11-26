@@ -1,9 +1,27 @@
 {
-  "updated_at": "26 Nov 2026, 01:30 PM",
+  "updated_at": "26 Nov 2026, 01:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Vengurla News : वेंगुर्ल्यात २७, २८ नोव्हेंबरला तालुकास्तरीय बालवैज्ञानिक प्रदर्शन",
+          "link": "https://kokansadlive.com/kokan/taluka-level-children-s-science-exhibition-to-be-held-in-vengurla-on-november-27-and-28/36345",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36345_pic_20261126.1909.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Sindhudurg News : जिल्हा वार्षिक योजनेतील कामे आणि निधी खर्चाचे नियोजन वेळेत करा",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-collector-trupti-dhodmise-district-annual-plan-fund-utilisation/36346",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36346_pic_20261126.1912.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "कासार्डे  विद्यालयात शालेय विज्ञान प्रदर्शन संपन्न",
+          "link": "https://kokansadlive.com/kokan/kasarde-school-science-exhibition-concludes/36344",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36344_pic_20261126.1904.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Devgad News : पंचायत समिती देवगड येथे संविधान दिन उत्साहात साजरा",
           "link": "https://kokansadlive.com/kokan/constitution-day-2026-celebrated-enthusiasm-at-panchayat-samiti-devgad/36343",
@@ -164,24 +182,6 @@
           "title": "Nilesh Rane : आवळेगाव-कुपवडे रस्त्याचे साडेचार कोटींच्या निधीतून भूमिपूजन",
           "link": "https://kokansadlive.com/kokan/nilesh-rane-4-5-crore-awalegaon-kupawade-road-project-kudal/36314",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36314_pic_20261126.1511.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Nilesh Rane : नारायण राणे यांच्या कार्यकाळातील कामांना आता गती",
-          "link": "https://kokansadlive.com/kokan/nilesh-rane-mithagar-dam-project-ghotge-sindhudurg/36313",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36313_pic_20261126.1503.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Accident News : दुचाकीस्वाराचे वृद्धाला धडक देऊन पलायन",
-          "link": "https://kokansadlive.com/kokan/two-wheeler-rider-hits-elderly-man-and-flees/36312",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36312_pic_20261126.1413.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Malvan Sindhudurg Fort : सिंधुदुर्गच्या ऐतिहासिक किल्ल्यावर संविधानाचा जागर",
-          "link": "https://kokansadlive.com/kokan/malvan-sindhudurg-fort-constitution-awareness-on-historic-fort/36310",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36310_pic_20261126.1348.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "जागर संविधानाचा | माणगाव हायस्कूलची जनजागृती रॅली | Constitution Awareness Rally",
+      "link": "https://www.youtube.com/watch?v=-zYaXC7TaLA",
+      "image": "https://i.ytimg.com/vi/-zYaXC7TaLA/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "माजगावच्या स्वयंभू महादेवची जत्रा | जत्रेसाठी हजारो भाविकांची मांदियाळी",
       "link": "https://www.youtube.com/watch?v=hcjUu_KT7Ik",
       "image": "https://i.ytimg.com/vi/hcjUu_KT7Ik/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "राज्यावरील दुष्काळाचे सावट दूर व्हावे | विशाल परब यांचे देवी सातेरी चरणी साकडे  Vishal Parab",
       "link": "https://www.youtube.com/watch?v=CpvNSnIWfj4",
       "image": "https://i.ytimg.com/vi/CpvNSnIWfj4/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "श्री दीर्बादेवी रामेश्वरचा त्रिपुरारी पौर्णिमा जत्रोत्सव दिमाखात | Deerbadevi Rameshwar",
-      "link": "https://www.youtube.com/watch?v=vXPlHVjC8vY",
-      "image": "https://i.ytimg.com/vi/vXPlHVjC8vY/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
