@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 08:15 AM",
+  "updated_at": "26 Nov 2026, 08:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Malvan Sindhudurg Fort : सिंधुदुर्गच्या ऐतिहासिक किल्ल्यावर संविधानाचा जागर",
+          "link": "https://kokansadlive.com/kokan/malvan-sindhudurg-fort-constitution-awareness-on-historic-fort/36310",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36310_pic_20261126.1348.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Eurasian Scops Owl in Amboli : आंबोलीत प्रथमच अत्यंत दुर्मिळ 'युरेशियन स्कॉप्स घुबडा'ची नोंद",
           "link": "https://kokansadlive.com/kokan/eurasian-scops-owl-spotted-first-time-amboli-sindhudurg/36309",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : ठाकरे शिवसेनेचे भजन आंदोलन",
           "link": "https://kokansadlive.com/kokan/thackeray-shiv-sena-s-bhajan-movement/36268",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36268_pic_20261125.1509.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Sawantwadi News : आमदार केसरकर विकासपुरुष ; त्यांचा मला अभिमान",
-          "link": "https://kokansadlive.com/kokan/statement-by-shiv-sena-district-chief-sanju-parab/36267",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36267_pic_20261125.1459.webp",
           "date": "November 25, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "सौरभ दास यांच्या अडचणीत वाढ; केंद्र सरकारकडून 'लूक-आउट' नोटीस जारी, पासपोर्टमधील त्रुटींवर मागितले स्पष्टीकरण",
+          "link": "https://kokansadlive.com/crime/saurabh-das-look-out-notice-passport-birthplace-discrepancy/36311",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36311_pic_20261126.1359.webp",
+          "date": "13:49"
+        },
+        {
           "title": "Sawantwadi News : सख्ख्या भावांच्या वादाचे पर्यवसन रक्तरंजित हाणामारीत",
           "link": "https://kokansadlive.com/crime/complaints-filed-against-each-other-at-the-sawantwadi-police-station/36295",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36295_pic_20261126.1027.webp",
@@ -437,12 +443,6 @@
           "link": "https://kokansadlive.com/crime/sakharpa-female-foeticide-case-doctor-husband-arrested/36244",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36244_pic_20261124.1818.webp",
           "date": "Nov 24"
-        },
-        {
-          "title": "अवैध गोवा दारु विक्री प्रकरणी कणकवलीत एकावर कारवाई",
-          "link": "https://kokansadlive.com/crime/illegal-goa-liquor-sale-case-one-action-in-kankavli/36211",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36211_pic_20261123.2038.webp",
-          "date": "Nov 23"
         }
       ]
     },
