@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 05:00 AM",
+  "updated_at": "26 Nov 2026, 05:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News : माजी शिक्षिका स्वाती ढोके यांचे निधन",
+          "link": "https://kokansadlive.com/kokan/devgad-news-former-teacher-swati-dhoke-passes-away/36296",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36296_pic_20261126.1040.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "नेरूर देसाईवाडीत विहिरीत पडून महिलेचा मृत्यू",
           "link": "https://kokansadlive.com/kokan/nerur-desaiwadi-woman-dies-after-falling-into-well/36294",
@@ -176,12 +182,6 @@
           "title": "Devgad News : आरेफाटा परिसरात आगीत आंबा बागायतीचे लाखोंचे नुकसान",
           "link": "https://kokansadlive.com/kokan/mango-orchards-worth-lakhs-destroyed-in-a-fire-in-the-arefata-area/36255",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36255_pic_20261125.1112.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Vengurla News : म्हापणमध्ये त्रिपुरारी पौर्णिमेचा उत्साह",
-          "link": "https://kokansadlive.com/kokan/vengurla-news-tripurari-pournima-celebration-in-mhapan/36254",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36254_pic_20261125.1102.webp",
           "date": "November 25, 2026"
         }
       ]
