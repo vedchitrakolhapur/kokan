@@ -1,9 +1,27 @@
 {
-  "updated_at": "26 Nov 2026, 10:30 AM",
+  "updated_at": "26 Nov 2026, 10:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "मराठा सेवा संघ, रत्नागिरी जिल्हा कक्षाची पुनर्स्थापना",
+          "link": "https://kokansadlive.com/kokan/re-establishment-of-the-ratnagiri-district-chapter-of-maratha-seva-sangh/36325",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36325_pic_20261126.1614.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "लोटे येथे ‘श्रमसंवाद’ कार्यक्रमाचे आयोजन",
+          "link": "https://kokansadlive.com/kokan/shram-samvad-labour-dialogue-event-organized-at-lote/36323",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36323_pic_20261126.1608.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Chiplun News : प्रा. संगीता जोशी वसंत स्मृती आदर्श शिक्षक पुरस्काराने सन्मानित",
+          "link": "https://kokansadlive.com/kokan/chiplun-news-prof-sangeeta-joshi-honored-with-vasant-smruti-adarsh-shikshak-award/36322",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36322_pic_20261126.1605.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "कोळकेवाडी येथील प्रयोगभूमीत रंगला कला-क्रीडा उत्सव",
           "link": "https://kokansadlive.com/kokan/kolakewadi-experimental-field-hosts-art-sports-festival/36321",
@@ -165,24 +183,6 @@
           "link": "https://kokansadlive.com/kokan/light-rain-showers-in-vetal-bambarde-area-of-kudal/36289",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36289_pic_20261125.1921.webp",
           "date": "November 25, 2026"
-        },
-        {
-          "title": "दोडामार्ग नगरपंचायतीच्या वाढीव कामावर तिसऱ्यांदा नगरसेवकांचा हातोडा",
-          "link": "https://kokansadlive.com/kokan/dodamarg-nagarpanchayat-extra-work-contractor-stop-work-order-councillors-protest/36288",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36288_pic_20261125.1917.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "दहा दिवसांत दोडामार्ग-विजघर रस्त्याचे काम सुरू करा",
-          "link": "https://kokansadlive.com/kokan/vijghar-tilari-road-work-delay-sandesh-vark-protest-warning/36287",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36287_pic_20261125.1909.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Dr. Apoorva Basur : मुख्य कार्यकारी अधिकारी डॉ. अपूर्वा बासूर यांची दोडामार्ग केंद्रशाळा नं. १ ला भेट",
-          "link": "https://kokansadlive.com/kokan/dr-apoorva-basur-dodamarg-school-visit-spruha-dalvi-speech/36286",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36286_pic_20261125.1859.webp",
-          "date": "November 25, 2026"
         }
       ]
     },
@@ -320,6 +320,12 @@
       "name": "महाराष्ट्र",
       "items": [
         {
+          "title": "Sharad Pawar : शरद पवार ब्रीच कँडी रुग्णालयात दाखल; सुप्रिया सुळे म्हणाल्या...",
+          "link": "https://kokansadlive.com/maharashtra/sharad-pawar-hospitalised-mumbai-dehydration-supriya-sule-health-update/36324",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36324_pic_20261126.1610.webp",
+          "date": "15:56"
+        },
+        {
           "title": "Tripuri Purnima Significance : त्रिपुरारीच्या रात्री सातेरीचा जागर का ?",
           "link": "https://kokansadlive.com/maharashtra/tripuri-purnima-significance-tripurari-purnima-konkan-sateri-jatra/36214",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36214_pic_20261123.2115.webp",
@@ -372,12 +378,6 @@
           "link": "https://kokansadlive.com/maharashtra/mlas-cm-pending-issues-of-teachers-including-old-pension/36017",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36017_pic_20261118.1348.webp",
           "date": "Nov 18"
-        },
-        {
-          "title": "Sindhudurg Navi Mumbai Flight Service : चिपी–नवी मुंबई विमानसेवा सुरू",
-          "link": "https://kokansadlive.com/maharashtra/sindhudurg-chipi-navi-mumbai-flight-service-nitesh-rane-deepak-kapoor/35987",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35987_pic_20261117.1655.webp",
-          "date": "Nov 17"
         }
       ]
     },
