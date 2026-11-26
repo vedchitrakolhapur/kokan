@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 05:45 AM",
+  "updated_at": "26 Nov 2026, 06:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg News : दक्षिण कोकणच्या पंढरीत भाविकांचा सागर",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-news-south-konkan-pandhari-sees-sea-of-devotees/36299",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36299_pic_20261126.1119.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Kudal News : माणगाव हायस्कूलची संविधान जनजागृती रॅली",
           "link": "https://kokansadlive.com/kokan/mangaon-high-school-s-constitution-awareness-rally/36298",
@@ -176,12 +182,6 @@
           "title": "Kudal News : जिल्हा परिषदेत लोकांच्या प्रश्नांवर एकमत नाही",
           "link": "https://kokansadlive.com/kokan/there-is-no-consensus-on-people-s-issues-within-the-zilla-parishad/36258",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36258_pic_20261125.1238.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Devgad News : देवगडमध्ये संजय गांधी योजनेचे ४१ प्रस्ताव मंजूर",
-          "link": "https://kokansadlive.com/kokan/devgad-sanjay-gandhi-yojana-41-proposals-approved/36257",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36257_pic_20261125.1209.webp",
           "date": "November 25, 2026"
         }
       ]
