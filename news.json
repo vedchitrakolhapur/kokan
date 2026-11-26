@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 08:30 AM",
+  "updated_at": "26 Nov 2026, 08:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Accident News : दुचाकीस्वाराचे वृद्धाला धडक देऊन पलायन",
+          "link": "https://kokansadlive.com/kokan/two-wheeler-rider-hits-elderly-man-and-flees/36312",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36312_pic_20261126.1413.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Malvan Sindhudurg Fort : सिंधुदुर्गच्या ऐतिहासिक किल्ल्यावर संविधानाचा जागर",
           "link": "https://kokansadlive.com/kokan/malvan-sindhudurg-fort-constitution-awareness-on-historic-fort/36310",
@@ -176,12 +182,6 @@
           "title": "हिवाळी अधिवेशनात गिरणी कामगारांचा मोर्चा गर्मी वाढवणार",
           "link": "https://kokansadlive.com/kokan/winter-session-mill-workers-protest-to-heat-up/36271",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36271_pic_20261125.1552.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Sindhudurg News : ठाकरे शिवसेनेचे भजन आंदोलन",
-          "link": "https://kokansadlive.com/kokan/thackeray-shiv-sena-s-bhajan-movement/36268",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36268_pic_20261125.1509.webp",
           "date": "November 25, 2026"
         }
       ]
