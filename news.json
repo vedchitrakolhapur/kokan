@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 12:30 PM",
+  "updated_at": "26 Nov 2026, 12:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Farmer ID Registration in Sindhudurg : कृषी योजनांचा लाभ घेण्यासाठी फार्मर आयडी अनिवार्य",
+          "link": "https://kokansadlive.com/kokan/farmer-id-registration-mandatory-agriculture-schemes-sindhudurg/36337",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36337_pic_20261126.1803.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "वैभववाडी नगरपंचायतीत संविधान दिन उत्साहात",
           "link": "https://kokansadlive.com/kokan/vaibhavwadi-nagar-panchayat-constitution-day-celebration-2026/36336",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : पावसाच्या थेंबांतून औद्योगिक जलसुरक्षेचा नवा अध्याय",
           "link": "https://kokansadlive.com/kokan/a-new-chapter-in-industrial-water-security-through-raindrops/36303",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36303_pic_20261126.1208.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Sindhudurg News : शिक्षकांच्या प्रलंबित प्रश्नांना न्याय मिळणार ?",
-          "link": "https://kokansadlive.com/kokan/mla-dnyaneshwar-mhatre-to-visit-sindhudurg-tomorrow/36302",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36302_pic_20261126.1154.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "माजगावच्या स्वयंभू महादेवची जत्रा | जत्रेसाठी हजारो भाविकांची मांदियाळी",
+      "link": "https://www.youtube.com/watch?v=hcjUu_KT7Ik",
+      "image": "https://i.ytimg.com/vi/hcjUu_KT7Ik/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "सर्वसामान्यांच्या अतिक्रमणांवर कारवाई, श्रीमंतांच्या कधी ? | नागरिकांचा संतप्त सवाल",
       "link": "https://www.youtube.com/watch?v=deEfnAI8uF0",
       "image": "https://i.ytimg.com/vi/deEfnAI8uF0/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "श्री दीर्बादेवी रामेश्वरचा त्रिपुरारी पौर्णिमा जत्रोत्सव दिमाखात | Deerbadevi Rameshwar",
       "link": "https://www.youtube.com/watch?v=vXPlHVjC8vY",
       "image": "https://i.ytimg.com/vi/vXPlHVjC8vY/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "त्रिपुरी पौर्णिमेनिमित्त पालकमंत्री नितेश राणेंनी घेतले श्री स्वयंभूचे दर्शन | Minister Nitesh Rane",
-      "link": "https://www.youtube.com/watch?v=J88hn9dqxxA",
-      "image": "https://i.ytimg.com/vi/J88hn9dqxxA/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
