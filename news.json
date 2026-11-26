@@ -1,9 +1,21 @@
 {
-  "updated_at": "26 Nov 2026, 01:45 PM",
+  "updated_at": "26 Nov 2026, 02:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg News: जिल्हाधिकारी तृप्ती धोडमिसे यांची दिर्बादेवी मंदिराला भेट",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-news-collector-trupti-dhodmise-visits-dirbadevi-temple/36348",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36348_pic_20261126.1927.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Dodamarg Elephant Issue : सिंधुदुर्गातील हत्ती प्रश्न आता दिल्लीच्या दरबारात",
+          "link": "https://kokansadlive.com/kokan/meeting-chaired-by-prime-minister-narendra-modi-on-december-21/36347",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36347_pic_20261126.1921.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Vengurla News : वेंगुर्ल्यात २७, २८ नोव्हेंबरला तालुकास्तरीय बालवैज्ञानिक प्रदर्शन",
           "link": "https://kokansadlive.com/kokan/taluka-level-children-s-science-exhibition-to-be-held-in-vengurla-on-november-27-and-28/36345",
@@ -170,18 +182,6 @@
           "title": "नवनियुक्त पदाधिकाऱ्यांचा जिल्हाप्रमुख वैभव नाईक यांच्या हस्ते सत्कार",
           "link": "https://kokansadlive.com/kokan/shiv-sena-ubt-new-office-bearers-appointments-sawantwadi/36316",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36316_pic_20261126.1531.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Sindhudurg Teachers Issues : सिंधुदुर्गातील शिक्षकांच्या प्रलंबित प्रश्नांसाठी बैठकीचे आयोजन",
-          "link": "https://kokansadlive.com/kokan/sindhudurg-teachers-issues-dnyaneshwar-mhatre-meeting/36315",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36315_pic_20261126.1522.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Nilesh Rane : आवळेगाव-कुपवडे रस्त्याचे साडेचार कोटींच्या निधीतून भूमिपूजन",
-          "link": "https://kokansadlive.com/kokan/nilesh-rane-4-5-crore-awalegaon-kupawade-road-project-kudal/36314",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36314_pic_20261126.1511.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "माणगाव खोऱ्यात दत्ता सामंतांचा झंझावती दौरा | निळेली पशुधन संशोधन केंद्राला 'सप्राईज व्हिजिट'",
+      "link": "https://www.youtube.com/watch?v=F-F40L5pCcI",
+      "image": "https://i.ytimg.com/vi/F-F40L5pCcI/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "जागर संविधानाचा | माणगाव हायस्कूलची जनजागृती रॅली | Constitution Awareness Rally",
       "link": "https://www.youtube.com/watch?v=-zYaXC7TaLA",
       "image": "https://i.ytimg.com/vi/-zYaXC7TaLA/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "संजू परब पुढील वेळी दर्शनाला येताना आमदार म्हणून यावेत | मातोंडच्या सातेरीला साकडं | Sanju Parab",
       "link": "https://www.youtube.com/watch?v=nPvADjzBrTQ",
       "image": "https://i.ytimg.com/vi/nPvADjzBrTQ/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "राज्यावरील दुष्काळाचे सावट दूर व्हावे | विशाल परब यांचे देवी सातेरी चरणी साकडे  Vishal Parab",
-      "link": "https://www.youtube.com/watch?v=CpvNSnIWfj4",
-      "image": "https://i.ytimg.com/vi/CpvNSnIWfj4/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
