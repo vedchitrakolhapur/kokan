@@ -1,9 +1,21 @@
 {
-  "updated_at": "26 Nov 2026, 07:30 AM",
+  "updated_at": "26 Nov 2026, 07:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "देवगडात २७ नोव्हेंबरपासून ५४ वे तालुकास्तरीय विज्ञान प्रदर्शन",
+          "link": "https://kokansadlive.com/kokan/54th-taluka-level-science-exhibition-to-be-held-in-devgad-from-november-27/36307",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36307_pic_20261126.1310.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Malvan News : गड-किल्ले स्वच्छता व संवर्धन अभियानाचा लोकार्पण सोहळा",
+          "link": "https://kokansadlive.com/kokan/inauguration-ceremony-of-the-fort-cleaning-and-conservation-campaign/36306",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36306_pic_20261126.1305.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Sawantwadi News : शहराच्या हद्दीवरील अतिक्रमणांवर न.प.चा 'हातोडा '",
           "link": "https://kokansadlive.com/kokan/encroachment-removal-campaign-by-order-of-the-principal/36305",
@@ -171,18 +183,6 @@
           "link": "https://kokansadlive.com/kokan/a-pledge-for-an-addiction-free-youth/36266",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36266_pic_20261125.1419.webp",
           "date": "November 25, 2026"
-        },
-        {
-          "title": "Sawantwadi News : सोनुर्लीच्या दरबारी जपली सावंतवाडीची संस्कृती",
-          "link": "https://kokansadlive.com/kokan/the-culture-of-sawantwadi-has-been-preserved-at-the-court-of-sonurli/36265",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36265_pic_20261125.1410.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Sawantwadi News : नाला बंदिस्त करण्याच्या विकासकामाचे भूमिपूजन",
-          "link": "https://kokansadlive.com/kokan/sawantwadi-news-foundation-stone-laid-for-drain-confinement-development-work/36264",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36264_pic_20261125.1402.webp",
-          "date": "November 25, 2026"
         }
       ]
     },
@@ -255,6 +255,12 @@
       "name": "देश-विदेश",
       "items": [
         {
+          "title": "व्हॉट्सॲपचे नवे भन्नाट फिचर! आता मॅसेजही करता येणार शेड्युल, जाणून घ्या सोपी पद्धत",
+          "link": "https://kokansadlive.com/national-international/whatsapp-schedule-messages-feature-how-to-use/36308",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36308_pic_20261126.1312.webp",
+          "date": "12:56"
+        },
+        {
           "title": "Smartphone Security Tips : फोन हॅक कसा होतो ?",
           "link": "https://kokansadlive.com/national-international/smartphone-hacking-cyber-security-tips-protect-personal-data/36293",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36293_pic_20261125.2004.webp",
@@ -307,12 +313,6 @@
           "link": "https://kokansadlive.com/national-international/supreme-court-centre-response-consanguineous-marriages-india/36166",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36166_pic_20261123.1301.webp",
           "date": "Nov 23"
-        },
-        {
-          "title": "Lutru Mahadev Temple : देवाला चक्क दारू आणि सिगारेटचा नैवेद्य?",
-          "link": "https://kokansadlive.com/national-international/lutru-mahadev-temple-cigarette-offering-lord-shiva-unique-temple-ritual/36141",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36141_pic_20261121.2123.webp",
-          "date": "Nov 21"
         }
       ]
     },
