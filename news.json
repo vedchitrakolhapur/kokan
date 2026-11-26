@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 04:00 PM",
+  "updated_at": "26 Nov 2026, 04:15 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "उपोषणकर्ते राजाराम खोर्जुवेकर यांची प्रकृती खालावली",
+          "link": "https://kokansadlive.com/kokan/fasting-activist-rajaram-khorjuvekar-health-deteriorates/36355",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36355_pic_20261126.2131.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "युवकांनी व्यसनमुक्त भारताच्या निर्मितीसाठी पुढाकार घ्यावा",
           "link": "https://kokansadlive.com/kokan/young-people-should-take-the-initiative-build-an-addiction-free-india/36354",
@@ -176,12 +182,6 @@
           "title": "कोळकेवाडी येथील प्रयोगभूमीत रंगला कला-क्रीडा उत्सव",
           "link": "https://kokansadlive.com/kokan/kolakewadi-experimental-field-hosts-art-sports-festival/36321",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36321_pic_20261126.1559.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "नांदिवसेत ३० डिसेंबरला कालभैरव जन्मोत्सव सोहळा",
-          "link": "https://kokansadlive.com/kokan/nandivase-30-december-kalbhairav-janmotsav-sohala/36320",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36320_pic_20261126.1553.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "नाटळात ‘सवित्र बाल पुरस्कार सोहळा' उत्साहात | पाच गुणवंत बालकांचा गौरव",
+      "link": "https://www.youtube.com/watch?v=qlvXano98n4",
+      "image": "https://i.ytimg.com/vi/qlvXano98n4/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "आवळेगाव-कुपवडे रस्त्यासाठी साडेचार कोटी | भूमिपूजनात निलेश राणेंचा अधिकाऱ्यांना दम",
       "link": "https://www.youtube.com/watch?v=qC2UJM1oi5I",
       "image": "https://i.ytimg.com/vi/qC2UJM1oi5I/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "विशाल परब यांनी घेतले देवीच दर्शन | Vishal Parab",
       "link": "https://www.youtube.com/watch?v=nP0QOWDl6Qc",
       "image": "https://i.ytimg.com/vi/nP0QOWDl6Qc/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 25-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=0w5zgIx-P1Y",
-      "image": "https://i.ytimg.com/vi/0w5zgIx-P1Y/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
