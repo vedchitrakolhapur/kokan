@@ -1,9 +1,21 @@
 {
-  "updated_at": "26 Nov 2026, 11:30 AM",
+  "updated_at": "26 Nov 2026, 11:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Maharashtra State Security Force : राजाराम कांडरकर राज्य सुरक्षा दलात भरती",
+          "link": "https://kokansadlive.com/kokan/rajaram-kandarkar-recruited-into-the-state-security-force/36331",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36331_pic_20261126.1710.webp",
+          "date": "November 26, 2026"
+        },
+        {
+          "title": "Sindhudurg News : गड-किल्ल्यांचे जतन ही सामूहिक जबाबदारी",
+          "link": "https://kokansadlive.com/kokan/the-preservation-of-forts-is-a-collective-responsibility/36330",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36330_pic_20261126.1702.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Vengurla News : वेंगुर्ल्यात शिवसेनेचे संघटनात्मक शक्तिप्रदर्शन",
           "link": "https://kokansadlive.com/kokan/vengurla-news-shiv-sena-organizational-power-show/36329",
@@ -170,18 +182,6 @@
           "title": "Sindhudurg News : दक्षिण कोकणच्या पंढरीत भाविकांचा सागर",
           "link": "https://kokansadlive.com/kokan/sindhudurg-news-south-konkan-pandhari-sees-sea-of-devotees/36299",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36299_pic_20261126.1119.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Kudal News : माणगाव हायस्कूलची संविधान जनजागृती रॅली",
-          "link": "https://kokansadlive.com/kokan/mangaon-high-school-s-constitution-awareness-rally/36298",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36298_pic_20261126.1057.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Sindhudurg News : माणगाव खोऱ्यात दत्ता सामंत यांचा झंजावती दौरा",
-          "link": "https://kokansadlive.com/kokan/datta-samant-s-whirlwind-tour-of-the-mangaon-valley/36297",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36297_pic_20261126.1047.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "सावंतवाडीच्या हद्दीवरील अतिक्रमण हटाव | मुख्याधिकाऱ्यांच्या आदेशाने 12 अतिक्रमणांवर कारवाई",
+      "link": "https://www.youtube.com/watch?v=qaWDRqhX3so",
+      "image": "https://i.ytimg.com/vi/qaWDRqhX3so/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "सोनुर्लीच्या जत्रेत भाविकांनी फेडले नवस | लाखो भाविकांची गर्दी उसळली",
+      "link": "https://www.youtube.com/watch?v=mY63YsDm-ys",
+      "image": "https://i.ytimg.com/vi/mY63YsDm-ys/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "विशाल परब यांनी घेतले देवीच दर्शन | Vishal Parab",
       "link": "https://www.youtube.com/watch?v=nP0QOWDl6Qc",
       "image": "https://i.ytimg.com/vi/nP0QOWDl6Qc/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "बळीराजा दुष्काळाच्या संकटातून बाहेर पडो| विधानसभा अध्यक्ष अ‍ॅड. राहुल नार्वेकरांचे सातेरी चरणी साकडे",
       "link": "https://www.youtube.com/watch?v=MumoqsHltQA",
       "image": "https://i.ytimg.com/vi/MumoqsHltQA/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 24-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=ekgAz-JaoS8",
-      "image": "https://i.ytimg.com/vi/ekgAz-JaoS8/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "'ती' बैठक मंत्रालयात व्हायला हवी होती : वैभव नाईक",
-      "link": "https://www.youtube.com/watch?v=l76kBKNP_hA",
-      "image": "https://i.ytimg.com/vi/l76kBKNP_hA/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
