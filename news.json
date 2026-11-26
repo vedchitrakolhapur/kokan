@@ -1,9 +1,15 @@
 {
-  "updated_at": "26 Nov 2026, 06:30 AM",
+  "updated_at": "26 Nov 2026, 06:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg News : पावसाच्या थेंबांतून औद्योगिक जलसुरक्षेचा नवा अध्याय",
+          "link": "https://kokansadlive.com/kokan/a-new-chapter-in-industrial-water-security-through-raindrops/36303",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36303_pic_20261126.1208.webp",
+          "date": "November 26, 2026"
+        },
         {
           "title": "Sindhudurg News : शिक्षकांच्या प्रलंबित प्रश्नांना न्याय मिळणार ?",
           "link": "https://kokansadlive.com/kokan/mla-dnyaneshwar-mhatre-to-visit-sindhudurg-tomorrow/36302",
@@ -176,12 +182,6 @@
           "title": "Sawantwadi News : नाला बंदिस्त करण्याच्या विकासकामाचे भूमिपूजन",
           "link": "https://kokansadlive.com/kokan/groundbreaking-ceremony-for-the-development-project-to-enclose-the-drain/36262",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36262_pic_20261125.1346.webp",
-          "date": "November 25, 2026"
-        },
-        {
-          "title": "Gold - Silver Price Drop : सोनं-चांदीच्या दरात मोठी घसरण",
-          "link": "https://kokansadlive.com/kokan/significant-drop-in-gold-and-silver-prices/36261",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36261_pic_20261125.1337.webp",
           "date": "November 25, 2026"
         }
       ]
