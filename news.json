@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Nov 2026, 06:00 AM",
+  "updated_at": "27 Nov 2026, 06:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Chiplun Ganja Cultivation : चिपळूणात गांजाची बेकायदा लागवड",
+          "link": "https://kokansadlive.com/crime/illegal-cultivation-of-cannabis-in-chiplun/36360",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36360_pic_20261127.1145.webp",
+          "date": "11:42"
+        },
+        {
           "title": "Devgad Crime News : घरगुती वादातून नाद धनगरवाडीत तिघांना मारहाण",
           "link": "https://kokansadlive.com/crime/devgad-crime-news-domestic-dispute-leads-to-assault-on-three-in-nad-dhangarwadi/36353",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36353_pic_20261126.2035.webp",
@@ -436,12 +442,6 @@
           "title": "Pune Court Firing Incident : पुणे जिल्हा न्यायालयाबाहेर गोळीबार आणि कोयत्याने हल्ला; एक व्यक्ती गंभीर जखमी, दोन बंदुका जप्त",
           "link": "https://kokansadlive.com/crime/pune-court-firing-mandar-kiwale-attack-shivajinagar/36270",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36270_pic_20261125.1545.webp",
-          "date": "Nov 25"
-        },
-        {
-          "title": "वृद्ध महिलेच्या गळ्यातील सोन्याचा हार हिसकावला",
-          "link": "https://kokansadlive.com/crime/chiplun-pedhambe-elderly-woman-gold-chain-robbery/36269",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36269_pic_20261125.1518.webp",
           "date": "Nov 25"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "वेंगुर्ल्यात शिवसेनेचे संघटनात्मक शक्तिप्रदर्शन | जिल्हाप्रमुखांचा 30 नोव्हेंबरपासून 'गावभेट' दौरा",
+      "link": "https://www.youtube.com/watch?v=HxedL4ux0FE",
+      "image": "https://i.ytimg.com/vi/HxedL4ux0FE/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "नाचणीच्या उत्पादनात यंदा मोठी घट | वाढीव नुकसान भरपाईची मागणी | Finger millet",
+      "link": "https://www.youtube.com/watch?v=SaOQOrO4idc",
+      "image": "https://i.ytimg.com/vi/SaOQOrO4idc/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "कोकणसाद Live Prime Time Bulletin | 26-11-26 | Kokansad News",
       "link": "https://www.youtube.com/watch?v=NXO_60wEMxU",
       "image": "https://i.ytimg.com/vi/NXO_60wEMxU/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "सर्वसामान्यांच्या अतिक्रमणांवर कारवाई, श्रीमंतांच्या कधी ? | नागरिकांचा संतप्त सवाल",
       "link": "https://www.youtube.com/watch?v=deEfnAI8uF0",
       "image": "https://i.ytimg.com/vi/deEfnAI8uF0/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सावंतवाडीच्या हद्दीवरील अतिक्रमण हटाव | मुख्याधिकाऱ्यांच्या आदेशाने 12 अतिक्रमणांवर कारवाई",
-      "link": "https://www.youtube.com/watch?v=qaWDRqhX3so",
-      "image": "https://i.ytimg.com/vi/qaWDRqhX3so/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "सोनुर्लीच्या जत्रेत भाविकांनी फेडले नवस | लाखो भाविकांची गर्दी उसळली",
-      "link": "https://www.youtube.com/watch?v=mY63YsDm-ys",
-      "image": "https://i.ytimg.com/vi/mY63YsDm-ys/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
