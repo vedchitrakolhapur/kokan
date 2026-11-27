@@ -1,9 +1,21 @@
 {
-  "updated_at": "27 Nov 2026, 03:45 PM",
+  "updated_at": "27 Nov 2026, 04:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "मातृछत्र हरपलेल्या तर्फे कुटुंबीयांच्या दुःखात आमदार म्हात्रे सहभागी",
+          "link": "https://kokansadlive.com/kokan/mla-mhatre-shares-in-grief-of-the-tarfe-family-lost-their-mother/36412",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36412_pic_20261127.2122.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "साळ खोलपे येथील कुसुम दशरथ भोसले यांचे निधन",
+          "link": "https://kokansadlive.com/kokan/kusum-dashrath-bhosale-passes-away-in-sal-kholpe/36411",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36411_pic_20261127.2118.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Shaktipeeth Highway : 'शक्तिपीठ’ महामार्गाला झोळंबे ग्रामस्थांचा एकमुखी तीव्र विरोध",
           "link": "https://kokansadlive.com/kokan/zolambe-villagers-protest-nagpur-goa-shaktipeeth-highway-129-objections/36410",
@@ -170,18 +182,6 @@
           "title": "Dnyaneshwar Mhatre : शिक्षकांच्या प्रश्नांवर आमदार ज्ञानेश्वर म्हात्रेंचा ॲक्शन मोड",
           "link": "https://kokansadlive.com/kokan/dnyaneshwar-mhatre-sindhudurg-teachers-pending-issues-orders/36381",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36381_pic_20261127.1744.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Dnyanjyoti Savitribai Phule Aadhar Yojana : ज्ञानज्योती सावित्रीबाई फुले आधार योजनेचा लाभ घ्या",
-          "link": "https://kokansadlive.com/kokan/dnyanjyoti-savitribai-phule-aadhar-yojana-benefit/36379",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36379_pic_20261127.1727.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Pandit Deendayal Upadhyay Swayam Yojana : पंडित दीनदयाळ उपाध्याय स्वयंम योजनेचा लाभ घेण्याचे आवाहन",
-          "link": "https://kokansadlive.com/kokan/pandit-deendayal-upadhyay-swayam-yojana-appeal-to-take-advantage/36377",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36377_pic_20261127.1719.webp",
           "date": "November 27, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "कोकणसाद Live Prime Time Bulletin | 27-11-26 | Kokansad News",
+      "link": "https://www.youtube.com/watch?v=iGwjMZ5IwKo",
+      "image": "https://i.ytimg.com/vi/iGwjMZ5IwKo/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "शिक्षकांच्या प्रश्नांवर आमदार म्हात्रे ॲक्शन मोडमध्ये | बैठकीतच 10 ते 12 आदेशांवर निर्णय",
       "link": "https://www.youtube.com/watch?v=vaUeGDFrfZo",
       "image": "https://i.ytimg.com/vi/vaUeGDFrfZo/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "नाचणीच्या उत्पादनात यंदा मोठी घट | वाढीव नुकसान भरपाईची मागणी | Finger millet",
       "link": "https://www.youtube.com/watch?v=SaOQOrO4idc",
       "image": "https://i.ytimg.com/vi/SaOQOrO4idc/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कोकणसाद Live Prime Time Bulletin | 26-11-26 | Kokansad News",
-      "link": "https://www.youtube.com/watch?v=NXO_60wEMxU",
-      "image": "https://i.ytimg.com/vi/NXO_60wEMxU/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
