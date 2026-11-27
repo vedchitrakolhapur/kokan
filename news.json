@@ -1,9 +1,33 @@
 {
-  "updated_at": "27 Nov 2026, 12:00 PM",
+  "updated_at": "27 Nov 2026, 12:45 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Legislative Assembly Speaker Adv. Rahul Narwekar : विधानसभा अध्यक्ष ॲड. राहुल नार्वेकर यांची राजेंद्र मसुरकरांनी घेतली भेट",
+          "link": "https://kokansadlive.com/kokan/legislative-assembly-speaker-adv-rahul-narwekar-meets-rajendra-masurkar/36384",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36384_pic_20261127.1807.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "Vaibhavwadi Education Issues : वैभववाडीतील शिक्षक भरतीसह शैक्षणिक प्रश्न मार्गी लावा",
+          "link": "https://kokansadlive.com/kokan/vaibhavwadi-education-issues-teacher-recruitment-and-educational-questions-resolved/36383",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36383_pic_20261127.1758.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "Malvan News : मालवणमधील मच्छीमार समाजाच्या पाठीशी खंबीरपणे उभे राहू",
+          "link": "https://kokansadlive.com/kokan/malvan-coastal-ngt-order-nilesh-rane-fishermen-residents/36382",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36382_pic_20261127.1757.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "Dnyaneshwar Mhatre : शिक्षकांच्या प्रश्नांवर आमदार ज्ञानेश्वर म्हात्रेंचा ॲक्शन मोड",
+          "link": "https://kokansadlive.com/kokan/dnyaneshwar-mhatre-sindhudurg-teachers-pending-issues-orders/36381",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36381_pic_20261127.1744.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Dnyanjyoti Savitribai Phule Aadhar Yojana : ज्ञानज्योती सावित्रीबाई फुले आधार योजनेचा लाभ घ्या",
           "link": "https://kokansadlive.com/kokan/dnyanjyoti-savitribai-phule-aadhar-yojana-benefit/36379",
@@ -158,30 +182,6 @@
           "title": "Devgad News : पंचायत समिती देवगड येथे संविधान दिन उत्साहात साजरा",
           "link": "https://kokansadlive.com/kokan/constitution-day-2026-celebrated-enthusiasm-at-panchayat-samiti-devgad/36343",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36343_pic_20261126.1900.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Chiplun Water Crisis : स्वच्छ पाण्यासाठी चिपळूणकर आक्रमक",
-          "link": "https://kokansadlive.com/kokan/chiplun-water-crisis-clean-drinking-water-protest-sajid-sarguroh/36342",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36342_pic_20261126.1854.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Vaibhavwadi Child Abuse Case : वैभववाडी तालुक्यातील चिमुरडीवरील अत्याचाराची सखोल चौकशी करावी",
-          "link": "https://kokansadlive.com/kokan/vaibhavwadi-child-abuse-case-sindhudurg-teachers-association/36341",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36341_pic_20261126.1843.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "सावंतवाडी पंचायत समितीत संविधान दिन उत्साहात",
-          "link": "https://kokansadlive.com/kokan/constitution-day-celebrated-with-enthusiasm-at-sawantwadi-panchayat-samiti/36340",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36340_pic_20261126.1826.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "देवगडात ‘असिस्टंट ज्यूट क्राफ्ट प्रॉडक्ट्स मेकर’ प्रशिक्षण वर्ग",
-          "link": "https://kokansadlive.com/kokan/assistant-jute-craft-products-maker-training-class-in-devgad/36339",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36339_pic_20261126.1818.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Kudal car Accident : ओव्हरटेक करताना चालकाचा ताबा सुटला",
+          "link": "https://kokansadlive.com/crime/kudal-car-accident-driver-loses-control-while-overtaking/36380",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36380_pic_20261127.1743.webp",
+          "date": "17:37"
+        },
+        {
           "title": "Mumbai Goa Highway Accident : भोस्ते घाटात दोन कारची समोरासमोर धडक",
           "link": "https://kokansadlive.com/crime/bhoste-ghat-accident-mumbai-goa-highway-two-injured/36363",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36363_pic_20261127.1255.webp",
@@ -436,12 +442,6 @@
           "title": "Patradevi Illegal Liquor Seizure : पत्रादेवी तपासणी नाक्यावर ५७.४० लाखांच्या अवैध दारुसह ट्रक जप्त",
           "link": "https://kokansadlive.com/crime/patradevi-illegal-liquor-seizure-57-40-lakh-truck-seized/36281",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36281_pic_20261125.1740.webp",
-          "date": "Nov 25"
-        },
-        {
-          "title": "Parshuram Ghat Accident : परशुराम घाटात कंटेनरची दुचाकीला जोरदार धडक",
-          "link": "https://kokansadlive.com/crime/parshuram-ghat-accident-biker-killed-container-truck-chiplun/36278",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36278_pic_20261125.1714.webp",
           "date": "Nov 25"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "'ओंकार' दोडामार्गच्या जंगलात परतला | कुटुंबासह रमला | Onkar Elephant",
+      "link": "https://www.youtube.com/watch?v=9ynp5K6LzTk",
+      "image": "https://i.ytimg.com/vi/9ynp5K6LzTk/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "CRZ बाबत हरित लवादाचा निर्णय सकारात्मक | निलेश राणेंकडून महत्वाची माहिती",
+      "link": "https://www.youtube.com/watch?v=ITQqSmmdESY",
+      "image": "https://i.ytimg.com/vi/ITQqSmmdESY/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "संदीप देशपांडेंना नको त्या व्हिडीओ काढायची सवय | आमदार निलेश राणेंनी सुनावलं | Nilesh Rane",
       "link": "https://www.youtube.com/watch?v=c9Pe1SScl8w",
       "image": "https://i.ytimg.com/vi/c9Pe1SScl8w/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "आवळेगाव-कुपवडे रस्त्यासाठी साडेचार कोटी | भूमिपूजनात निलेश राणेंचा अधिकाऱ्यांना दम",
       "link": "https://www.youtube.com/watch?v=qC2UJM1oi5I",
       "image": "https://i.ytimg.com/vi/qC2UJM1oi5I/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "11 अपघात, दुर्गंधीचा त्रास अन् प्रशासनाचे दुर्लक्ष | देवगडकरांचा आता आरपारचा इशारा",
-      "link": "https://www.youtube.com/watch?v=pNAKr1yYqbM",
-      "image": "https://i.ytimg.com/vi/pNAKr1yYqbM/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "आंबा बागायतीला भीषण आग | शेकडो कलमे जळून खाक | FIRE",
-      "link": "https://www.youtube.com/watch?v=YikwcroKVco",
-      "image": "https://i.ytimg.com/vi/YikwcroKVco/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
