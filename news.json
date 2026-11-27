@@ -1,9 +1,15 @@
 {
-  "updated_at": "27 Nov 2026, 11:30 AM",
+  "updated_at": "27 Nov 2026, 11:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News : कुवळे परबवाडीत पाच लाखांच्या पायवाट कामाचे भूमिपूजन",
+          "link": "https://kokansadlive.com/kokan/devgad-news-kuvale-parabwadi-five-lakh-footpath-work-groundbreaking/36376",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36376_pic_20261127.1709.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Dodamarg Road work : नागरिकांची गैरसोय न करता रस्त्याचे काम व्हावे",
           "link": "https://kokansadlive.com/kokan/dodamarg-road-work-citizens-should-not-face-inconvenience-road-work-should-be-done/36373",
@@ -176,12 +182,6 @@
           "title": "वैभववाडी नगरपंचायतीत संविधान दिन उत्साहात",
           "link": "https://kokansadlive.com/kokan/vaibhavwadi-nagar-panchayat-constitution-day-celebration-2026/36336",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36336_pic_20261126.1757.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "संविधानातील मूल्यांचे जतन करण्याची जबाबदारी युवकांनी स्वीकारावी : जयेंद्र रावराणे",
-          "link": "https://kokansadlive.com/kokan/constitution-day-celebration-vaibhavwadi-jayendra-ravarane/36335",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36335_pic_20261126.1751.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,18 @@
   ],
   "youtube": [
     {
+      "title": "संदीप देशपांडेंना नको त्या व्हिडीओ काढायची सवय | आमदार निलेश राणेंनी सुनावलं | Nilesh Rane",
+      "link": "https://www.youtube.com/watch?v=c9Pe1SScl8w",
+      "image": "https://i.ytimg.com/vi/c9Pe1SScl8w/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "युपी - गोवा विधानसभा शिवसेनासुद्धा लढणार | आमदार निलेश राणेंना विश्वास | Nilesh Rane",
+      "link": "https://www.youtube.com/watch?v=CDPq3xXDKz0",
+      "image": "https://i.ytimg.com/vi/CDPq3xXDKz0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "सौरभ दास, दीपके क्रिमिनल माइंडेड लोकं | आमदार निलेश राणेंचा संताप | Nilesh Rane",
       "link": "https://www.youtube.com/watch?v=hJX98qnlWqg",
       "image": "https://i.ytimg.com/vi/hJX98qnlWqg/hqdefault.jpg",
@@ -719,18 +731,6 @@
       "title": "आंबा बागायतीला भीषण आग | शेकडो कलमे जळून खाक | FIRE",
       "link": "https://www.youtube.com/watch?v=YikwcroKVco",
       "image": "https://i.ytimg.com/vi/YikwcroKVco/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "देवगड आनंदवाडी बंदरातील गाळ उपशाच्या कामाला अखेर सुरुवात | Desilting",
-      "link": "https://www.youtube.com/watch?v=pAz77vV1zVU",
-      "image": "https://i.ytimg.com/vi/pAz77vV1zVU/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "अणावमध्ये घुमला हरिनामाचा गजर | दीडशे वर्षांची परंपरा अखंडित | Harinam Saptah",
-      "link": "https://www.youtube.com/watch?v=AQicWpg4-cg",
-      "image": "https://i.ytimg.com/vi/AQicWpg4-cg/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
