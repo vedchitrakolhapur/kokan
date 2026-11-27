@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Nov 2026, 11:00 AM",
+  "updated_at": "27 Nov 2026, 11:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -255,6 +255,12 @@
       "name": "देश-विदेश",
       "items": [
         {
+          "title": "मोदी सरकारचा मोठा निर्णय! मतदारसंघ पुनर्रचना विधेयकाला कॅबिनेटची मंजुरी; राज्यांतील जागा ५० टक्क्यांनी वाढणार?",
+          "link": "https://kokansadlive.com/national-international/delimitation-bill-2026-modi-cabinet-50-percent-seat-increase/36375",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36375_pic_20261127.1647.webp",
+          "date": "16:30"
+        },
+        {
           "title": "Tirupati Balaji Gold Donation : तिरुपती बालाजीच्या चरणी 121 किलो सोन्याचे दागिने दान करण्यामागे 'हे' आहे कारण; किंमत पाहून व्हाल थक्क",
           "link": "https://kokansadlive.com/national-international/tirupati-balaji-temple-121-kg-gold-donation-worth-206-crore/36369",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36369_pic_20261127.1340.webp",
@@ -306,12 +312,6 @@
           "title": "Stock Market Holiday : गुरुनानक जयंतीनिमित्त २४ नोव्हेंबरला शेअर बाजार बंद, बाजार पुन्हा कधी उघडणार? वाचा सविस्तर",
           "link": "https://kokansadlive.com/national-international/stock-market-holiday-november-24-2026-nse-bse-guru-nanak-jayanti/36195",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36195_pic_20261123.1828.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "बिस्लेरीचं पाणी पिण्यासाठी असुरक्षित? चाचणीत नमुने फेल; कंपनीचंही स्पष्टीकरण समोर, वाचा सविस्तर",
-          "link": "https://kokansadlive.com/national-international/bisleri-water-quality-fssai-legal-action-bromate-goa/36171",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36171_pic_20261123.1538.webp",
           "date": "Nov 23"
         }
       ]
@@ -644,6 +644,30 @@
   ],
   "youtube": [
     {
+      "title": "सौरभ दास, दीपके क्रिमिनल माइंडेड लोकं | आमदार निलेश राणेंचा संताप | Nilesh Rane",
+      "link": "https://www.youtube.com/watch?v=hJX98qnlWqg",
+      "image": "https://i.ytimg.com/vi/hJX98qnlWqg/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "...तर काँग्रेसला देशद्रोही जाहीर करा | आमदार निलेश राणे असं का म्हणाले ? | Nilesh Rane | Congress",
+      "link": "https://www.youtube.com/watch?v=bvbYYTkJfwM",
+      "image": "https://i.ytimg.com/vi/bvbYYTkJfwM/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "संजय राऊत सर्किट | आमदार निलेश राणेंची टीका | Nilesh Rane | Sanjay Raut",
+      "link": "https://www.youtube.com/watch?v=lOaJJxP_-_U",
+      "image": "https://i.ytimg.com/vi/lOaJJxP_-_U/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
+      "title": "लोकांनी सांगितला तरच सी वर्ल्ड प्रकल्प होणार | आमदार निलेश राणेंनी केलं स्पष्ट | Nilesh Rane",
+      "link": "https://www.youtube.com/watch?v=dvBOS1GXqSE",
+      "image": "https://i.ytimg.com/vi/dvBOS1GXqSE/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "हत्ती प्रश्न आता थेट पंतप्रधान मोदींच्या  कोर्टात | 21 डिसेंबरला होणार बैठक | Elephant",
       "link": "https://www.youtube.com/watch?v=nNdqqhd89_k",
       "image": "https://i.ytimg.com/vi/nNdqqhd89_k/hqdefault.jpg",
@@ -707,30 +731,6 @@
       "title": "अणावमध्ये घुमला हरिनामाचा गजर | दीडशे वर्षांची परंपरा अखंडित | Harinam Saptah",
       "link": "https://www.youtube.com/watch?v=AQicWpg4-cg",
       "image": "https://i.ytimg.com/vi/AQicWpg4-cg/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "एलिफंट पार्क तिलारीत उभारणीची मागणी | रूपेश राऊळांनी वेधलं लक्ष | Elephant Park",
-      "link": "https://www.youtube.com/watch?v=mnC2DdwB0EY",
-      "image": "https://i.ytimg.com/vi/mnC2DdwB0EY/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "कणकवलीतील 'जलजीवन मिशन'च्या कामांना वेग कधी येणार ? | 51 कामे निधीअभावी अर्धवट | 62 कामे पूर्ण",
-      "link": "https://www.youtube.com/watch?v=bDep8cWghh0",
-      "image": "https://i.ytimg.com/vi/bDep8cWghh0/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "माणगाव खोऱ्यात दत्ता सामंतांचा झंझावती दौरा | निळेली पशुधन संशोधन केंद्राला 'सप्राईज व्हिजिट'",
-      "link": "https://www.youtube.com/watch?v=F-F40L5pCcI",
-      "image": "https://i.ytimg.com/vi/F-F40L5pCcI/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "जागर संविधानाचा | माणगाव हायस्कूलची जनजागृती रॅली | Constitution Awareness Rally",
-      "link": "https://www.youtube.com/watch?v=-zYaXC7TaLA",
-      "image": "https://i.ytimg.com/vi/-zYaXC7TaLA/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
