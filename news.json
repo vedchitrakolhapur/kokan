@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Nov 2026, 07:15 AM",
+  "updated_at": "27 Nov 2026, 07:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "Mumbai Goa Highway Accident : भोस्ते घाटात दोन कारची समोरासमोर धडक",
+          "link": "https://kokansadlive.com/crime/bhoste-ghat-accident-mumbai-goa-highway-two-injured/36363",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36363_pic_20261127.1255.webp",
+          "date": "12:51"
+        },
+        {
           "title": "Chiplun Ganja Cultivation : चिपळूणात गांजाची बेकायदा लागवड",
           "link": "https://kokansadlive.com/crime/illegal-cultivation-of-cannabis-in-chiplun/36360",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36360_pic_20261127.1145.webp",
@@ -436,12 +442,6 @@
           "title": "Parshuram Ghat Accident : परशुराम घाटात कंटेनरची दुचाकीला जोरदार धडक",
           "link": "https://kokansadlive.com/crime/parshuram-ghat-accident-biker-killed-container-truck-chiplun/36278",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36278_pic_20261125.1714.webp",
-          "date": "Nov 25"
-        },
-        {
-          "title": "Pune Court Firing Incident : पुणे जिल्हा न्यायालयाबाहेर गोळीबार आणि कोयत्याने हल्ला; एक व्यक्ती गंभीर जखमी, दोन बंदुका जप्त",
-          "link": "https://kokansadlive.com/crime/pune-court-firing-mandar-kiwale-attack-shivajinagar/36270",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36270_pic_20261125.1545.webp",
           "date": "Nov 25"
         }
       ]
