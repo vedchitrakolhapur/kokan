@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Nov 2026, 07:00 AM",
+  "updated_at": "27 Nov 2026, 07:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "न्यूझीलंडची पहिल्या दिवसअखेर ५ बाद २४६ धावसंख्या; ब्लंडेल-लॅथमची अर्धशतके, भारतीय गोलंदाजांची प्रभावी कामगिरी",
+          "link": "https://kokansadlive.com/sports/india-vs-new-zealand-2nd-test-day-1-score/36362",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36362_pic_20261127.1244.webp",
+          "date": "12:40"
+        },
+        {
           "title": "Powerlifting Championship : पॉवरलिफ्टिंग अजिंक्यपद स्पर्धेत हीना सारंगचे यश",
           "link": "https://kokansadlive.com/sports/powerlifting-championship-heena-sarang-wins/36332",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36332_pic_20261126.1718.webp",
@@ -567,12 +573,6 @@
           "link": "https://kokansadlive.com/sports/50-km-long-run-from-sawantwadi-to-kankavali/36175",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36175_pic_20261123.1604.webp",
           "date": "Nov 23"
-        },
-        {
-          "title": "Sawantwadi News : राष्ट्रीय बुद्धिबळ स्पर्धेत बाळकृष्ण पेडणेकरचे यश",
-          "link": "https://kokansadlive.com/sports/balkrishna-pednekar-s-success-at-the-national-chess-championship/36151",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36151_pic_20261122.1412.webp",
-          "date": "Nov 22"
         }
       ]
     },
