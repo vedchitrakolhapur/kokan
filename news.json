@@ -1,9 +1,15 @@
 {
-  "updated_at": "27 Nov 2026, 09:15 AM",
+  "updated_at": "27 Nov 2026, 09:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Dodamarg Road work : नागरिकांची गैरसोय न करता रस्त्याचे काम व्हावे",
+          "link": "https://kokansadlive.com/kokan/dodamarg-road-work-citizens-should-not-face-inconvenience-road-work-should-be-done/36373",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36373_pic_20261127.1457.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Mission Rabies Sindhudurg : मळगावात दोन रेबीज संशयित कुत्र्यांचा बंदोबस्त",
           "link": "https://kokansadlive.com/kokan/two-dogs-suspected-of-having-rabies-dealt-with-in-malgaon/36371",
@@ -176,12 +182,6 @@
           "title": "संविधानातील मूल्यांचे जतन करण्याची जबाबदारी युवकांनी स्वीकारावी : जयेंद्र रावराणे",
           "link": "https://kokansadlive.com/kokan/constitution-day-celebration-vaibhavwadi-jayendra-ravarane/36335",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36335_pic_20261126.1751.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "‘मुख्यमंत्री ग्रामीण पशुधन योजना २०२६’ मध्ये शेतकऱ्यांनी सहभागी होऊन लाभ घ्यावा",
-          "link": "https://kokansadlive.com/kokan/mukhyamantri-gramin-pashudhan-yojana-2026-subsidy/36334",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36334_pic_20261126.1743.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -450,6 +450,12 @@
       "name": "मनोरंजन",
       "items": [
         {
+          "title": "December 2026 Movie Releases : सलमान, शाहरुख आणि श्रद्धा कपूरचे डिसेंबरमध्ये 'हे' चित्रपट होणार प्रदर्शित; पाहा ११ चित्रपटांची यादी",
+          "link": "https://kokansadlive.com/entertainment/december-2026-movie-releases-salman-shah-rukh-shraddha-kapoor/36374",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36374_pic_20261127.1458.webp",
+          "date": "14:49"
+        },
+        {
           "title": "Netflix वर मनोरंजनाचा धमाका! नोव्हेंबरच्या शेवटच्या आठवड्यात रिलीज होणार ८ चित्रपट आणि वेब सीरिज, पाहा संपूर्ण यादी",
           "link": "https://kokansadlive.com/entertainment/netflix-upcoming-movies-web-series-november-2026/36223",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36223_pic_20261124.1404.webp",
@@ -502,18 +508,18 @@
           "link": "https://kokansadlive.com/entertainment/dashavatar-natya-mahotsav-held-in-devgad/35976",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35976_pic_20261117.1318.webp",
           "date": "Nov 17"
-        },
-        {
-          "title": "'रामायण'ची बॉक्स ऑफिसवर विक्रमी कमाई! ११ दिवसांत ७६० कोटींचा टप्पा पार; 'जवान', 'छावा'चे रेकॉर्ड मोडले",
-          "link": "https://kokansadlive.com/entertainment/ramayana-box-office-collection-11-days-760-crore/35935",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/35935_pic_20261116.1358.webp",
-          "date": "Nov 16"
         }
       ]
     },
     {
       "name": "क्रीडा",
       "items": [
+        {
+          "title": "वेंगुर्ल्यात रंगणार रोटरीचा जिल्हास्तरीय क्रीडा महोत्सव",
+          "link": "https://kokansadlive.com/sports/rotary-district-level-sports-festival-to-be-held-in-vengurla/36372",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36372_pic_20261127.1446.webp",
+          "date": "14:41"
+        },
         {
           "title": "Sindhudurg cross country competition : सिंधुदुर्ग जिल्हास्तरीय क्रॉसकंट्री स्पर्धा १३ डिसेंबरला",
           "link": "https://kokansadlive.com/sports/sindhudurg-district-level-cross-country-competition-on-december-13/36368",
@@ -567,12 +573,6 @@
           "link": "https://kokansadlive.com/sports/chiplun-municipal-council-swimming-competition-2026/36226",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36226_pic_20261124.1519.webp",
           "date": "Nov 24"
-        },
-        {
-          "title": "Sawantwadi News : सावंतवाडीत  २७ डिसेंबरला सिंधू यंग चॅम्पियन्स रन",
-          "link": "https://kokansadlive.com/sports/sawantwadi-news-sindhu-young-champions-run-december-27/36201",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36201_pic_20261123.1910.webp",
-          "date": "Nov 23"
         }
       ]
     },
