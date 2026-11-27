@@ -1,9 +1,15 @@
 {
-  "updated_at": "27 Nov 2026, 05:00 AM",
+  "updated_at": "27 Nov 2026, 05:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Dodamarg News : राष्ट्रपती भवनात दोडामार्गच्या दोन कलावंतांचा गौरव",
+          "link": "https://kokansadlive.com/kokan/dodamarg-news-two-artists-from-dodamarg-honored-at-rashtrapati-bhavan/36357",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36357_pic_20261127.1032.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Sindhudurg Youth Literature Convention : मालवणात  २९ नोव्हेंबरला सिंधुदुर्ग जिल्हा युवा साहित्य संमेलन",
           "link": "https://kokansadlive.com/kokan/sindhudurg-district-youth-literature-festival-to-be-held-in-malvan-on-november-29/36356",
@@ -176,12 +182,6 @@
           "title": "लोटे येथे ‘श्रमसंवाद’ कार्यक्रमाचे आयोजन",
           "link": "https://kokansadlive.com/kokan/shram-samvad-labour-dialogue-event-organized-at-lote/36323",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36323_pic_20261126.1608.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Chiplun News : प्रा. संगीता जोशी वसंत स्मृती आदर्श शिक्षक पुरस्काराने सन्मानित",
-          "link": "https://kokansadlive.com/kokan/chiplun-news-prof-sangeeta-joshi-honored-with-vasant-smruti-adarsh-shikshak-award/36322",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36322_pic_20261126.1605.webp",
           "date": "November 26, 2026"
         }
       ]
