@@ -1,9 +1,21 @@
 {
-  "updated_at": "27 Nov 2026, 12:45 PM",
+  "updated_at": "27 Nov 2026, 01:00 PM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sawantwadi News : भरवस्तीत गव्यांचा कळप",
+          "link": "https://kokansadlive.com/kokan/a-herd-of-cows-in-a-crowded-place/36385",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36385_pic_20261127.1818.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "अ‍ॅट्रॉसिटी कायद्यांतर्गत पीडितांना नुकसानभरपाई तात्काळ द्या",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-collector-orders-immediate-atrocity-act-victim-compensation/36386",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36386_pic_20261127.1824.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Legislative Assembly Speaker Adv. Rahul Narwekar : विधानसभा अध्यक्ष ॲड. राहुल नार्वेकर यांची राजेंद्र मसुरकरांनी घेतली भेट",
           "link": "https://kokansadlive.com/kokan/legislative-assembly-speaker-adv-rahul-narwekar-meets-rajendra-masurkar/36384",
@@ -170,18 +182,6 @@
           "title": "Sindhudurg News : जिल्हा वार्षिक योजनेतील कामे आणि निधी खर्चाचे नियोजन वेळेत करा",
           "link": "https://kokansadlive.com/kokan/sindhudurg-collector-trupti-dhodmise-district-annual-plan-fund-utilisation/36346",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36346_pic_20261126.1912.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "कासार्डे  विद्यालयात शालेय विज्ञान प्रदर्शन संपन्न",
-          "link": "https://kokansadlive.com/kokan/kasarde-school-science-exhibition-concludes/36344",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36344_pic_20261126.1904.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Devgad News : पंचायत समिती देवगड येथे संविधान दिन उत्साहात साजरा",
-          "link": "https://kokansadlive.com/kokan/constitution-day-2026-celebrated-enthusiasm-at-panchayat-samiti-devgad/36343",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36343_pic_20261126.1900.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "तिरोडा-नाणोस पुलाच्या दुरुस्तीसाठी 5/12 ची डेडलाइन | सुधा कवठणकर संतापले",
+      "link": "https://www.youtube.com/watch?v=bsMD7PrJUQM",
+      "image": "https://i.ytimg.com/vi/bsMD7PrJUQM/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "'ओंकार' दोडामार्गच्या जंगलात परतला | कुटुंबासह रमला | Onkar Elephant",
       "link": "https://www.youtube.com/watch?v=9ynp5K6LzTk",
       "image": "https://i.ytimg.com/vi/9ynp5K6LzTk/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "नाटळात ‘सवित्र बाल पुरस्कार सोहळा' उत्साहात | पाच गुणवंत बालकांचा गौरव",
       "link": "https://www.youtube.com/watch?v=qlvXano98n4",
       "image": "https://i.ytimg.com/vi/qlvXano98n4/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "आवळेगाव-कुपवडे रस्त्यासाठी साडेचार कोटी | भूमिपूजनात निलेश राणेंचा अधिकाऱ्यांना दम",
-      "link": "https://www.youtube.com/watch?v=qC2UJM1oi5I",
-      "image": "https://i.ytimg.com/vi/qC2UJM1oi5I/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
