@@ -1,9 +1,15 @@
 {
-  "updated_at": "27 Nov 2026, 07:45 AM",
+  "updated_at": "27 Nov 2026, 08:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Oros Shiv Sena : ओरोस शिवसेनेतील अंतर्गत संघर्ष चव्हाट्यावर?",
+          "link": "https://kokansadlive.com/kokan/oros-shiv-sena-internal-conflict-in-oros-shiv-sena-comes-to-light/36367",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36367_pic_20261127.1318.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Sawantwadi News :  तिरोडा-नाणोस पूलाला काही वर्षांतच तडे",
           "link": "https://kokansadlive.com/kokan/tiroda-nanos-bridge-cracks-within-a-few-years/36365",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : गड-किल्ल्यांचे जतन ही सामूहिक जबाबदारी",
           "link": "https://kokansadlive.com/kokan/the-preservation-of-forts-is-a-collective-responsibility/36330",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36330_pic_20261126.1702.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "Vengurla News : वेंगुर्ल्यात शिवसेनेचे संघटनात्मक शक्तिप्रदर्शन",
-          "link": "https://kokansadlive.com/kokan/vengurla-news-shiv-sena-organizational-power-show/36329",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36329_pic_20261126.1654.webp",
           "date": "November 26, 2026"
         }
       ]
@@ -515,6 +515,18 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "Sindhudurg cross country competition : सिंधुदुर्ग जिल्हास्तरीय क्रॉसकंट्री स्पर्धा १३ डिसेंबरला",
+          "link": "https://kokansadlive.com/sports/sindhudurg-district-level-cross-country-competition-on-december-13/36368",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36368_pic_20261127.1325.webp",
+          "date": "13:21"
+        },
+        {
+          "title": "Ratnagiri HYROX Athletes : प्रसाद देवस्थळी आणि अंकिता प्रभू-पाटकर यांची ऐतिहासिक कामगिरी",
+          "link": "https://kokansadlive.com/sports/ratnagiri-athletes-hyrox-international-prasad-devstali-ankita-prabhu/36366",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36366_pic_20261127.1316.webp",
+          "date": "13:10"
+        },
+        {
           "title": "न्यूझीलंडची पहिल्या दिवसअखेर ५ बाद २४६ धावसंख्या; ब्लंडेल-लॅथमची अर्धशतके, भारतीय गोलंदाजांची प्रभावी कामगिरी",
           "link": "https://kokansadlive.com/sports/india-vs-new-zealand-2nd-test-day-1-score/36362",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36362_pic_20261127.1244.webp",
@@ -560,18 +572,6 @@
           "title": "Sawantwadi News : सावंतवाडीत  २७ डिसेंबरला सिंधू यंग चॅम्पियन्स रन",
           "link": "https://kokansadlive.com/sports/sawantwadi-news-sindhu-young-champions-run-december-27/36201",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36201_pic_20261123.1910.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "सावंतवाडीत २७ डिसेंबरला तिसरी ‘सिंधू यंग चॅम्पियन्स रन’",
-          "link": "https://kokansadlive.com/sports/third-sindhu-young-champions-run-to-be-held-in-sawantwadi-on-december-27/36199",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36199_pic_20261123.1855.webp",
-          "date": "Nov 23"
-        },
-        {
-          "title": "Sawantwadi Kankavli Long Run : सावंतवाडी ते कणकवली 50 किमी लॉन्ग रन",
-          "link": "https://kokansadlive.com/sports/50-km-long-run-from-sawantwadi-to-kankavali/36175",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36175_pic_20261123.1604.webp",
           "date": "Nov 23"
         }
       ]
