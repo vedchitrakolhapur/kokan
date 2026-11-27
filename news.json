@@ -1,9 +1,21 @@
 {
-  "updated_at": "27 Nov 2026, 05:45 AM",
+  "updated_at": "27 Nov 2026, 06:00 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Devgad News :  श्रीराम मोरेश्वर गोगटे प्रशालेत जनजागृती कार्यक्रम",
+          "link": "https://kokansadlive.com/kokan/public-awareness-program-at-shriram-moreshwar-gogate-school/36359",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36359_pic_20261127.1124.webp",
+          "date": "November 27, 2026"
+        },
+        {
+          "title": "Devgad News : विद्यार्थ्यांच्या कल्पकतेला व्यवसायाचे व्यासपीठ",
+          "link": "https://kokansadlive.com/kokan/devgad-news-students-creativity-gets-business-platform/36358",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36358_pic_20261127.1117.webp",
+          "date": "November 27, 2026"
+        },
         {
           "title": "Dodamarg News : राष्ट्रपती भवनात दोडामार्गच्या दोन कलावंतांचा गौरव",
           "link": "https://kokansadlive.com/kokan/dodamarg-news-two-artists-from-dodamarg-honored-at-rashtrapati-bhavan/36357",
@@ -170,18 +182,6 @@
           "title": "आंजणारीत ठाकरे सेनेने महामार्ग रोखला",
           "link": "https://kokansadlive.com/kokan/thackeray-shiva-sena-blocks-highway-in-anjner/36326",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36326_pic_20261126.1619.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "मराठा सेवा संघ, रत्नागिरी जिल्हा कक्षाची पुनर्स्थापना",
-          "link": "https://kokansadlive.com/kokan/re-establishment-of-the-ratnagiri-district-chapter-of-maratha-seva-sangh/36325",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36325_pic_20261126.1614.webp",
-          "date": "November 26, 2026"
-        },
-        {
-          "title": "लोटे येथे ‘श्रमसंवाद’ कार्यक्रमाचे आयोजन",
-          "link": "https://kokansadlive.com/kokan/shram-samvad-labour-dialogue-event-organized-at-lote/36323",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36323_pic_20261126.1608.webp",
           "date": "November 26, 2026"
         }
       ]
