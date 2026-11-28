@@ -1,9 +1,15 @@
 {
-  "updated_at": "28 Nov 2026, 08:15 AM",
+  "updated_at": "28 Nov 2026, 08:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "बाबुराव धुरी यांची शिवसेनेच्या गोवा राज्य संपर्कप्रमुखपदी नियुक्ती",
+          "link": "https://kokansadlive.com/kokan/baburao-dhuri-appointed-as-shivsena-goa-state-liaison-chief/36425",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36425_pic_20261128.1345.webp",
+          "date": "November 28, 2026"
+        },
         {
           "title": "कुडाळ येथील पिंगुळीत ‘योगेश मोबाईल शॉपी’चा भव्य लोन व महाएक्सचेंज मेळावा",
           "link": "https://kokansadlive.com/kokan/yogesh-mobile-shopee-kudal-pinguli-mega-exchange-fair-thar-prizes/36424",
@@ -176,12 +182,6 @@
           "title": "सिंधुदुर्गातील १२८ ग्रंथालयांना आवश्यक ८५ लाखांचा निधी उपलब्ध करुन देणार",
           "link": "https://kokansadlive.com/kokan/sindhudurg-128-libraries-85-lakh-development-fund/36394",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36394_pic_20261127.1906.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Kankavli Youth Death : टेरेसवरून पडून युवकाचा मृत्यू",
-          "link": "https://kokansadlive.com/kokan/youth-dies-after-falling-from-terrace/36393",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36393_pic_20261127.1857.webp",
           "date": "November 27, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "कुटरे नाक्यावरील पिकअप शेडमध्ये वादातून एकाला लाकडी दांडक्याने मारहाण",
+          "link": "https://kokansadlive.com/crime/chiplun-farmer-assault-wooden-stick-kutre-savarde-police-case/36426",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36426_pic_20261128.1352.webp",
+          "date": "13:48"
+        },
+        {
           "title": "Kudal car Accident : ओव्हरटेक करताना चालकाचा ताबा सुटला",
           "link": "https://kokansadlive.com/crime/kudal-car-accident-driver-loses-control-while-overtaking/36380",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36380_pic_20261127.1743.webp",
@@ -436,12 +442,6 @@
           "title": "Kankavli Land Dispute Assault Case : जमिनीच्या वादातून दोन कुटुंबांत हाणामारी",
           "link": "https://kokansadlive.com/crime/kankavli-land-dispute-assault-two-families-cross-complaints/36290",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36290_pic_20261125.1926.webp",
-          "date": "Nov 25"
-        },
-        {
-          "title": "Patradevi Illegal Liquor Seizure : पत्रादेवी तपासणी नाक्यावर ५७.४० लाखांच्या अवैध दारुसह ट्रक जप्त",
-          "link": "https://kokansadlive.com/crime/patradevi-illegal-liquor-seizure-57-40-lakh-truck-seized/36281",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36281_pic_20261125.1740.webp",
           "date": "Nov 25"
         }
       ]
