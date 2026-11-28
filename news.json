@@ -1,9 +1,15 @@
 {
-  "updated_at": "28 Nov 2026, 10:15 AM",
+  "updated_at": "28 Nov 2026, 10:30 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "शिक्षकांच्या प्रलंबित प्रश्नांवर आमदार ज्ञानेश्वर म्हात्रे यांच्याशी चर्चा",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-shivchhatrapati-teachers-association-district-executive-committee/36431",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36431_pic_20261128.1552.webp",
+          "date": "November 28, 2026"
+        },
         {
           "title": "Farmers Drought Relief 2026 : दुष्काळग्रस्त ३८ हजार १५ शेतकऱ्यांच्या खात्यात १९ कोटींची मदत जमा",
           "link": "https://kokansadlive.com/kokan/sindhudurg-farmers-drought-relief-2026-19-crore-38015-farmers/36428",
@@ -176,12 +182,6 @@
           "title": "Science Exhibition 2026 : विज्ञान प्रदर्शनातून देवगडचे विद्यार्थी जिल्हा, राज्यस्तरावर चमकतील",
           "link": "https://kokansadlive.com/kokan/devgad-54th-taluka-level-science-exhibition-mond/36396",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36396_pic_20261127.1916.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Amboli Unseasonal Rain : आंबोलीत मेघगर्जनेसह अवकाळी पाऊस",
-          "link": "https://kokansadlive.com/kokan/amboli-unseasonal-rain-with-thunder/36397",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36397_pic_20261127.1916.webp",
           "date": "November 27, 2026"
         }
       ]
@@ -515,6 +515,12 @@
       "name": "क्रीडा",
       "items": [
         {
+          "title": "५० मीटर भालाफेकीत सिद्धार्थ जठारची सुवर्णभरारी",
+          "link": "https://kokansadlive.com/sports/siddharth-jathar-wins-gold-in-50-meter-javelin-throw/36432",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36432_pic_20261128.1557.webp",
+          "date": "15:54"
+        },
+        {
           "title": "भोसले इंटरनॅशनल स्कूलचा वार्षिक क्रीडा महोत्सव उत्साहात",
           "link": "https://kokansadlive.com/sports/annual-sports-meet-at-bhosale-international-school-held-with-great-enthusiasm/36423",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36423_pic_20261128.1334.webp",
@@ -566,12 +572,6 @@
           "title": "यूएईवर इंडियाचा दणदणीत विजय! ७ विकेट्सनी मात करत 'इंडिया ए'ची 'रायझिंग स्टार्स आशिया कप'च्या उपांत्य फेरीत धडक",
           "link": "https://kokansadlive.com/sports/india-a-beats-uae-7-wickets-rising-stars-asia-cup-semi-final/36241",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36241_pic_20261124.1754.webp",
-          "date": "Nov 24"
-        },
-        {
-          "title": "वैभव सूर्यवंशीचा विश्वविक्रमी पराक्रम! अवघ्या ५२ चेंडूंमध्ये ठोकले द्विशतक; २८ चेंडूंत शतक झळकावत रचला इतिहास",
-          "link": "https://kokansadlive.com/sports/vaibhav-suryavanshi-28-ball-century-rising-stars-asia-cup-record/36237",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36237_pic_20261124.1730.webp",
           "date": "Nov 24"
         }
       ]
@@ -643,6 +643,12 @@
     }
   ],
   "youtube": [
+    {
+      "title": "मोती तलावात अग्निशामक पावडर टाकणाऱ्या कंपनीला दंड | नगरपरिषदेची धडक कारवाई Moti Talav",
+      "link": "https://www.youtube.com/watch?v=WTc_tn6INFg",
+      "image": "https://i.ytimg.com/vi/WTc_tn6INFg/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
     {
       "title": "रामेश्वर प्लाझातील काही व्यावसायिकांना नगरपरिषदेची नोटीस | मोठ्या 'हस्तीं'चा समावेश ? | Sawantwadi",
       "link": "https://www.youtube.com/watch?v=tZxjShJhuEQ",
@@ -725,12 +731,6 @@
       "title": "हत्ती प्रश्न आता थेट पंतप्रधान मोदींच्या  कोर्टात | 21 डिसेंबरला होणार बैठक | Elephant",
       "link": "https://www.youtube.com/watch?v=nNdqqhd89_k",
       "image": "https://i.ytimg.com/vi/nNdqqhd89_k/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "वेंगुर्लेत 5डिसेंबरला शिवसेनेचा भव्य मेळावा|जिल्हा समन्वयकांनी केली गावभेट दौऱ्यामागील भूमिका स्पष्ट",
-      "link": "https://www.youtube.com/watch?v=YJ5VQ2_gpMU",
-      "image": "https://i.ytimg.com/vi/YJ5VQ2_gpMU/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
