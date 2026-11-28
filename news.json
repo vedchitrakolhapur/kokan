@@ -1,9 +1,15 @@
 {
-  "updated_at": "28 Nov 2026, 10:30 AM",
+  "updated_at": "28 Nov 2026, 10:45 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "भालावल येथे संविधान दिनानिमित्त जनजागृती रॅली उत्साहात संपन्न",
+          "link": "https://kokansadlive.com/kokan/bhalaval-constitution-day-awareness-rally-concludes-with-enthusiasm/36433",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36433_pic_20261128.1603.webp",
+          "date": "November 28, 2026"
+        },
         {
           "title": "शिक्षकांच्या प्रलंबित प्रश्नांवर आमदार ज्ञानेश्वर म्हात्रे यांच्याशी चर्चा",
           "link": "https://kokansadlive.com/kokan/sindhudurg-shivchhatrapati-teachers-association-district-executive-committee/36431",
@@ -176,12 +182,6 @@
           "title": "Sawantwadi News : गोरक्षणाच्या नावाखाली शेतकऱ्यांना त्रास देऊ नका",
           "link": "https://kokansadlive.com/kokan/sawantwadi-farmers-protest-cattle-transport-harassment/36398",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36398_pic_20261127.1921.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Science Exhibition 2026 : विज्ञान प्रदर्शनातून देवगडचे विद्यार्थी जिल्हा, राज्यस्तरावर चमकतील",
-          "link": "https://kokansadlive.com/kokan/devgad-54th-taluka-level-science-exhibition-mond/36396",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36396_pic_20261127.1916.webp",
           "date": "November 27, 2026"
         }
       ]
@@ -644,6 +644,12 @@
   ],
   "youtube": [
     {
+      "title": "ओंकारच्या पुनर्मिलनानंतर एलिफंट पार्कचा मुद्दा तापला|वनमंत्र्यांसोबत आज महत्त्वाची बैठक ElephantPark",
+      "link": "https://www.youtube.com/watch?v=EoD2KpXuPw0",
+      "image": "https://i.ytimg.com/vi/EoD2KpXuPw0/hqdefault.jpg",
+      "date": "YouTube Video"
+    },
+    {
       "title": "मोती तलावात अग्निशामक पावडर टाकणाऱ्या कंपनीला दंड | नगरपरिषदेची धडक कारवाई Moti Talav",
       "link": "https://www.youtube.com/watch?v=WTc_tn6INFg",
       "image": "https://i.ytimg.com/vi/WTc_tn6INFg/hqdefault.jpg",
@@ -725,12 +731,6 @@
       "title": "लोकांनी सांगितला तरच सी वर्ल्ड प्रकल्प होणार | आमदार निलेश राणेंनी केलं स्पष्ट | Nilesh Rane",
       "link": "https://www.youtube.com/watch?v=dvBOS1GXqSE",
       "image": "https://i.ytimg.com/vi/dvBOS1GXqSE/hqdefault.jpg",
-      "date": "YouTube Video"
-    },
-    {
-      "title": "हत्ती प्रश्न आता थेट पंतप्रधान मोदींच्या  कोर्टात | 21 डिसेंबरला होणार बैठक | Elephant",
-      "link": "https://www.youtube.com/watch?v=nNdqqhd89_k",
-      "image": "https://i.ytimg.com/vi/nNdqqhd89_k/hqdefault.jpg",
       "date": "YouTube Video"
     }
   ]
