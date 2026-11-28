@@ -1,9 +1,15 @@
 {
-  "updated_at": "28 Nov 2026, 11:00 AM",
+  "updated_at": "28 Nov 2026, 11:15 AM",
   "categories": [
     {
       "name": "ठळक बातम्या",
       "items": [
+        {
+          "title": "Sindhudurg Water Shortage : पालकमंत्री नितेश राणे यांच्या निर्देशानुसार दुष्काळात पाणीपुरवठ्यासाठी नद्यांवर होणार मातीचे बंधारे",
+          "link": "https://kokansadlive.com/kokan/sindhudurg-earthen-check-dams-summer-water-shortage-water-supply/36435",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36435_pic_20261128.1635.webp",
+          "date": "November 28, 2026"
+        },
         {
           "title": "एकपात्री अभिनय स्पर्धेचे सुदन कवठणकर यांच्याहस्ते थाटात उद्घाटन",
           "link": "https://kokansadlive.com/kokan/one-act-play-competition-grand-inauguration-by-sudhan-kavthankar/36434",
@@ -176,12 +182,6 @@
           "title": "Sindhudurg News : पत्रकारांबाबत आक्षेपार्ह वक्तव्य अधिकाऱ्याला भोवले",
           "link": "https://kokansadlive.com/kokan/offensive-remarks-about-journalists-land-official-in-trouble/36399",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36399_pic_20261127.1925.webp",
-          "date": "November 27, 2026"
-        },
-        {
-          "title": "Caste Validity Certificate Online Process : जात पडताळणीची प्रक्रिया पूर्णपणे ऑनलाइन",
-          "link": "https://kokansadlive.com/kokan/maharashtra-caste-validity-certificate-online-process-2026/36400",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/sml_36400_pic_20261127.1929.webp",
           "date": "November 27, 2026"
         }
       ]
@@ -385,6 +385,12 @@
       "name": "क्राईम",
       "items": [
         {
+          "title": "सावंतवाडीत गोवा बनावटीच्या दारूवर पोलिसांची कारवाई",
+          "link": "https://kokansadlive.com/crime/sawantwadi-police-raid-goa-made-liquor/36436",
+          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36436_pic_20261128.1638.webp",
+          "date": "16:36"
+        },
+        {
           "title": "कुटरे नाक्यावरील पिकअप शेडमध्ये वादातून एकाला लाकडी दांडक्याने मारहाण",
           "link": "https://kokansadlive.com/crime/chiplun-farmer-assault-wooden-stick-kutre-savarde-police-case/36426",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36426_pic_20261128.1352.webp",
@@ -436,12 +442,6 @@
           "title": "देवगड किल्ला परिसरात गोवा बनावटीच्या दारूवर पोलिसांचा छापा",
           "link": "https://kokansadlive.com/crime/devgad-goa-liquor-seized-94-bottles-one-arrested/36291",
           "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36291_pic_20261125.1934.webp",
-          "date": "Nov 25"
-        },
-        {
-          "title": "Kankavli Land Dispute Assault Case : जमिनीच्या वादातून दोन कुटुंबांत हाणामारी",
-          "link": "https://kokansadlive.com/crime/kankavli-land-dispute-assault-two-families-cross-complaints/36290",
-          "image": "https://prudent.blr1.digitaloceanspaces.com/kokansad/uploads/article/36290_pic_20261125.1926.webp",
           "date": "Nov 25"
         }
       ]
